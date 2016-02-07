@@ -1,0 +1,69 @@
+Waiting for clients to connect
+Clients connected: [0 of 2]
+Clients connected: [1 of 2]
+Received from client 0: HELLO human
+Sent to player-0: WELCOME human 0
+Clients connected: [2 of 2]
+Waiting for everyone to send their name
+Received from client 1: HELLO human
+Sent to player-1: WELCOME human 1
+Everyone has send their name
+Sent to player-0: NAMES human 0 human 1 999999
+Sent to player-1: NAMES human 0 human 1 999999
+Dealing tiles and calculating who may start
+Sent to player-0: NEW Bc Od Rc Gs P* Ps
+Sent to player-1: NEW O* G* R* Bx Od Ox
+Tiles dealt and 1 may start
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE O* 91 91 G* 91 92 R* 91 93 
+Sent to player-1: NEW Pc Ys Rs
+Sent to player-0: TURN 1 O* 91 91 G* 91 92 R* 91 93
+Sent to player-1: TURN 1 O* 91 91 G* 91 92 R* 91 93
+Player-1 gained 3 points!
+
+Current game situation
+XXX 90  91  92  93  94  
+90  .   .   .   .   .   
+91  .   O*  G*  R*  .   
+92  .   .   .   .   .   
+
+Scores:
+human: 0
+human: 3
+Hands:
+human: [Bc, Od, Rc, Gs, P*, Ps]
+human: [Bx, Od, Ox, Pc, Ys, Rs]
+Tiles in pool: 93
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE P* 91 90 Ps 92 90 
+Sent to player-0: NEW Gd Bc
+Sent to player-0: TURN 0 P* 91 90 Ps 92 90
+Sent to player-1: TURN 0 P* 91 90 Ps 92 90
+Player-0 gained 6 points!
+
+Current game situation
+XXX 89  90  91  92  93  94  
+90  .   .   .   .   .   .   
+91  .   P*  O*  G*  R*  .   
+92  .   Ps  .   .   .   .   
+93  .   .   .   .   .   .   
+
+Scores:
+human: 6
+human: 3
+Hands:
+human: [Bc, Od, Rc, Gs, Gd, Bc]
+human: [Bx, Od, Ox, Pc, Ys, Rs]
+Tiles in pool: 91
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Could not send to player-0: KICK 0 6 lost connection with player
+Sent to player-1: KICK 0 6 lost connection with player
+Closed the connection with player-0
+Could not send to player-1: KICK 1 6 lost connection with player
+Closed the connection with player-1
+clientHandler-1 wakes server

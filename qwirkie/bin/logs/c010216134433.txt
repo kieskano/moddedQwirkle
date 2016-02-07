@@ -1,0 +1,924 @@
+01/02/16_13:44:33: Creating client... 
+01/02/16_13:44:33: Client human created
+01/02/16_13:44:33: Starting client... 
+01/02/16_13:44:33: Client started.
+01/02/16_13:44:33: Sending registration message... 
+01/02/16_13:44:33: OUT: HELLO human
+01/02/16_13:44:33: Registration message send.
+01/02/16_13:44:33: Waiting for welcome message... 
+01/02/16_13:44:33: Welcome message received.
+01/02/16_13:44:33: Waiting for other players to connect...
+01/02/16_13:44:33: IN: WELCOME human 0
+01/02/16_13:44:36: IN: NAMES human 0 SuperSmart 1 999999
+01/02/16_13:44:36: human's score is: 0
+01/02/16_13:44:36: SuperSmart's score is: 0
+01/02/16_13:44:36: Tiles in pool: 96
+
+01/02/16_13:44:36: IN: NEW Oo Px Ox Gc O* Rd
+01/02/16_13:44:36: human's score is: 0
+01/02/16_13:44:36: SuperSmart's score is: 0
+01/02/16_13:45:03: human's score is: 0
+01/02/16_13:45:03: SuperSmart's score is: 0
+01/02/16_13:45:03: human's score is: 0
+01/02/16_13:45:03: SuperSmart's score is: 0
+01/02/16_13:45:03: human's score is: 0
+01/02/16_13:45:03: SuperSmart's score is: 0
+01/02/16_13:45:04: human's score is: 0
+01/02/16_13:45:04: SuperSmart's score is: 0
+01/02/16_13:45:04: human's score is: 0
+01/02/16_13:45:04: SuperSmart's score is: 0
+01/02/16_13:45:04: human's score is: 0
+01/02/16_13:45:04: SuperSmart's score is: 0
+01/02/16_13:45:04: human's score is: 0
+01/02/16_13:45:04: SuperSmart's score is: 0
+01/02/16_13:45:04: human's score is: 0
+01/02/16_13:45:04: SuperSmart's score is: 0
+01/02/16_13:45:04: human's score is: 0
+01/02/16_13:45:04: SuperSmart's score is: 0
+01/02/16_13:45:04: human's score is: 0
+01/02/16_13:45:04: SuperSmart's score is: 0
+01/02/16_13:45:04: human's score is: 0
+01/02/16_13:45:04: SuperSmart's score is: 0
+01/02/16_13:45:05: human's score is: 0
+01/02/16_13:45:05: SuperSmart's score is: 0
+01/02/16_13:45:05: human's score is: 0
+01/02/16_13:45:05: SuperSmart's score is: 0
+01/02/16_13:45:05: human's score is: 0
+01/02/16_13:45:05: SuperSmart's score is: 0
+01/02/16_13:45:05: human's score is: 0
+01/02/16_13:45:05: SuperSmart's score is: 0
+01/02/16_13:45:05: human's score is: 0
+01/02/16_13:45:05: SuperSmart's score is: 0
+01/02/16_13:45:05: human's score is: 0
+01/02/16_13:45:05: SuperSmart's score is: 0
+01/02/16_13:45:05: human's score is: 0
+01/02/16_13:45:05: SuperSmart's score is: 0
+01/02/16_13:45:05: human's score is: 0
+01/02/16_13:45:05: SuperSmart's score is: 0
+01/02/16_13:45:05: human's score is: 0
+01/02/16_13:45:05: SuperSmart's score is: 0
+01/02/16_13:45:06: human's score is: 0
+01/02/16_13:45:06: SuperSmart's score is: 0
+01/02/16_13:45:06: human's score is: 0
+01/02/16_13:45:06: SuperSmart's score is: 0
+01/02/16_13:45:06: human's score is: 0
+01/02/16_13:45:06: SuperSmart's score is: 0
+01/02/16_13:45:06: human's score is: 0
+01/02/16_13:45:06: SuperSmart's score is: 0
+01/02/16_13:45:06: human's score is: 0
+01/02/16_13:45:06: SuperSmart's score is: 0
+01/02/16_13:45:06: human's score is: 0
+01/02/16_13:45:06: SuperSmart's score is: 0
+01/02/16_13:45:06: human's score is: 0
+01/02/16_13:45:06: SuperSmart's score is: 0
+01/02/16_13:45:06: human's score is: 0
+01/02/16_13:45:06: SuperSmart's score is: 0
+01/02/16_13:45:07: human's score is: 0
+01/02/16_13:45:07: SuperSmart's score is: 0
+01/02/16_13:45:07: human's score is: 0
+01/02/16_13:45:07: SuperSmart's score is: 0
+01/02/16_13:45:07: human's score is: 0
+01/02/16_13:45:07: SuperSmart's score is: 0
+01/02/16_13:45:07: human's score is: 0
+01/02/16_13:45:07: SuperSmart's score is: 0
+01/02/16_13:45:07: human's score is: 0
+01/02/16_13:45:07: SuperSmart's score is: 0
+01/02/16_13:45:07: human's score is: 0
+01/02/16_13:45:07: SuperSmart's score is: 0
+01/02/16_13:45:07: human's score is: 0
+01/02/16_13:45:07: SuperSmart's score is: 0
+01/02/16_13:45:07: human's score is: 0
+01/02/16_13:45:07: SuperSmart's score is: 0
+01/02/16_13:45:08: human's score is: 0
+01/02/16_13:45:08: SuperSmart's score is: 0
+01/02/16_13:45:08: human's score is: 0
+01/02/16_13:45:08: SuperSmart's score is: 0
+01/02/16_13:45:08: human's score is: 0
+01/02/16_13:45:08: SuperSmart's score is: 0
+01/02/16_13:45:08: human's score is: 0
+01/02/16_13:45:08: SuperSmart's score is: 0
+01/02/16_13:45:08: human's score is: 0
+01/02/16_13:45:08: SuperSmart's score is: 0
+01/02/16_13:45:09: human's score is: 0
+01/02/16_13:45:09: SuperSmart's score is: 0
+01/02/16_13:45:12: human's score is: 0
+01/02/16_13:45:12: SuperSmart's score is: 0
+01/02/16_13:45:13: human's score is: 0
+01/02/16_13:45:13: SuperSmart's score is: 0
+01/02/16_13:45:13: human's score is: 0
+01/02/16_13:45:13: SuperSmart's score is: 0
+01/02/16_13:45:13: human's score is: 0
+01/02/16_13:45:13: SuperSmart's score is: 0
+01/02/16_13:45:13: human's score is: 0
+01/02/16_13:45:13: SuperSmart's score is: 0
+01/02/16_13:45:14: human's score is: 0
+01/02/16_13:45:14: SuperSmart's score is: 0
+01/02/16_13:45:14: human's score is: 0
+01/02/16_13:45:14: SuperSmart's score is: 0
+01/02/16_13:45:14: human's score is: 0
+01/02/16_13:45:14: SuperSmart's score is: 0
+01/02/16_13:45:14: human's score is: 0
+01/02/16_13:45:14: SuperSmart's score is: 0
+01/02/16_13:45:14: human's score is: 0
+01/02/16_13:45:14: SuperSmart's score is: 0
+01/02/16_13:45:14: human's score is: 0
+01/02/16_13:45:14: SuperSmart's score is: 0
+01/02/16_13:45:14: human's score is: 0
+01/02/16_13:45:14: SuperSmart's score is: 0
+01/02/16_13:45:15: human's score is: 0
+01/02/16_13:45:15: SuperSmart's score is: 0
+01/02/16_13:45:15: human's score is: 0
+01/02/16_13:45:15: SuperSmart's score is: 0
+01/02/16_13:45:15: human's score is: 0
+01/02/16_13:45:15: SuperSmart's score is: 0
+01/02/16_13:45:15: human's score is: 0
+01/02/16_13:45:15: SuperSmart's score is: 0
+01/02/16_13:45:15: human's score is: 0
+01/02/16_13:45:15: SuperSmart's score is: 0
+01/02/16_13:45:15: human's score is: 0
+01/02/16_13:45:15: SuperSmart's score is: 0
+01/02/16_13:45:15: human's score is: 0
+01/02/16_13:45:15: SuperSmart's score is: 0
+01/02/16_13:45:15: human's score is: 0
+01/02/16_13:45:15: SuperSmart's score is: 0
+01/02/16_13:45:16: human's score is: 0
+01/02/16_13:45:16: SuperSmart's score is: 0
+01/02/16_13:45:16: human's score is: 0
+01/02/16_13:45:16: SuperSmart's score is: 0
+01/02/16_13:45:16: human's score is: 0
+01/02/16_13:45:16: SuperSmart's score is: 0
+01/02/16_13:45:16: human's score is: 0
+01/02/16_13:45:16: SuperSmart's score is: 0
+01/02/16_13:45:16: human's score is: 0
+01/02/16_13:45:16: SuperSmart's score is: 0
+01/02/16_13:45:16: human's score is: 0
+01/02/16_13:45:16: SuperSmart's score is: 0
+01/02/16_13:45:16: human's score is: 0
+01/02/16_13:45:16: SuperSmart's score is: 0
+01/02/16_13:45:16: human's score is: 0
+01/02/16_13:45:16: SuperSmart's score is: 0
+01/02/16_13:45:17: human's score is: 0
+01/02/16_13:45:17: SuperSmart's score is: 0
+01/02/16_13:45:17: human's score is: 0
+01/02/16_13:45:17: SuperSmart's score is: 0
+01/02/16_13:45:17: human's score is: 0
+01/02/16_13:45:17: SuperSmart's score is: 0
+01/02/16_13:45:17: human's score is: 0
+01/02/16_13:45:17: SuperSmart's score is: 0
+01/02/16_13:45:17: human's score is: 0
+01/02/16_13:45:17: SuperSmart's score is: 0
+01/02/16_13:45:17: human's score is: 0
+01/02/16_13:45:17: SuperSmart's score is: 0
+01/02/16_13:45:17: human's score is: 0
+01/02/16_13:45:17: SuperSmart's score is: 0
+01/02/16_13:45:17: human's score is: 0
+01/02/16_13:45:17: SuperSmart's score is: 0
+01/02/16_13:45:17: human's score is: 0
+01/02/16_13:45:17: SuperSmart's score is: 0
+01/02/16_13:45:18: human's score is: 0
+01/02/16_13:45:18: SuperSmart's score is: 0
+01/02/16_13:45:18: human's score is: 0
+01/02/16_13:45:18: SuperSmart's score is: 0
+01/02/16_13:45:18: human's score is: 0
+01/02/16_13:45:18: SuperSmart's score is: 0
+01/02/16_13:45:18: human's score is: 0
+01/02/16_13:45:18: SuperSmart's score is: 0
+01/02/16_13:45:22: human's score is: 0
+01/02/16_13:45:22: SuperSmart's score is: 0
+01/02/16_13:45:23: human's score is: 0
+01/02/16_13:45:23: SuperSmart's score is: 0
+01/02/16_13:45:24: human's score is: 0
+01/02/16_13:45:24: SuperSmart's score is: 0
+01/02/16_13:45:24: human's score is: 0
+01/02/16_13:45:24: SuperSmart's score is: 0
+01/02/16_13:45:24: human's score is: 0
+01/02/16_13:45:24: SuperSmart's score is: 0
+01/02/16_13:45:25: human's score is: 0
+01/02/16_13:45:25: SuperSmart's score is: 0
+01/02/16_13:45:25: human's score is: 0
+01/02/16_13:45:25: SuperSmart's score is: 0
+01/02/16_13:45:26: human's score is: 0
+01/02/16_13:45:26: SuperSmart's score is: 0
+01/02/16_13:45:26: human's score is: 0
+01/02/16_13:45:26: SuperSmart's score is: 0
+01/02/16_13:45:26: human's score is: 0
+01/02/16_13:45:26: SuperSmart's score is: 0
+01/02/16_13:45:26: human's score is: 0
+01/02/16_13:45:26: SuperSmart's score is: 0
+01/02/16_13:45:27: human's score is: 0
+01/02/16_13:45:27: SuperSmart's score is: 0
+01/02/16_13:45:27: human's score is: 0
+01/02/16_13:45:27: SuperSmart's score is: 0
+01/02/16_13:45:27: human's score is: 0
+01/02/16_13:45:27: SuperSmart's score is: 0
+01/02/16_13:45:28: human's score is: 0
+01/02/16_13:45:28: SuperSmart's score is: 0
+01/02/16_13:45:28: OUT: MOVE Oo 91 91 Ox 91 92 O* 91 93 
+01/02/16_13:45:28: IN: NEXT 0
+01/02/16_13:45:28: human's score is: 3
+01/02/16_13:45:28: SuperSmart's score is: 0
+01/02/16_13:45:28: Tiles in pool: 93
+
+01/02/16_13:45:28: IN: NEW G* R* Bd
+01/02/16_13:45:28: IN: TURN 0 Oo 91 91 Ox 91 92 O* 91 93
+01/02/16_13:45:28: It is now SuperSmart's turn.
+
+01/02/16_13:45:28: IN: NEXT 1
+01/02/16_13:45:28: human's score is: 3
+01/02/16_13:45:28: SuperSmart's score is: 5
+01/02/16_13:45:28: 
+SuperSmart just made the following move: [[Po, 92, 91], [Pc, 92, 90], [P*, 92, 89]]
+
+01/02/16_13:45:28: IN: TURN 1 Po 92 91 Pc 92 90 P* 92 89
+01/02/16_13:45:28: human's score is: 3
+01/02/16_13:45:28: SuperSmart's score is: 5
+01/02/16_13:45:34: human's score is: 3
+01/02/16_13:45:34: SuperSmart's score is: 5
+01/02/16_13:45:35: human's score is: 3
+01/02/16_13:45:35: SuperSmart's score is: 5
+01/02/16_13:45:35: human's score is: 3
+01/02/16_13:45:35: SuperSmart's score is: 5
+01/02/16_13:45:35: human's score is: 3
+01/02/16_13:45:35: SuperSmart's score is: 5
+01/02/16_13:45:36: human's score is: 3
+01/02/16_13:45:36: SuperSmart's score is: 5
+01/02/16_13:45:36: human's score is: 3
+01/02/16_13:45:36: SuperSmart's score is: 5
+01/02/16_13:45:36: human's score is: 3
+01/02/16_13:45:36: SuperSmart's score is: 5
+01/02/16_13:45:37: human's score is: 3
+01/02/16_13:45:37: SuperSmart's score is: 5
+01/02/16_13:45:37: human's score is: 3
+01/02/16_13:45:37: SuperSmart's score is: 5
+01/02/16_13:45:37: human's score is: 3
+01/02/16_13:45:37: SuperSmart's score is: 5
+01/02/16_13:45:37: human's score is: 3
+01/02/16_13:45:37: SuperSmart's score is: 5
+01/02/16_13:45:37: human's score is: 3
+01/02/16_13:45:37: SuperSmart's score is: 5
+01/02/16_13:45:38: OUT: MOVE Px 92 92 
+01/02/16_13:45:38: IN: NEXT 0
+01/02/16_13:45:38: human's score is: 9
+01/02/16_13:45:38: SuperSmart's score is: 5
+01/02/16_13:45:38: Tiles in pool: 89
+
+01/02/16_13:45:38: IN: NEW Gs
+01/02/16_13:45:38: IN: TURN 0 Px 92 92
+01/02/16_13:45:38: It is now SuperSmart's turn.
+
+01/02/16_13:45:38: IN: NEXT 1
+01/02/16_13:45:38: human's score is: 9
+01/02/16_13:45:38: SuperSmart's score is: 11
+01/02/16_13:45:38: 
+SuperSmart just made the following move: [[Od, 91, 94], [Yd, 90, 94]]
+
+01/02/16_13:45:38: IN: TURN 1 Od 91 94 Yd 90 94
+01/02/16_13:45:38: human's score is: 9
+01/02/16_13:45:38: SuperSmart's score is: 11
+01/02/16_13:45:41: human's score is: 9
+01/02/16_13:45:41: SuperSmart's score is: 11
+01/02/16_13:45:41: human's score is: 9
+01/02/16_13:45:41: SuperSmart's score is: 11
+01/02/16_13:45:41: human's score is: 9
+01/02/16_13:45:41: SuperSmart's score is: 11
+01/02/16_13:45:41: human's score is: 9
+01/02/16_13:45:41: SuperSmart's score is: 11
+01/02/16_13:45:41: human's score is: 9
+01/02/16_13:45:41: SuperSmart's score is: 11
+01/02/16_13:45:42: human's score is: 9
+01/02/16_13:45:42: SuperSmart's score is: 11
+01/02/16_13:45:42: human's score is: 9
+01/02/16_13:45:42: SuperSmart's score is: 11
+01/02/16_13:45:43: human's score is: 9
+01/02/16_13:45:43: SuperSmart's score is: 11
+01/02/16_13:45:43: human's score is: 9
+01/02/16_13:45:43: SuperSmart's score is: 11
+01/02/16_13:45:47: human's score is: 9
+01/02/16_13:45:47: SuperSmart's score is: 11
+01/02/16_13:45:48: human's score is: 9
+01/02/16_13:45:48: SuperSmart's score is: 11
+01/02/16_13:45:48: human's score is: 9
+01/02/16_13:45:48: SuperSmart's score is: 11
+01/02/16_13:45:48: human's score is: 9
+01/02/16_13:45:48: SuperSmart's score is: 11
+01/02/16_13:45:48: human's score is: 9
+01/02/16_13:45:48: SuperSmart's score is: 11
+01/02/16_13:45:49: human's score is: 9
+01/02/16_13:45:49: SuperSmart's score is: 11
+01/02/16_13:45:51: human's score is: 9
+01/02/16_13:45:51: SuperSmart's score is: 11
+01/02/16_13:45:51: human's score is: 9
+01/02/16_13:45:51: SuperSmart's score is: 11
+01/02/16_13:45:51: human's score is: 9
+01/02/16_13:45:51: SuperSmart's score is: 11
+01/02/16_13:45:52: human's score is: 9
+01/02/16_13:45:52: SuperSmart's score is: 11
+01/02/16_13:45:52: human's score is: 9
+01/02/16_13:45:52: SuperSmart's score is: 11
+01/02/16_13:45:52: human's score is: 9
+01/02/16_13:45:52: SuperSmart's score is: 11
+01/02/16_13:45:52: human's score is: 9
+01/02/16_13:45:52: SuperSmart's score is: 11
+01/02/16_13:45:53: human's score is: 9
+01/02/16_13:45:53: SuperSmart's score is: 11
+01/02/16_13:45:53: human's score is: 9
+01/02/16_13:45:53: SuperSmart's score is: 11
+01/02/16_13:45:53: human's score is: 9
+01/02/16_13:45:53: SuperSmart's score is: 11
+01/02/16_13:45:54: human's score is: 9
+01/02/16_13:45:54: SuperSmart's score is: 11
+01/02/16_13:45:54: human's score is: 9
+01/02/16_13:45:54: SuperSmart's score is: 11
+01/02/16_13:45:55: human's score is: 9
+01/02/16_13:45:55: SuperSmart's score is: 11
+01/02/16_13:45:55: OUT: MOVE G* 93 89 Gc 93 90 Gs 93 88 
+01/02/16_13:45:55: IN: NEXT 0
+01/02/16_13:45:55: human's score is: 16
+01/02/16_13:45:55: SuperSmart's score is: 11
+01/02/16_13:45:55: Tiles in pool: 84
+
+01/02/16_13:45:55: IN: NEW Bx Pc Gc
+01/02/16_13:45:55: IN: TURN 0 G* 93 89 Gc 93 90 Gs 93 88
+01/02/16_13:45:55: It is now SuperSmart's turn.
+
+01/02/16_13:45:55: IN: NEXT 1
+01/02/16_13:45:56: human's score is: 16
+01/02/16_13:45:56: SuperSmart's score is: 19
+01/02/16_13:45:56: 
+SuperSmart just made the following move: [[Go, 93, 91], [Yo, 94, 91]]
+
+01/02/16_13:45:56: IN: TURN 1 Go 93 91 Yo 94 91
+01/02/16_13:45:56: human's score is: 16
+01/02/16_13:45:56: SuperSmart's score is: 19
+01/02/16_13:46:05: human's score is: 16
+01/02/16_13:46:05: SuperSmart's score is: 19
+01/02/16_13:46:08: human's score is: 16
+01/02/16_13:46:08: SuperSmart's score is: 19
+01/02/16_13:46:08: human's score is: 16
+01/02/16_13:46:08: SuperSmart's score is: 19
+01/02/16_13:46:11: human's score is: 16
+01/02/16_13:46:11: SuperSmart's score is: 19
+01/02/16_13:46:12: human's score is: 16
+01/02/16_13:46:12: SuperSmart's score is: 19
+01/02/16_13:46:12: human's score is: 16
+01/02/16_13:46:12: SuperSmart's score is: 19
+01/02/16_13:46:12: human's score is: 16
+01/02/16_13:46:12: SuperSmart's score is: 19
+01/02/16_13:46:14: human's score is: 16
+01/02/16_13:46:14: SuperSmart's score is: 19
+01/02/16_13:46:17: human's score is: 16
+01/02/16_13:46:17: SuperSmart's score is: 19
+01/02/16_13:46:19: human's score is: 16
+01/02/16_13:46:19: SuperSmart's score is: 19
+01/02/16_13:46:20: human's score is: 16
+01/02/16_13:46:20: SuperSmart's score is: 19
+01/02/16_13:46:22: human's score is: 16
+01/02/16_13:46:22: SuperSmart's score is: 19
+01/02/16_13:46:22: human's score is: 16
+01/02/16_13:46:22: SuperSmart's score is: 19
+01/02/16_13:46:22: human's score is: 16
+01/02/16_13:46:22: SuperSmart's score is: 19
+01/02/16_13:46:23: human's score is: 16
+01/02/16_13:46:23: SuperSmart's score is: 19
+01/02/16_13:46:23: OUT: MOVE R* 91 89 Rd 91 88 
+01/02/16_13:46:23: IN: NEXT 0
+01/02/16_13:46:23: human's score is: 21
+01/02/16_13:46:23: SuperSmart's score is: 19
+01/02/16_13:46:23: Tiles in pool: 80
+
+01/02/16_13:46:23: IN: NEW Os Rc
+01/02/16_13:46:23: IN: TURN 0 R* 91 89 Rd 91 88
+01/02/16_13:46:23: It is now SuperSmart's turn.
+
+01/02/16_13:46:23: IN: NEXT 1
+01/02/16_13:46:23: human's score is: 21
+01/02/16_13:46:23: SuperSmart's score is: 25
+01/02/16_13:46:23: 
+SuperSmart just made the following move: [[Rc, 91, 87], [Rd, 90, 87], [Rs, 89, 87]]
+
+01/02/16_13:46:23: IN: TURN 1 Rc 91 87 Rd 90 87 Rs 89 87
+01/02/16_13:46:23: human's score is: 21
+01/02/16_13:46:23: SuperSmart's score is: 25
+01/02/16_13:46:25: human's score is: 21
+01/02/16_13:46:25: SuperSmart's score is: 25
+01/02/16_13:46:25: human's score is: 21
+01/02/16_13:46:25: SuperSmart's score is: 25
+01/02/16_13:46:34: human's score is: 21
+01/02/16_13:46:34: SuperSmart's score is: 25
+01/02/16_13:46:35: human's score is: 21
+01/02/16_13:46:35: SuperSmart's score is: 25
+01/02/16_13:46:35: human's score is: 21
+01/02/16_13:46:35: SuperSmart's score is: 25
+01/02/16_13:46:35: human's score is: 21
+01/02/16_13:46:35: SuperSmart's score is: 25
+01/02/16_13:46:36: human's score is: 21
+01/02/16_13:46:36: SuperSmart's score is: 25
+01/02/16_13:46:36: human's score is: 21
+01/02/16_13:46:36: SuperSmart's score is: 25
+01/02/16_13:46:36: human's score is: 21
+01/02/16_13:46:36: SuperSmart's score is: 25
+01/02/16_13:46:36: human's score is: 21
+01/02/16_13:46:36: SuperSmart's score is: 25
+01/02/16_13:46:37: human's score is: 21
+01/02/16_13:46:37: SuperSmart's score is: 25
+01/02/16_13:46:37: human's score is: 21
+01/02/16_13:46:37: SuperSmart's score is: 25
+01/02/16_13:46:38: human's score is: 21
+01/02/16_13:46:38: SuperSmart's score is: 25
+01/02/16_13:46:38: human's score is: 21
+01/02/16_13:46:38: SuperSmart's score is: 25
+01/02/16_13:46:38: human's score is: 21
+01/02/16_13:46:38: SuperSmart's score is: 25
+01/02/16_13:46:39: human's score is: 21
+01/02/16_13:46:39: SuperSmart's score is: 25
+01/02/16_13:46:40: human's score is: 21
+01/02/16_13:46:40: SuperSmart's score is: 25
+01/02/16_13:46:40: human's score is: 21
+01/02/16_13:46:40: SuperSmart's score is: 25
+01/02/16_13:46:40: human's score is: 21
+01/02/16_13:46:40: SuperSmart's score is: 25
+01/02/16_13:46:40: OUT: MOVE Bd 89 94 Bx 89 95 
+01/02/16_13:46:40: IN: NEXT 0
+01/02/16_13:46:40: human's score is: 26
+01/02/16_13:46:40: SuperSmart's score is: 25
+01/02/16_13:46:40: Tiles in pool: 75
+
+01/02/16_13:46:40: IN: NEW Ps Bd
+01/02/16_13:46:40: IN: TURN 0 Bd 89 94 Bx 89 95
+01/02/16_13:46:40: It is now SuperSmart's turn.
+
+01/02/16_13:46:40: IN: NEXT 1
+01/02/16_13:46:41: human's score is: 26
+01/02/16_13:46:41: SuperSmart's score is: 40
+01/02/16_13:46:41: 
+SuperSmart just made the following move: [[Gx, 93, 92], [Gd, 93, 93]]
+
+01/02/16_13:46:41: IN: TURN 1 Gx 93 92 Gd 93 93
+01/02/16_13:46:41: human's score is: 26
+01/02/16_13:46:41: SuperSmart's score is: 40
+01/02/16_13:46:49: human's score is: 26
+01/02/16_13:46:49: SuperSmart's score is: 40
+01/02/16_13:46:49: human's score is: 26
+01/02/16_13:46:49: SuperSmart's score is: 40
+01/02/16_13:46:51: human's score is: 26
+01/02/16_13:46:51: SuperSmart's score is: 40
+01/02/16_13:46:51: human's score is: 26
+01/02/16_13:46:51: SuperSmart's score is: 40
+01/02/16_13:46:52: human's score is: 26
+01/02/16_13:46:52: SuperSmart's score is: 40
+01/02/16_13:46:52: human's score is: 26
+01/02/16_13:46:52: SuperSmart's score is: 40
+01/02/16_13:46:52: human's score is: 26
+01/02/16_13:46:52: SuperSmart's score is: 40
+01/02/16_13:46:52: human's score is: 26
+01/02/16_13:46:52: SuperSmart's score is: 40
+01/02/16_13:46:53: human's score is: 26
+01/02/16_13:46:53: SuperSmart's score is: 40
+01/02/16_13:46:54: human's score is: 26
+01/02/16_13:46:54: SuperSmart's score is: 40
+01/02/16_13:46:54: human's score is: 26
+01/02/16_13:46:54: SuperSmart's score is: 40
+01/02/16_13:46:54: human's score is: 26
+01/02/16_13:46:54: SuperSmart's score is: 40
+01/02/16_13:46:54: human's score is: 26
+01/02/16_13:46:54: SuperSmart's score is: 40
+01/02/16_13:46:54: OUT: SWAP Bd 
+01/02/16_13:46:54: IN: NEXT 0
+01/02/16_13:46:54: human's score is: 26
+01/02/16_13:46:54: SuperSmart's score is: 40
+01/02/16_13:46:54: Tiles in pool: 73
+
+01/02/16_13:46:54: IN: NEW Bc
+01/02/16_13:46:54: human swapped.
+
+01/02/16_13:46:54: IN: TURN 0 empty
+01/02/16_13:46:54: It is now SuperSmart's turn.
+
+01/02/16_13:46:54: IN: NEXT 1
+01/02/16_13:46:54: human's score is: 26
+01/02/16_13:46:54: SuperSmart's score is: 48
+01/02/16_13:46:54: 
+SuperSmart just made the following move: [[Ys, 94, 88], [Y*, 94, 89]]
+
+01/02/16_13:46:54: IN: TURN 1 Ys 94 88 Y* 94 89
+01/02/16_13:46:54: human's score is: 26
+01/02/16_13:46:54: SuperSmart's score is: 48
+01/02/16_13:47:10: human's score is: 26
+01/02/16_13:47:10: SuperSmart's score is: 48
+01/02/16_13:47:10: human's score is: 26
+01/02/16_13:47:10: SuperSmart's score is: 48
+01/02/16_13:47:10: human's score is: 26
+01/02/16_13:47:10: SuperSmart's score is: 48
+01/02/16_13:47:10: human's score is: 26
+01/02/16_13:47:10: SuperSmart's score is: 48
+01/02/16_13:47:11: human's score is: 26
+01/02/16_13:47:11: SuperSmart's score is: 48
+01/02/16_13:47:11: human's score is: 26
+01/02/16_13:47:11: SuperSmart's score is: 48
+01/02/16_13:47:11: human's score is: 26
+01/02/16_13:47:11: SuperSmart's score is: 48
+01/02/16_13:47:12: human's score is: 26
+01/02/16_13:47:12: SuperSmart's score is: 48
+01/02/16_13:47:12: human's score is: 26
+01/02/16_13:47:12: SuperSmart's score is: 48
+01/02/16_13:47:12: human's score is: 26
+01/02/16_13:47:12: SuperSmart's score is: 48
+01/02/16_13:47:12: human's score is: 26
+01/02/16_13:47:12: SuperSmart's score is: 48
+01/02/16_13:47:13: human's score is: 26
+01/02/16_13:47:13: SuperSmart's score is: 48
+01/02/16_13:47:13: human's score is: 26
+01/02/16_13:47:13: SuperSmart's score is: 48
+01/02/16_13:47:13: human's score is: 26
+01/02/16_13:47:13: SuperSmart's score is: 48
+01/02/16_13:47:13: human's score is: 26
+01/02/16_13:47:13: SuperSmart's score is: 48
+01/02/16_13:47:17: human's score is: 26
+01/02/16_13:47:17: SuperSmart's score is: 48
+01/02/16_13:47:18: human's score is: 26
+01/02/16_13:47:18: SuperSmart's score is: 48
+01/02/16_13:47:18: human's score is: 26
+01/02/16_13:47:18: SuperSmart's score is: 48
+01/02/16_13:47:19: human's score is: 26
+01/02/16_13:47:19: SuperSmart's score is: 48
+01/02/16_13:47:19: human's score is: 26
+01/02/16_13:47:19: SuperSmart's score is: 48
+01/02/16_13:47:20: human's score is: 26
+01/02/16_13:47:20: SuperSmart's score is: 48
+01/02/16_13:47:21: human's score is: 26
+01/02/16_13:47:21: SuperSmart's score is: 48
+01/02/16_13:47:21: human's score is: 26
+01/02/16_13:47:21: SuperSmart's score is: 48
+01/02/16_13:47:21: human's score is: 26
+01/02/16_13:47:21: SuperSmart's score is: 48
+01/02/16_13:47:22: human's score is: 26
+01/02/16_13:47:22: SuperSmart's score is: 48
+01/02/16_13:47:23: human's score is: 26
+01/02/16_13:47:23: SuperSmart's score is: 48
+01/02/16_13:47:23: human's score is: 26
+01/02/16_13:47:23: SuperSmart's score is: 48
+01/02/16_13:47:24: OUT: MOVE Bc 89 96 Pc 90 96 Gc 91 96 Rc 92 96 
+01/02/16_13:47:24: IN: NEXT 0
+01/02/16_13:47:24: human's score is: 33
+01/02/16_13:47:24: SuperSmart's score is: 48
+01/02/16_13:47:24: Tiles in pool: 67
+
+01/02/16_13:47:24: IN: NEW Oo Pc Po R*
+01/02/16_13:47:24: IN: TURN 0 Bc 89 96 Pc 90 96 Gc 91 96 Rc 92 96
+01/02/16_13:47:24: It is now SuperSmart's turn.
+
+01/02/16_13:47:24: IN: NEXT 1
+01/02/16_13:47:24: human's score is: 33
+01/02/16_13:47:24: SuperSmart's score is: 54
+01/02/16_13:47:24: 
+SuperSmart just made the following move: [[Bs, 89, 93], [Bd, 88, 93]]
+
+01/02/16_13:47:24: IN: TURN 1 Bs 89 93 Bd 88 93
+01/02/16_13:47:24: human's score is: 33
+01/02/16_13:47:24: SuperSmart's score is: 54
+01/02/16_13:47:28: human's score is: 33
+01/02/16_13:47:28: SuperSmart's score is: 54
+01/02/16_13:47:30: human's score is: 33
+01/02/16_13:47:30: SuperSmart's score is: 54
+01/02/16_13:47:35: human's score is: 33
+01/02/16_13:47:35: SuperSmart's score is: 54
+01/02/16_13:47:36: human's score is: 33
+01/02/16_13:47:36: SuperSmart's score is: 54
+01/02/16_13:47:36: human's score is: 33
+01/02/16_13:47:36: SuperSmart's score is: 54
+01/02/16_13:47:36: human's score is: 33
+01/02/16_13:47:36: SuperSmart's score is: 54
+01/02/16_13:47:36: human's score is: 33
+01/02/16_13:47:36: SuperSmart's score is: 54
+01/02/16_13:47:37: human's score is: 33
+01/02/16_13:47:37: SuperSmart's score is: 54
+01/02/16_13:47:37: human's score is: 33
+01/02/16_13:47:37: SuperSmart's score is: 54
+01/02/16_13:47:37: human's score is: 33
+01/02/16_13:47:37: SuperSmart's score is: 54
+01/02/16_13:47:38: human's score is: 33
+01/02/16_13:47:38: SuperSmart's score is: 54
+01/02/16_13:47:39: human's score is: 33
+01/02/16_13:47:39: SuperSmart's score is: 54
+01/02/16_13:47:39: human's score is: 33
+01/02/16_13:47:39: SuperSmart's score is: 54
+01/02/16_13:47:40: human's score is: 33
+01/02/16_13:47:40: SuperSmart's score is: 54
+01/02/16_13:47:40: human's score is: 33
+01/02/16_13:47:40: SuperSmart's score is: 54
+01/02/16_13:47:40: human's score is: 33
+01/02/16_13:47:40: SuperSmart's score is: 54
+01/02/16_13:47:41: human's score is: 33
+01/02/16_13:47:41: SuperSmart's score is: 54
+01/02/16_13:47:41: human's score is: 33
+01/02/16_13:47:41: SuperSmart's score is: 54
+01/02/16_13:47:41: human's score is: 33
+01/02/16_13:47:41: SuperSmart's score is: 54
+01/02/16_13:47:42: human's score is: 33
+01/02/16_13:47:42: SuperSmart's score is: 54
+01/02/16_13:47:42: human's score is: 33
+01/02/16_13:47:42: SuperSmart's score is: 54
+01/02/16_13:47:42: OUT: MOVE Ps 90 97 Po 90 98 
+01/02/16_13:47:42: IN: NEXT 0
+01/02/16_13:47:42: human's score is: 36
+01/02/16_13:47:42: SuperSmart's score is: 54
+01/02/16_13:47:42: Tiles in pool: 63
+
+01/02/16_13:47:42: IN: NEW Oc Yc
+01/02/16_13:47:42: IN: TURN 0 Ps 90 97 Po 90 98
+01/02/16_13:47:42: It is now SuperSmart's turn.
+
+01/02/16_13:47:42: IN: NEXT 1
+01/02/16_13:47:42: human's score is: 36
+01/02/16_13:47:42: SuperSmart's score is: 60
+01/02/16_13:47:42: 
+SuperSmart just made the following move: [[Ro, 91, 86], [Yo, 92, 86]]
+
+01/02/16_13:47:42: IN: TURN 1 Ro 91 86 Yo 92 86
+01/02/16_13:47:42: human's score is: 36
+01/02/16_13:47:42: SuperSmart's score is: 60
+01/02/16_13:48:02: human's score is: 36
+01/02/16_13:48:02: SuperSmart's score is: 60
+01/02/16_13:48:03: human's score is: 36
+01/02/16_13:48:03: SuperSmart's score is: 60
+01/02/16_13:48:04: human's score is: 36
+01/02/16_13:48:04: SuperSmart's score is: 60
+01/02/16_13:48:04: human's score is: 36
+01/02/16_13:48:04: SuperSmart's score is: 60
+01/02/16_13:48:05: human's score is: 36
+01/02/16_13:48:05: SuperSmart's score is: 60
+01/02/16_13:48:07: human's score is: 36
+01/02/16_13:48:07: SuperSmart's score is: 60
+01/02/16_13:48:07: human's score is: 36
+01/02/16_13:48:07: SuperSmart's score is: 60
+01/02/16_13:48:07: human's score is: 36
+01/02/16_13:48:07: SuperSmart's score is: 60
+01/02/16_13:48:07: human's score is: 36
+01/02/16_13:48:07: SuperSmart's score is: 60
+01/02/16_13:48:08: human's score is: 36
+01/02/16_13:48:08: SuperSmart's score is: 60
+01/02/16_13:48:08: human's score is: 36
+01/02/16_13:48:08: SuperSmart's score is: 60
+01/02/16_13:48:08: human's score is: 36
+01/02/16_13:48:08: SuperSmart's score is: 60
+01/02/16_13:48:08: human's score is: 36
+01/02/16_13:48:08: SuperSmart's score is: 60
+01/02/16_13:48:09: human's score is: 36
+01/02/16_13:48:09: SuperSmart's score is: 60
+01/02/16_13:48:09: human's score is: 36
+01/02/16_13:48:09: SuperSmart's score is: 60
+01/02/16_13:48:09: human's score is: 36
+01/02/16_13:48:09: SuperSmart's score is: 60
+01/02/16_13:48:09: human's score is: 36
+01/02/16_13:48:09: SuperSmart's score is: 60
+01/02/16_13:48:09: human's score is: 36
+01/02/16_13:48:09: SuperSmart's score is: 60
+01/02/16_13:48:10: human's score is: 36
+01/02/16_13:48:10: SuperSmart's score is: 60
+01/02/16_13:48:10: human's score is: 36
+01/02/16_13:48:10: SuperSmart's score is: 60
+01/02/16_13:48:10: human's score is: 36
+01/02/16_13:48:10: SuperSmart's score is: 60
+01/02/16_13:48:10: human's score is: 36
+01/02/16_13:48:10: SuperSmart's score is: 60
+01/02/16_13:48:11: human's score is: 36
+01/02/16_13:48:11: SuperSmart's score is: 60
+01/02/16_13:48:11: human's score is: 36
+01/02/16_13:48:11: SuperSmart's score is: 60
+01/02/16_13:48:11: human's score is: 36
+01/02/16_13:48:11: SuperSmart's score is: 60
+01/02/16_13:48:12: human's score is: 36
+01/02/16_13:48:12: SuperSmart's score is: 60
+01/02/16_13:48:12: human's score is: 36
+01/02/16_13:48:12: SuperSmart's score is: 60
+01/02/16_13:48:13: human's score is: 36
+01/02/16_13:48:13: SuperSmart's score is: 60
+01/02/16_13:48:13: human's score is: 36
+01/02/16_13:48:13: SuperSmart's score is: 60
+01/02/16_13:48:13: OUT: MOVE Oc 93 96 Yc 94 96 
+01/02/16_13:48:13: IN: NEXT 0
+01/02/16_13:48:13: human's score is: 48
+01/02/16_13:48:13: SuperSmart's score is: 60
+01/02/16_13:48:13: Tiles in pool: 59
+
+01/02/16_13:48:13: IN: NEW Yc Gs
+01/02/16_13:48:13: IN: TURN 0 Oc 93 96 Yc 94 96
+01/02/16_13:48:13: It is now SuperSmart's turn.
+
+01/02/16_13:48:13: IN: NEXT 1
+01/02/16_13:48:13: human's score is: 48
+01/02/16_13:48:13: SuperSmart's score is: 67
+01/02/16_13:48:13: 
+SuperSmart just made the following move: [[Os, 93, 95], [Oc, 94, 95], [Od, 95, 95]]
+
+01/02/16_13:48:13: IN: TURN 1 Os 93 95 Oc 94 95 Od 95 95
+01/02/16_13:48:13: human's score is: 48
+01/02/16_13:48:13: SuperSmart's score is: 67
+01/02/16_13:48:33: human's score is: 48
+01/02/16_13:48:33: SuperSmart's score is: 67
+01/02/16_13:48:33: human's score is: 48
+01/02/16_13:48:33: SuperSmart's score is: 67
+01/02/16_13:48:34: human's score is: 48
+01/02/16_13:48:34: SuperSmart's score is: 67
+01/02/16_13:48:34: human's score is: 48
+01/02/16_13:48:34: SuperSmart's score is: 67
+01/02/16_13:48:34: human's score is: 48
+01/02/16_13:48:34: SuperSmart's score is: 67
+01/02/16_13:48:34: human's score is: 48
+01/02/16_13:48:34: SuperSmart's score is: 67
+01/02/16_13:48:35: human's score is: 48
+01/02/16_13:48:35: SuperSmart's score is: 67
+01/02/16_13:48:35: human's score is: 48
+01/02/16_13:48:35: SuperSmart's score is: 67
+01/02/16_13:48:51: human's score is: 48
+01/02/16_13:48:51: SuperSmart's score is: 67
+01/02/16_13:48:52: human's score is: 48
+01/02/16_13:48:52: SuperSmart's score is: 67
+01/02/16_13:48:52: human's score is: 48
+01/02/16_13:48:52: SuperSmart's score is: 67
+01/02/16_13:48:53: human's score is: 48
+01/02/16_13:48:53: SuperSmart's score is: 67
+01/02/16_13:48:53: human's score is: 48
+01/02/16_13:48:53: SuperSmart's score is: 67
+01/02/16_13:48:53: human's score is: 48
+01/02/16_13:48:53: SuperSmart's score is: 67
+01/02/16_13:48:53: human's score is: 48
+01/02/16_13:48:53: SuperSmart's score is: 67
+01/02/16_13:48:54: human's score is: 48
+01/02/16_13:48:54: SuperSmart's score is: 67
+01/02/16_13:48:54: human's score is: 48
+01/02/16_13:48:54: SuperSmart's score is: 67
+01/02/16_13:48:54: human's score is: 48
+01/02/16_13:48:54: SuperSmart's score is: 67
+01/02/16_13:48:55: human's score is: 48
+01/02/16_13:48:55: SuperSmart's score is: 67
+01/02/16_13:54:53: human's score is: 48
+01/02/16_13:54:53: SuperSmart's score is: 67
+01/02/16_13:54:53: human's score is: 48
+01/02/16_13:54:53: SuperSmart's score is: 67
+01/02/16_13:54:54: human's score is: 48
+01/02/16_13:54:54: SuperSmart's score is: 67
+01/02/16_13:54:54: human's score is: 48
+01/02/16_13:54:54: SuperSmart's score is: 67
+01/02/16_13:54:56: human's score is: 48
+01/02/16_13:54:56: SuperSmart's score is: 67
+01/02/16_13:54:56: human's score is: 48
+01/02/16_13:54:56: SuperSmart's score is: 67
+01/02/16_13:54:57: human's score is: 48
+01/02/16_13:54:57: SuperSmart's score is: 67
+01/02/16_13:54:58: OUT: MOVE Pc 91 97 
+01/02/16_13:54:58: IN: NEXT 0
+01/02/16_13:54:58: human's score is: 52
+01/02/16_13:54:58: SuperSmart's score is: 67
+01/02/16_13:54:58: Tiles in pool: 55
+
+01/02/16_13:54:58: IN: NEW Gx
+01/02/16_13:54:58: IN: TURN 0 Pc 91 97
+01/02/16_13:54:58: It is now SuperSmart's turn.
+
+01/02/16_13:54:58: IN: NEXT 1
+01/02/16_13:54:58: human's score is: 52
+01/02/16_13:54:58: SuperSmart's score is: 74
+01/02/16_13:54:58: 
+SuperSmart just made the following move: [[P*, 90, 99], [Y*, 89, 99], [B*, 88, 99]]
+
+01/02/16_13:54:58: IN: TURN 1 P* 90 99 Y* 89 99 B* 88 99
+01/02/16_13:54:58: human's score is: 52
+01/02/16_13:54:58: SuperSmart's score is: 74
+01/02/16_13:55:02: human's score is: 52
+01/02/16_13:55:02: SuperSmart's score is: 74
+01/02/16_13:55:02: human's score is: 52
+01/02/16_13:55:02: SuperSmart's score is: 74
+01/02/16_13:55:03: human's score is: 52
+01/02/16_13:55:03: SuperSmart's score is: 74
+01/02/16_13:55:03: human's score is: 52
+01/02/16_13:55:03: SuperSmart's score is: 74
+01/02/16_13:55:03: human's score is: 52
+01/02/16_13:55:03: SuperSmart's score is: 74
+01/02/16_13:55:08: human's score is: 52
+01/02/16_13:55:08: SuperSmart's score is: 74
+01/02/16_13:55:08: human's score is: 52
+01/02/16_13:55:08: SuperSmart's score is: 74
+01/02/16_13:55:09: human's score is: 52
+01/02/16_13:55:09: SuperSmart's score is: 74
+01/02/16_13:55:09: human's score is: 52
+01/02/16_13:55:09: SuperSmart's score is: 74
+01/02/16_13:55:10: human's score is: 52
+01/02/16_13:55:10: SuperSmart's score is: 74
+01/02/16_13:55:10: human's score is: 52
+01/02/16_13:55:10: SuperSmart's score is: 74
+01/02/16_13:55:10: human's score is: 52
+01/02/16_13:55:10: SuperSmart's score is: 74
+01/02/16_13:55:11: human's score is: 52
+01/02/16_13:55:11: SuperSmart's score is: 74
+01/02/16_13:55:11: human's score is: 52
+01/02/16_13:55:11: SuperSmart's score is: 74
+01/02/16_13:55:11: human's score is: 52
+01/02/16_13:55:11: SuperSmart's score is: 74
+01/02/16_13:55:11: human's score is: 52
+01/02/16_13:55:11: SuperSmart's score is: 74
+01/02/16_13:55:11: human's score is: 52
+01/02/16_13:55:11: SuperSmart's score is: 74
+01/02/16_13:55:12: human's score is: 52
+01/02/16_13:55:12: SuperSmart's score is: 74
+01/02/16_13:55:13: human's score is: 52
+01/02/16_13:55:13: SuperSmart's score is: 74
+01/02/16_13:55:13: human's score is: 52
+01/02/16_13:55:13: SuperSmart's score is: 74
+01/02/16_13:55:13: human's score is: 52
+01/02/16_13:55:13: SuperSmart's score is: 74
+01/02/16_13:55:13: human's score is: 52
+01/02/16_13:55:13: SuperSmart's score is: 74
+01/02/16_13:55:13: human's score is: 52
+01/02/16_13:55:13: SuperSmart's score is: 74
+01/02/16_13:55:14: human's score is: 52
+01/02/16_13:55:14: SuperSmart's score is: 74
+01/02/16_13:55:16: human's score is: 52
+01/02/16_13:55:16: SuperSmart's score is: 74
+01/02/16_13:55:17: human's score is: 52
+01/02/16_13:55:17: SuperSmart's score is: 74
+01/02/16_13:55:17: human's score is: 52
+01/02/16_13:55:17: SuperSmart's score is: 74
+01/02/16_13:55:17: human's score is: 52
+01/02/16_13:55:17: SuperSmart's score is: 74
+01/02/16_13:55:17: human's score is: 52
+01/02/16_13:55:17: SuperSmart's score is: 74
+01/02/16_13:55:18: human's score is: 52
+01/02/16_13:55:18: SuperSmart's score is: 74
+01/02/16_13:55:18: human's score is: 52
+01/02/16_13:55:18: SuperSmart's score is: 74
+01/02/16_13:55:18: human's score is: 52
+01/02/16_13:55:18: SuperSmart's score is: 74
+01/02/16_13:55:18: OUT: MOVE Oo 93 97 
+01/02/16_13:55:18: IN: NEXT 0
+01/02/16_13:55:18: human's score is: 55
+01/02/16_13:55:18: SuperSmart's score is: 74
+01/02/16_13:55:18: Tiles in pool: 51
+
+01/02/16_13:55:18: IN: NEW Yd
+01/02/16_13:55:18: IN: TURN 0 Oo 93 97
+01/02/16_13:55:18: It is now SuperSmart's turn.
+
+01/02/16_13:55:18: IN: NEXT 1
+01/02/16_13:55:19: human's score is: 55
+01/02/16_13:55:19: SuperSmart's score is: 80
+01/02/16_13:55:19: 
+SuperSmart just made the following move: [[Bx, 88, 100], [Yx, 89, 100]]
+
+01/02/16_13:55:19: IN: TURN 1 Bx 88 100 Yx 89 100
+01/02/16_13:55:19: human's score is: 55
+01/02/16_13:55:19: SuperSmart's score is: 80
+01/02/16_14:35:44: human's score is: 55
+01/02/16_14:35:44: SuperSmart's score is: 80
+01/02/16_14:35:44: human's score is: 55
+01/02/16_14:35:44: SuperSmart's score is: 80
+01/02/16_14:35:44: human's score is: 55
+01/02/16_14:35:44: SuperSmart's score is: 80
+01/02/16_14:35:44: human's score is: 55
+01/02/16_14:35:44: SuperSmart's score is: 80
+01/02/16_14:35:45: human's score is: 55
+01/02/16_14:35:45: SuperSmart's score is: 80
+01/02/16_14:35:45: human's score is: 55
+01/02/16_14:35:45: SuperSmart's score is: 80
+01/02/16_14:35:45: human's score is: 55
+01/02/16_14:35:45: SuperSmart's score is: 80
+01/02/16_14:35:45: human's score is: 55
+01/02/16_14:35:45: SuperSmart's score is: 80
+01/02/16_14:35:45: human's score is: 55
+01/02/16_14:35:45: SuperSmart's score is: 80
+01/02/16_14:35:45: human's score is: 55
+01/02/16_14:35:45: SuperSmart's score is: 80
+01/02/16_14:35:45: human's score is: 55
+01/02/16_14:35:45: SuperSmart's score is: 80
+01/02/16_14:35:45: human's score is: 55
+01/02/16_14:35:45: SuperSmart's score is: 80
+01/02/16_14:35:46: human's score is: 55
+01/02/16_14:35:46: SuperSmart's score is: 80
+01/02/16_14:35:46: human's score is: 55
+01/02/16_14:35:46: SuperSmart's score is: 80
+01/02/16_14:35:46: human's score is: 55
+01/02/16_14:35:46: SuperSmart's score is: 80
+01/02/16_14:35:46: human's score is: 55
+01/02/16_14:35:46: SuperSmart's score is: 80
+01/02/16_14:35:46: human's score is: 55
+01/02/16_14:35:46: SuperSmart's score is: 80
+01/02/16_14:35:46: human's score is: 55
+01/02/16_14:35:46: SuperSmart's score is: 80
+01/02/16_14:35:46: human's score is: 55
+01/02/16_14:35:46: SuperSmart's score is: 80
+01/02/16_14:35:46: human's score is: 55
+01/02/16_14:35:46: SuperSmart's score is: 80
+01/02/16_14:35:46: human's score is: 55
+01/02/16_14:35:46: SuperSmart's score is: 80
+01/02/16_14:35:47: human's score is: 55
+01/02/16_14:35:47: SuperSmart's score is: 80
+01/02/16_14:35:47: human's score is: 55
+01/02/16_14:35:47: SuperSmart's score is: 80
+01/02/16_14:35:47: human's score is: 55
+01/02/16_14:35:47: SuperSmart's score is: 80
+01/02/16_14:35:47: human's score is: 55
+01/02/16_14:35:47: SuperSmart's score is: 80
+01/02/16_14:35:47: human's score is: 55
+01/02/16_14:35:47: SuperSmart's score is: 80
+01/02/16_14:35:47: human's score is: 55
+01/02/16_14:35:47: SuperSmart's score is: 80

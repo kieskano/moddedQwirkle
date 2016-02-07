@@ -1,0 +1,84 @@
+30/01/16_13:02:19: Welcome in Qwirkle
+30/01/16_13:02:19: (only characters a-z A-Z and 1 to 16 characters long)
+30/01/16_13:02:19: What is your name? 
+
+30/01/16_13:02:23: 
+Server IP-adress: 
+
+30/01/16_13:02:26: 
+Server port: 
+
+30/01/16_13:02:29: 
+Bot: 'b', Human: 'h'
+
+30/01/16_13:02:30: Creating client... 
+30/01/16_13:02:30: Client HumanOne created
+30/01/16_13:02:30: Starting client... 
+30/01/16_13:02:30: Client started.
+30/01/16_13:02:30: Sending registration message... 
+30/01/16_13:02:30: OUT: HELLO HumanOne
+30/01/16_13:02:30: Registration message send.
+30/01/16_13:02:30: Waiting for welcome message... 
+30/01/16_13:02:30: Welcome message received.
+30/01/16_13:02:30: Waiting for other players to connect...
+30/01/16_13:02:30: IN: WELCOME HumanOne 0
+30/01/16_13:02:46: IN: NAMES HumanOne 0 HumanTwo 1 999999
+30/01/16_13:02:46: HumanOne's score is: 0
+30/01/16_13:02:46: HumanTwo's score is: 0
+30/01/16_13:02:46: Tiles in pool: 96
+
+30/01/16_13:02:46: IN: NEW Ox Rs Bs Pd Ps Gx
+30/01/16_13:02:46: HumanOne's score is: 0
+30/01/16_13:02:46: HumanTwo's score is: 0
+30/01/16_13:02:53: HumanOne's score is: 0
+30/01/16_13:02:53: HumanTwo's score is: 0
+30/01/16_13:02:54: HumanOne's score is: 0
+30/01/16_13:02:54: HumanTwo's score is: 0
+30/01/16_13:02:55: HumanOne's score is: 0
+30/01/16_13:02:55: HumanTwo's score is: 0
+30/01/16_13:02:56: HumanOne's score is: 0
+30/01/16_13:02:56: HumanTwo's score is: 0
+30/01/16_13:02:57: HumanOne's score is: 0
+30/01/16_13:02:57: HumanTwo's score is: 0
+30/01/16_13:02:57: HumanOne's score is: 0
+30/01/16_13:02:57: HumanTwo's score is: 0
+30/01/16_13:03:05: HumanOne's score is: 0
+30/01/16_13:03:05: HumanTwo's score is: 0
+30/01/16_13:03:06: HumanOne's score is: 0
+30/01/16_13:03:06: HumanTwo's score is: 0
+30/01/16_13:03:06: HumanOne's score is: 0
+30/01/16_13:03:06: HumanTwo's score is: 0
+30/01/16_13:03:06: HumanOne's score is: 0
+30/01/16_13:03:06: HumanTwo's score is: 0
+30/01/16_13:03:07: HumanOne's score is: 0
+30/01/16_13:03:07: HumanTwo's score is: 0
+30/01/16_13:03:07: HumanOne's score is: 0
+30/01/16_13:03:07: HumanTwo's score is: 0
+30/01/16_13:03:08: HumanOne's score is: 0
+30/01/16_13:03:08: HumanTwo's score is: 0
+30/01/16_13:03:09: HumanOne's score is: 0
+30/01/16_13:03:09: HumanTwo's score is: 0
+30/01/16_13:03:09: HumanOne's score is: 0
+30/01/16_13:03:09: HumanTwo's score is: 0
+30/01/16_13:03:10: HumanOne's score is: 0
+30/01/16_13:03:10: HumanTwo's score is: 0
+30/01/16_13:03:11: HumanOne's score is: 0
+30/01/16_13:03:11: HumanTwo's score is: 0
+30/01/16_13:03:11: HumanOne's score is: 0
+30/01/16_13:03:11: HumanTwo's score is: 0
+30/01/16_13:03:12: HumanOne's score is: 0
+30/01/16_13:03:12: HumanTwo's score is: 0
+30/01/16_13:03:12: HumanOne's score is: 0
+30/01/16_13:03:12: HumanTwo's score is: 0
+30/01/16_13:03:13: HumanOne's score is: 0
+30/01/16_13:03:13: HumanTwo's score is: 0
+30/01/16_13:03:13: HumanOne's score is: 0
+30/01/16_13:03:13: HumanTwo's score is: 0
+30/01/16_13:03:13: HumanOne's score is: 0
+30/01/16_13:03:13: HumanTwo's score is: 0
+30/01/16_13:03:14: HumanOne's score is: 0
+30/01/16_13:03:14: HumanTwo's score is: 0
+30/01/16_13:03:14: HumanOne's score is: 0
+30/01/16_13:03:14: HumanTwo's score is: 0
+30/01/16_13:03:14: HumanOne's score is: 0
+30/01/16_13:03:14: HumanTwo's score is: 0

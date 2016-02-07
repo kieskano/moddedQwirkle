@@ -1,0 +1,28 @@
+30/01/16_17:43:04: Creating client... 
+30/01/16_17:43:04: Client human created
+30/01/16_17:43:04: Starting client... 
+30/01/16_17:43:04: Client started.
+30/01/16_17:43:04: Sending registration message... 
+30/01/16_17:43:04: OUT: HELLO human
+30/01/16_17:43:04: Registration message send.
+30/01/16_17:43:04: Waiting for welcome message... 
+30/01/16_17:43:04: Welcome message received.
+30/01/16_17:43:04: Waiting for other players to connect...
+30/01/16_17:43:04: IN: WELCOME human 1
+30/01/16_17:43:04: IN: NAMES human 0 human 1 999999
+30/01/16_17:43:04: human's score is: 0
+30/01/16_17:43:04: human's score is: 0
+30/01/16_17:43:04: Tiles in pool: 96
+
+30/01/16_17:43:04: IN: NEW Bx Oc P* Yx Yd Gs
+30/01/16_17:43:04: It is now human's turn.
+
+30/01/16_17:43:04: IN: NEXT 0
+30/01/16_17:44:41: human's score is: 2
+30/01/16_17:44:41: human's score is: 0
+30/01/16_17:44:41: 
+human just made the following move: [[Rs, 91, 91], [Rx, 91, 92]]
+
+30/01/16_17:44:41: IN: TURN 0 Rs 91 91 Rx 91 92
+30/01/16_17:44:41: human's score is: 2
+30/01/16_17:44:41: human's score is: 0

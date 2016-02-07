@@ -1,0 +1,113 @@
+30/01/16_23:03:32: Creating client... 
+30/01/16_23:03:32: Client human created
+30/01/16_23:03:32: Starting client... 
+30/01/16_23:03:32: Client started.
+30/01/16_23:03:32: Sending registration message... 
+30/01/16_23:03:32: OUT: HELLO human
+30/01/16_23:03:32: Registration message send.
+30/01/16_23:03:32: Waiting for welcome message... 
+30/01/16_23:03:32: Welcome message received.
+30/01/16_23:03:32: Waiting for other players to connect...
+30/01/16_23:03:32: IN: WELCOME human 0
+30/01/16_23:03:36: IN: NAMES human 0 human 1 999999
+30/01/16_23:03:37: human's score is: 0
+30/01/16_23:03:37: human's score is: 0
+30/01/16_23:03:37: Tiles in pool: 96
+
+30/01/16_23:03:37: IN: NEW Gx R* Px Ys Os Yc
+30/01/16_23:03:37: It is now human's turn.
+
+30/01/16_23:03:37: IN: NEXT 1
+30/01/16_23:04:45: human's score is: 0
+30/01/16_23:04:45: human's score is: 3
+30/01/16_23:04:45: 
+human just made the following move: [[Ro, 91, 91], [Go, 91, 92], [Yo, 91, 93]]
+
+30/01/16_23:04:45: IN: TURN 1 Ro 91 91 Go 91 92 Yo 91 93
+30/01/16_23:04:46: human's score is: 0
+30/01/16_23:04:46: human's score is: 3
+30/01/16_23:04:48: human's score is: 0
+30/01/16_23:04:48: human's score is: 3
+30/01/16_23:04:49: human's score is: 0
+30/01/16_23:04:49: human's score is: 3
+30/01/16_23:04:49: human's score is: 0
+30/01/16_23:04:49: human's score is: 3
+30/01/16_23:04:49: human's score is: 0
+30/01/16_23:04:49: human's score is: 3
+30/01/16_23:04:49: human's score is: 0
+30/01/16_23:04:49: human's score is: 3
+30/01/16_23:04:49: human's score is: 0
+30/01/16_23:04:49: human's score is: 3
+30/01/16_23:04:50: human's score is: 0
+30/01/16_23:04:50: human's score is: 3
+30/01/16_23:04:50: human's score is: 0
+30/01/16_23:04:50: human's score is: 3
+30/01/16_23:04:52: human's score is: 0
+30/01/16_23:04:52: human's score is: 3
+30/01/16_23:04:53: human's score is: 0
+30/01/16_23:04:53: human's score is: 3
+30/01/16_23:04:53: human's score is: 0
+30/01/16_23:04:53: human's score is: 3
+30/01/16_23:04:56: human's score is: 0
+30/01/16_23:04:56: human's score is: 3
+30/01/16_23:04:56: human's score is: 0
+30/01/16_23:04:56: human's score is: 3
+30/01/16_23:04:56: human's score is: 0
+30/01/16_23:04:56: human's score is: 3
+30/01/16_23:04:57: human's score is: 0
+30/01/16_23:04:57: human's score is: 3
+30/01/16_23:04:57: human's score is: 0
+30/01/16_23:04:57: human's score is: 3
+30/01/16_23:04:58: human's score is: 0
+30/01/16_23:04:58: human's score is: 3
+30/01/16_23:04:58: human's score is: 0
+30/01/16_23:04:58: human's score is: 3
+30/01/16_23:04:58: human's score is: 0
+30/01/16_23:04:58: human's score is: 3
+30/01/16_23:04:59: human's score is: 0
+30/01/16_23:04:59: human's score is: 3
+30/01/16_23:04:59: human's score is: 0
+30/01/16_23:04:59: human's score is: 3
+30/01/16_23:05:00: human's score is: 0
+30/01/16_23:05:00: human's score is: 3
+30/01/16_23:05:00: human's score is: 0
+30/01/16_23:05:00: human's score is: 3
+30/01/16_23:05:00: human's score is: 0
+30/01/16_23:05:00: human's score is: 3
+30/01/16_23:05:01: human's score is: 0
+30/01/16_23:05:01: human's score is: 3
+30/01/16_23:05:01: human's score is: 0
+30/01/16_23:05:01: human's score is: 3
+30/01/16_23:05:01: human's score is: 0
+30/01/16_23:05:01: human's score is: 3
+30/01/16_23:05:02: human's score is: 0
+30/01/16_23:05:02: human's score is: 3
+30/01/16_23:05:02: human's score is: 0
+30/01/16_23:05:02: human's score is: 3
+30/01/16_23:05:02: human's score is: 0
+30/01/16_23:05:02: human's score is: 3
+30/01/16_23:05:02: human's score is: 0
+30/01/16_23:05:02: human's score is: 3
+30/01/16_23:05:03: human's score is: 0
+30/01/16_23:05:03: human's score is: 3
+30/01/16_23:05:03: human's score is: 0
+30/01/16_23:05:03: human's score is: 3
+30/01/16_23:05:04: human's score is: 0
+30/01/16_23:05:04: human's score is: 3
+30/01/16_23:05:04: human's score is: 0
+30/01/16_23:05:04: human's score is: 3
+30/01/16_23:05:04: human's score is: 0
+30/01/16_23:05:04: human's score is: 3
+30/01/16_23:05:05: human's score is: 0
+30/01/16_23:05:05: human's score is: 3
+30/01/16_23:05:05: OUT: MOVE Ys 92 93 Yc 93 93 
+30/01/16_23:05:05: IN: NEXT 0
+30/01/16_23:05:05: human's score is: 3
+30/01/16_23:05:05: human's score is: 3
+30/01/16_23:05:05: Tiles in pool: 91
+
+30/01/16_23:05:05: IN: NEW R* Oc
+30/01/16_23:05:05: IN: TURN 0 Ys 92 93 Yc 93 93
+30/01/16_23:05:05: It is now human's turn.
+
+30/01/16_23:05:05: IN: NEXT 1

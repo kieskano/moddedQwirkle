@@ -1,0 +1,70 @@
+Waiting for clients to connect
+Clients connected: [0 of 2]
+Clients connected: [1 of 2]
+Received from client 0: HELLO human
+Sent to player-0: WELCOME human 0
+Clients connected: [2 of 2]
+Waiting for everyone to send their name
+Received from client 1: HELLO human
+Sent to player-1: WELCOME human 1
+Everyone has send their name
+Sent to player-0: NAMES human 0 human 1 999999
+Sent to player-1: NAMES human 0 human 1 999999
+Dealing tiles and calculating who may start
+Sent to player-0: NEW Bd Gc Rd Ox Rc Po
+Sent to player-1: NEW Os Rs Od Yd Yd Pc
+Tiles dealt and 0 may start
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Rd 91 91 Rc 91 92 
+Sent to player-0: NEW Bd Rc
+Sent to player-0: TURN 0 Rd 91 91 Rc 91 92
+Sent to player-1: TURN 0 Rd 91 91 Rc 91 92
+Player-0 gained 2 points!
+
+Current game situation
+XXX 90  91  92  93  
+90  .   .   .   .   
+91  .   Rd  Rc  .   
+92  .   .   .   .   
+
+Scores:
+human: 2
+human: 0
+Hands:
+human: [Bd, Gc, Ox, Po, Bd, Rc]
+human: [Os, Rs, Od, Yd, Yd, Pc]
+Tiles in pool: 94
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Rs 91 90 Os 92 90 
+Sent to player-1: NEW P* Oc
+Sent to player-0: TURN 1 Rs 91 90 Os 92 90
+Sent to player-1: TURN 1 Rs 91 90 Os 92 90
+Player-1 gained 5 points!
+
+Current game situation
+XXX 89  90  91  92  93  
+90  .   .   .   .   .   
+91  .   Rs  Rd  Rc  .   
+92  .   Os  .   .   .   
+93  .   .   .   .   .   
+
+Scores:
+human: 2
+human: 5
+Hands:
+human: [Bd, Gc, Ox, Po, Bd, Rc]
+human: [Od, Yd, Yd, Pc, P*, Oc]
+Tiles in pool: 92
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVEempty
+Sent to player-0: KICK 0 6 made an invalid turn
+Sent to player-1: KICK 0 6 made an invalid turn
+Closed the connection with player-0
+clientHandler-0 wakes server
+Sent to player-1: WINNER 1
+Closed the connection with player-1

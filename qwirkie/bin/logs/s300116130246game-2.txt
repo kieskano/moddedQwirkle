@@ -1,0 +1,5 @@
+Waiting for clients to connect
+Clients connected: [0 of 2]
+Clients connected: [1 of 2]
+Received from client 0: HELLO HumanTwo
+Sent to player-0: WELCOME HumanTwo 0

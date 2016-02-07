@@ -1,0 +1,61 @@
+30/01/16_13:27:00: Creating client... 
+30/01/16_13:27:00: Client human created
+30/01/16_13:27:00: Starting client... 
+30/01/16_13:27:00: Client started.
+30/01/16_13:27:00: Sending registration message... 
+30/01/16_13:27:00: OUT: HELLO human
+30/01/16_13:27:00: Registration message send.
+30/01/16_13:27:00: Waiting for welcome message... 
+30/01/16_13:27:00: Welcome message received.
+30/01/16_13:27:00: Waiting for other players to connect...
+30/01/16_13:27:00: IN: WELCOME human 1
+30/01/16_13:27:00: IN: NAMES human 0 human 1 999999
+30/01/16_13:27:00: human's score is: 0
+30/01/16_13:27:00: human's score is: 0
+30/01/16_13:27:00: Tiles in pool: 96
+
+30/01/16_13:27:00: IN: NEW Go Yo Po Bd Bo Ox
+30/01/16_13:27:00: human's score is: 0
+30/01/16_13:27:00: human's score is: 0
+30/01/16_13:27:13: human's score is: 0
+30/01/16_13:27:13: human's score is: 0
+30/01/16_13:27:13: human's score is: 0
+30/01/16_13:27:13: human's score is: 0
+30/01/16_13:27:14: human's score is: 0
+30/01/16_13:27:14: human's score is: 0
+30/01/16_13:27:16: human's score is: 0
+30/01/16_13:27:16: human's score is: 0
+30/01/16_13:27:18: human's score is: 0
+30/01/16_13:27:18: human's score is: 0
+30/01/16_13:27:19: human's score is: 0
+30/01/16_13:27:19: human's score is: 0
+30/01/16_13:27:20: human's score is: 0
+30/01/16_13:27:20: human's score is: 0
+30/01/16_13:27:20: human's score is: 0
+30/01/16_13:27:20: human's score is: 0
+30/01/16_13:27:21: human's score is: 0
+30/01/16_13:27:21: human's score is: 0
+30/01/16_13:27:22: human's score is: 0
+30/01/16_13:27:22: human's score is: 0
+30/01/16_13:27:22: human's score is: 0
+30/01/16_13:27:22: human's score is: 0
+30/01/16_13:27:23: human's score is: 0
+30/01/16_13:27:23: human's score is: 0
+30/01/16_13:27:24: human's score is: 0
+30/01/16_13:27:24: human's score is: 0
+30/01/16_13:27:25: human's score is: 0
+30/01/16_13:27:25: human's score is: 0
+30/01/16_13:27:26: human's score is: 0
+30/01/16_13:27:26: human's score is: 0
+30/01/16_13:27:27: human's score is: 0
+30/01/16_13:27:27: human's score is: 0
+30/01/16_13:27:27: human's score is: 0
+30/01/16_13:27:27: human's score is: 0
+30/01/16_13:27:28: human's score is: 0
+30/01/16_13:27:28: human's score is: 0
+30/01/16_13:27:29: human's score is: 0
+30/01/16_13:27:29: human's score is: 0
+30/01/16_13:27:30: human's score is: 0
+30/01/16_13:27:30: human's score is: 0
+30/01/16_13:27:31: human's score is: 0
+30/01/16_13:27:31: human's score is: 0

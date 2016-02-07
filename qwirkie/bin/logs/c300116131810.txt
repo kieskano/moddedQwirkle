@@ -1,0 +1,124 @@
+30/01/16_13:18:10: Creating client... 
+30/01/16_13:18:10: Client human created
+30/01/16_13:18:10: Starting client... 
+30/01/16_13:18:10: Client started.
+30/01/16_13:18:10: Sending registration message... 
+30/01/16_13:18:10: OUT: HELLO human
+30/01/16_13:18:10: Registration message send.
+30/01/16_13:18:10: Waiting for welcome message... 
+30/01/16_13:18:10: Welcome message received.
+30/01/16_13:18:10: Waiting for other players to connect...
+30/01/16_13:18:10: IN: WELCOME human 0
+30/01/16_13:18:11: IN: NAMES human 0 human 1 99999
+30/01/16_13:18:11: human's score is: 0
+30/01/16_13:18:11: human's score is: 0
+30/01/16_13:18:11: Tiles in pool: 96
+
+30/01/16_13:18:11: IN: NEW Rs Yo Ps Os O* Rx
+30/01/16_13:18:11: human's score is: 0
+30/01/16_13:18:11: human's score is: 0
+30/01/16_13:18:24: human's score is: 0
+30/01/16_13:18:24: human's score is: 0
+30/01/16_13:18:24: human's score is: 0
+30/01/16_13:18:24: human's score is: 0
+30/01/16_13:18:25: human's score is: 0
+30/01/16_13:18:25: human's score is: 0
+30/01/16_13:18:25: human's score is: 0
+30/01/16_13:18:25: human's score is: 0
+30/01/16_13:18:26: human's score is: 0
+30/01/16_13:18:26: human's score is: 0
+30/01/16_13:18:27: human's score is: 0
+30/01/16_13:18:27: human's score is: 0
+30/01/16_13:18:27: human's score is: 0
+30/01/16_13:18:27: human's score is: 0
+30/01/16_13:18:28: human's score is: 0
+30/01/16_13:18:28: human's score is: 0
+30/01/16_13:18:28: human's score is: 0
+30/01/16_13:18:28: human's score is: 0
+30/01/16_13:18:29: human's score is: 0
+30/01/16_13:18:29: human's score is: 0
+30/01/16_13:18:29: human's score is: 0
+30/01/16_13:18:29: human's score is: 0
+30/01/16_13:18:29: human's score is: 0
+30/01/16_13:18:29: human's score is: 0
+30/01/16_13:18:29: human's score is: 0
+30/01/16_13:18:29: human's score is: 0
+30/01/16_13:18:30: human's score is: 0
+30/01/16_13:18:30: human's score is: 0
+30/01/16_13:18:30: human's score is: 0
+30/01/16_13:18:30: human's score is: 0
+30/01/16_13:18:30: human's score is: 0
+30/01/16_13:18:30: human's score is: 0
+30/01/16_13:18:34: human's score is: 0
+30/01/16_13:18:34: human's score is: 0
+30/01/16_13:18:36: human's score is: 0
+30/01/16_13:18:36: human's score is: 0
+30/01/16_13:18:37: human's score is: 0
+30/01/16_13:18:37: human's score is: 0
+30/01/16_13:18:37: human's score is: 0
+30/01/16_13:18:37: human's score is: 0
+30/01/16_13:18:37: human's score is: 0
+30/01/16_13:18:37: human's score is: 0
+30/01/16_13:18:38: human's score is: 0
+30/01/16_13:18:38: human's score is: 0
+30/01/16_13:18:41: human's score is: 0
+30/01/16_13:18:41: human's score is: 0
+30/01/16_13:18:42: human's score is: 0
+30/01/16_13:18:42: human's score is: 0
+30/01/16_13:18:46: human's score is: 0
+30/01/16_13:18:46: human's score is: 0
+30/01/16_13:18:46: human's score is: 0
+30/01/16_13:18:46: human's score is: 0
+30/01/16_13:18:47: human's score is: 0
+30/01/16_13:18:47: human's score is: 0
+30/01/16_13:18:47: human's score is: 0
+30/01/16_13:18:47: human's score is: 0
+30/01/16_13:18:48: human's score is: 0
+30/01/16_13:18:48: human's score is: 0
+30/01/16_13:18:49: human's score is: 0
+30/01/16_13:18:49: human's score is: 0
+30/01/16_13:18:50: human's score is: 0
+30/01/16_13:18:50: human's score is: 0
+30/01/16_13:18:53: human's score is: 0
+30/01/16_13:18:53: human's score is: 0
+30/01/16_13:18:54: human's score is: 0
+30/01/16_13:18:54: human's score is: 0
+30/01/16_13:18:54: human's score is: 0
+30/01/16_13:18:54: human's score is: 0
+30/01/16_13:18:56: human's score is: 0
+30/01/16_13:18:56: human's score is: 0
+30/01/16_13:18:57: human's score is: 0
+30/01/16_13:18:57: human's score is: 0
+30/01/16_13:18:58: human's score is: 0
+30/01/16_13:18:58: human's score is: 0
+30/01/16_13:18:59: human's score is: 0
+30/01/16_13:18:59: human's score is: 0
+30/01/16_13:19:00: human's score is: 0
+30/01/16_13:19:00: human's score is: 0
+30/01/16_13:19:01: human's score is: 0
+30/01/16_13:19:01: human's score is: 0
+30/01/16_13:19:02: human's score is: 0
+30/01/16_13:19:02: human's score is: 0
+30/01/16_13:19:02: human's score is: 0
+30/01/16_13:19:02: human's score is: 0
+30/01/16_13:19:04: OUT: MOVE Ps 91 91 Rs 91 92 Os 91 93 
+30/01/16_13:19:04: IN: NEXT 0
+30/01/16_13:19:04: human's score is: 3
+30/01/16_13:19:04: human's score is: 0
+30/01/16_13:19:04: Tiles in pool: 93
+
+30/01/16_13:19:04: IN: NEW Bx R* Po
+30/01/16_13:19:04: IN: TURN 0 Ps 91 91 Rs 91 92 Os 91 93
+30/01/16_13:19:04: It is now human's turn.
+
+30/01/16_13:19:04: IN: NEXT 1
+30/01/16_13:24:11: Tiles in pool: 99
+
+30/01/16_13:24:11: human IS KICKED FOR THE FOLLOWING REASON: Did not make a move in time
+
+30/01/16_13:24:11: IN: KICK 1 6 Did not make a move in time
+30/01/16_13:24:11: human's score is: 3
+30/01/16_13:24:11: human's score is: 0
+30/01/16_13:24:11: You won!
+
+30/01/16_13:24:11: Would you like to play another game? Y/N

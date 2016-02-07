@@ -1,0 +1,117 @@
+30/01/16_13:34:29: Creating client... 
+30/01/16_13:34:29: Client human created
+30/01/16_13:34:29: Starting client... 
+30/01/16_13:34:29: Client started.
+30/01/16_13:34:29: Sending registration message... 
+30/01/16_13:34:29: OUT: HELLO human
+30/01/16_13:34:29: Registration message send.
+30/01/16_13:34:29: Waiting for welcome message... 
+30/01/16_13:34:29: Welcome message received.
+30/01/16_13:34:29: Waiting for other players to connect...
+30/01/16_13:34:29: IN: WELCOME human 1
+30/01/16_13:34:29: IN: NAMES human 0 human 1 999999
+30/01/16_13:34:29: human's score is: 0
+30/01/16_13:34:29: human's score is: 0
+30/01/16_13:34:29: Tiles in pool: 96
+
+30/01/16_13:34:29: IN: NEW Px Gs Od O* Pc Pc
+30/01/16_13:34:29: It is now human's turn.
+
+30/01/16_13:34:29: IN: NEXT 0
+30/01/16_13:34:44: human's score is: 2
+30/01/16_13:34:44: human's score is: 0
+30/01/16_13:34:44: 
+human just made the following move: [[Yx, 91, 91], [Bx, 91, 92]]
+
+30/01/16_13:34:44: IN: TURN 0 Yx 91 91 Bx 91 92
+30/01/16_13:34:45: human's score is: 2
+30/01/16_13:34:45: human's score is: 0
+30/01/16_13:34:53: human's score is: 2
+30/01/16_13:34:53: human's score is: 0
+30/01/16_13:34:54: human's score is: 2
+30/01/16_13:34:54: human's score is: 0
+30/01/16_13:34:54: human's score is: 2
+30/01/16_13:34:54: human's score is: 0
+30/01/16_13:34:55: human's score is: 2
+30/01/16_13:34:55: human's score is: 0
+30/01/16_13:34:55: human's score is: 2
+30/01/16_13:34:55: human's score is: 0
+30/01/16_13:34:55: human's score is: 2
+30/01/16_13:34:55: human's score is: 0
+30/01/16_13:34:56: human's score is: 2
+30/01/16_13:34:56: human's score is: 0
+30/01/16_13:34:56: human's score is: 2
+30/01/16_13:34:56: human's score is: 0
+30/01/16_13:34:57: human's score is: 2
+30/01/16_13:34:57: human's score is: 0
+30/01/16_13:34:57: human's score is: 2
+30/01/16_13:34:57: human's score is: 0
+30/01/16_13:34:57: human's score is: 2
+30/01/16_13:34:57: human's score is: 0
+30/01/16_13:34:58: human's score is: 2
+30/01/16_13:34:58: human's score is: 0
+30/01/16_13:34:58: human's score is: 2
+30/01/16_13:34:58: human's score is: 0
+30/01/16_13:34:59: human's score is: 2
+30/01/16_13:34:59: human's score is: 0
+30/01/16_13:34:59: human's score is: 2
+30/01/16_13:34:59: human's score is: 0
+30/01/16_13:34:59: human's score is: 2
+30/01/16_13:34:59: human's score is: 0
+30/01/16_13:35:00: human's score is: 2
+30/01/16_13:35:00: human's score is: 0
+30/01/16_13:35:00: human's score is: 2
+30/01/16_13:35:00: human's score is: 0
+30/01/16_13:35:00: human's score is: 2
+30/01/16_13:35:00: human's score is: 0
+30/01/16_13:35:01: human's score is: 2
+30/01/16_13:35:01: human's score is: 0
+30/01/16_13:35:13: human's score is: 2
+30/01/16_13:35:13: human's score is: 0
+30/01/16_13:35:15: human's score is: 2
+30/01/16_13:35:15: human's score is: 0
+30/01/16_13:35:16: human's score is: 2
+30/01/16_13:35:16: human's score is: 0
+30/01/16_13:35:16: human's score is: 2
+30/01/16_13:35:16: human's score is: 0
+30/01/16_13:35:16: human's score is: 2
+30/01/16_13:35:16: human's score is: 0
+30/01/16_13:35:17: human's score is: 2
+30/01/16_13:35:17: human's score is: 0
+30/01/16_13:35:18: human's score is: 2
+30/01/16_13:35:18: human's score is: 0
+30/01/16_13:35:18: human's score is: 2
+30/01/16_13:35:18: human's score is: 0
+30/01/16_13:35:19: human's score is: 2
+30/01/16_13:35:19: human's score is: 0
+30/01/16_13:35:20: human's score is: 2
+30/01/16_13:35:20: human's score is: 0
+30/01/16_13:35:21: human's score is: 2
+30/01/16_13:35:21: human's score is: 0
+30/01/16_13:35:24: human's score is: 2
+30/01/16_13:35:24: human's score is: 0
+30/01/16_13:35:25: human's score is: 2
+30/01/16_13:35:25: human's score is: 0
+30/01/16_13:35:26: human's score is: 2
+30/01/16_13:35:26: human's score is: 0
+30/01/16_13:35:26: human's score is: 2
+30/01/16_13:35:26: human's score is: 0
+30/01/16_13:35:26: OUT: MOVE Px 92 92 Pc 92 93 
+30/01/16_13:35:26: IN: NEXT 1
+30/01/16_13:35:26: human's score is: 2
+30/01/16_13:35:26: human's score is: 4
+30/01/16_13:35:26: Tiles in pool: 92
+
+30/01/16_13:35:26: IN: NEW Yd R*
+30/01/16_13:35:26: IN: TURN 1 Px 92 92 Pc 92 93
+30/01/16_13:35:27: It is now human's turn.
+
+30/01/16_13:35:27: IN: NEXT 0
+30/01/16_13:35:48: human's score is: 6
+30/01/16_13:35:48: human's score is: 4
+30/01/16_13:35:48: 
+human just made the following move: [[Po, 92, 94], [P*, 92, 95]]
+
+30/01/16_13:35:48: IN: TURN 0 Po 92 94 P* 92 95
+30/01/16_13:35:48: human's score is: 6
+30/01/16_13:35:48: human's score is: 4

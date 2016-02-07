@@ -1,0 +1,19 @@
+30/01/16_23:17:13: Creating client... 
+30/01/16_23:17:13: Client Smart created
+30/01/16_23:17:13: Starting client... 
+30/01/16_23:17:13: Client started.
+30/01/16_23:17:13: Sending registration message... 
+30/01/16_23:17:13: OUT: HELLO Smart
+30/01/16_23:17:13: Registration message send.
+30/01/16_23:17:13: Waiting for welcome message... 
+30/01/16_23:17:13: Welcome message received.
+30/01/16_23:17:13: Waiting for other players to connect...
+30/01/16_23:17:13: IN: WELCOME Smart 1
+30/01/16_23:17:13: IN: NAMES human 0 Smart 1 999999
+30/01/16_23:17:13: human's score is: 0
+30/01/16_23:17:13: Smart's score is: 0
+30/01/16_23:17:13: Tiles in pool: 96
+
+30/01/16_23:17:13: IN: NEW Od B* Rd Po Os Ox
+30/01/16_23:17:13: human's score is: 0
+30/01/16_23:17:13: Smart's score is: 0

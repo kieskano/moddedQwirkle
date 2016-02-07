@@ -1,0 +1,77 @@
+30/01/16_13:41:57: Creating client... 
+30/01/16_13:41:57: Client human created
+30/01/16_13:41:57: Starting client... 
+30/01/16_13:41:57: Client started.
+30/01/16_13:41:57: Sending registration message... 
+30/01/16_13:41:57: OUT: HELLO human
+30/01/16_13:41:57: Registration message send.
+30/01/16_13:41:57: Waiting for welcome message... 
+30/01/16_13:41:57: Welcome message received.
+30/01/16_13:41:57: Waiting for other players to connect...
+30/01/16_13:41:57: IN: WELCOME human 0
+30/01/16_13:42:00: IN: NAMES human 0 human 1 999999
+30/01/16_13:42:00: human's score is: 0
+30/01/16_13:42:00: human's score is: 0
+30/01/16_13:42:00: Tiles in pool: 96
+
+30/01/16_13:42:00: IN: NEW Bc Od Rc Gs P* Ps
+30/01/16_13:42:00: It is now human's turn.
+
+30/01/16_13:42:00: IN: NEXT 1
+30/01/16_13:42:17: human's score is: 0
+30/01/16_13:42:17: human's score is: 3
+30/01/16_13:42:17: 
+human just made the following move: [[O*, 91, 91], [G*, 91, 92], [R*, 91, 93]]
+
+30/01/16_13:42:17: IN: TURN 1 O* 91 91 G* 91 92 R* 91 93
+30/01/16_13:42:17: human's score is: 0
+30/01/16_13:42:17: human's score is: 3
+30/01/16_13:42:30: human's score is: 0
+30/01/16_13:42:30: human's score is: 3
+30/01/16_13:42:31: human's score is: 0
+30/01/16_13:42:31: human's score is: 3
+30/01/16_13:42:31: human's score is: 0
+30/01/16_13:42:31: human's score is: 3
+30/01/16_13:42:32: human's score is: 0
+30/01/16_13:42:32: human's score is: 3
+30/01/16_13:42:32: human's score is: 0
+30/01/16_13:42:32: human's score is: 3
+30/01/16_13:42:32: human's score is: 0
+30/01/16_13:42:32: human's score is: 3
+30/01/16_13:42:34: human's score is: 0
+30/01/16_13:42:34: human's score is: 3
+30/01/16_13:42:34: human's score is: 0
+30/01/16_13:42:34: human's score is: 3
+30/01/16_13:42:35: human's score is: 0
+30/01/16_13:42:35: human's score is: 3
+30/01/16_13:42:36: human's score is: 0
+30/01/16_13:42:36: human's score is: 3
+30/01/16_13:42:36: human's score is: 0
+30/01/16_13:42:36: human's score is: 3
+30/01/16_13:42:36: human's score is: 0
+30/01/16_13:42:36: human's score is: 3
+30/01/16_13:42:37: human's score is: 0
+30/01/16_13:42:37: human's score is: 3
+30/01/16_13:42:37: human's score is: 0
+30/01/16_13:42:37: human's score is: 3
+30/01/16_13:42:38: human's score is: 0
+30/01/16_13:42:38: human's score is: 3
+30/01/16_13:42:39: human's score is: 0
+30/01/16_13:42:39: human's score is: 3
+30/01/16_13:42:39: human's score is: 0
+30/01/16_13:42:39: human's score is: 3
+30/01/16_13:42:40: human's score is: 0
+30/01/16_13:42:40: human's score is: 3
+30/01/16_13:42:40: human's score is: 0
+30/01/16_13:42:40: human's score is: 3
+30/01/16_13:42:40: OUT: MOVE P* 91 90 Ps 92 90 
+30/01/16_13:42:40: IN: NEXT 0
+30/01/16_13:42:40: human's score is: 6
+30/01/16_13:42:40: human's score is: 3
+30/01/16_13:42:40: Tiles in pool: 91
+
+30/01/16_13:42:40: IN: NEW Gd Bc
+30/01/16_13:42:40: IN: TURN 0 P* 91 90 Ps 92 90
+30/01/16_13:42:40: It is now human's turn.
+
+30/01/16_13:42:40: IN: NEXT 1

@@ -1,0 +1,69 @@
+30/01/16_13:10:39: Creating client... 
+30/01/16_13:10:39: Client human created
+30/01/16_13:10:39: Starting client... 
+30/01/16_13:10:39: Client started.
+30/01/16_13:10:39: Sending registration message... 
+30/01/16_13:10:39: OUT: HELLO human
+30/01/16_13:10:39: Registration message send.
+30/01/16_13:10:39: Waiting for welcome message... 
+30/01/16_13:10:39: Welcome message received.
+30/01/16_13:10:39: Waiting for other players to connect...
+30/01/16_13:10:39: IN: WELCOME human 0
+30/01/16_13:10:41: IN: NAMES human 0 human 1 99999
+30/01/16_13:10:41: human's score is: 0
+30/01/16_13:10:41: human's score is: 0
+30/01/16_13:10:41: Tiles in pool: 96
+
+30/01/16_13:10:41: IN: NEW Oo Px Go Po Rs Po
+30/01/16_13:10:41: human's score is: 0
+30/01/16_13:10:41: human's score is: 0
+30/01/16_13:10:46: human's score is: 0
+30/01/16_13:10:46: human's score is: 0
+30/01/16_13:10:47: human's score is: 0
+30/01/16_13:10:47: human's score is: 0
+30/01/16_13:10:47: human's score is: 0
+30/01/16_13:10:47: human's score is: 0
+30/01/16_13:10:55: human's score is: 0
+30/01/16_13:10:55: human's score is: 0
+30/01/16_13:11:00: human's score is: 0
+30/01/16_13:11:00: human's score is: 0
+30/01/16_13:11:01: human's score is: 0
+30/01/16_13:11:01: human's score is: 0
+30/01/16_13:11:01: human's score is: 0
+30/01/16_13:11:01: human's score is: 0
+30/01/16_13:11:03: human's score is: 0
+30/01/16_13:11:03: human's score is: 0
+30/01/16_13:11:04: human's score is: 0
+30/01/16_13:11:04: human's score is: 0
+30/01/16_13:11:06: human's score is: 0
+30/01/16_13:11:06: human's score is: 0
+30/01/16_13:11:08: human's score is: 0
+30/01/16_13:11:08: human's score is: 0
+30/01/16_13:11:10: human's score is: 0
+30/01/16_13:11:10: human's score is: 0
+30/01/16_13:11:10: human's score is: 0
+30/01/16_13:11:10: human's score is: 0
+30/01/16_13:11:12: human's score is: 0
+30/01/16_13:11:12: human's score is: 0
+30/01/16_13:11:12: human's score is: 0
+30/01/16_13:11:12: human's score is: 0
+30/01/16_13:11:19: human's score is: 0
+30/01/16_13:11:19: human's score is: 0
+30/01/16_13:11:20: human's score is: 0
+30/01/16_13:11:20: human's score is: 0
+30/01/16_13:11:21: human's score is: 0
+30/01/16_13:11:21: human's score is: 0
+30/01/16_13:11:21: human's score is: 0
+30/01/16_13:11:21: human's score is: 0
+30/01/16_13:11:22: human's score is: 0
+30/01/16_13:11:22: human's score is: 0
+30/01/16_13:11:23: human's score is: 0
+30/01/16_13:11:23: human's score is: 0
+30/01/16_13:11:24: human's score is: 0
+30/01/16_13:11:24: human's score is: 0
+30/01/16_13:11:26: human's score is: 0
+30/01/16_13:11:26: human's score is: 0
+30/01/16_13:11:27: human's score is: 0
+30/01/16_13:11:27: human's score is: 0
+30/01/16_13:11:29: human's score is: 0
+30/01/16_13:11:29: human's score is: 0

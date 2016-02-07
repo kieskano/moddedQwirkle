@@ -1,0 +1,209 @@
+01/02/16_09:50:12: Creating client... 
+01/02/16_09:50:12: Client human created
+01/02/16_09:50:12: Starting client... 
+01/02/16_09:50:12: Client started.
+01/02/16_09:50:12: Sending registration message... 
+01/02/16_09:50:12: OUT: HELLO human
+01/02/16_09:50:12: Registration message send.
+01/02/16_09:50:12: Waiting for welcome message... 
+01/02/16_09:50:12: Welcome message received.
+01/02/16_09:50:12: Waiting for other players to connect...
+01/02/16_09:50:12: IN: WELCOME human 0
+01/02/16_09:50:16: IN: NAMES human 0 Smart 1 999999
+01/02/16_09:50:16: human's score is: 0
+01/02/16_09:50:16: Smart's score is: 0
+01/02/16_09:50:16: Tiles in pool: 96
+
+01/02/16_09:50:16: IN: NEW Bx Gc Yd Os Ro Yo
+01/02/16_09:50:16: It is now Smart's turn.
+
+01/02/16_09:50:16: IN: NEXT 1
+01/02/16_09:50:16: human's score is: 0
+01/02/16_09:50:16: Smart's score is: 3
+01/02/16_09:50:16: 
+Smart just made the following move: [[Pd, 91, 91], [Rd, 90, 91], [Od, 89, 91]]
+
+01/02/16_09:50:16: IN: TURN 1 Pd 91 91 Rd 90 91 Od 89 91
+01/02/16_09:50:16: human's score is: 0
+01/02/16_09:50:16: Smart's score is: 3
+01/02/16_09:50:25: human's score is: 0
+01/02/16_09:50:25: Smart's score is: 3
+01/02/16_09:50:25: human's score is: 0
+01/02/16_09:50:25: Smart's score is: 3
+01/02/16_09:50:25: human's score is: 0
+01/02/16_09:50:25: Smart's score is: 3
+01/02/16_09:50:26: human's score is: 0
+01/02/16_09:50:26: Smart's score is: 3
+01/02/16_09:50:26: human's score is: 0
+01/02/16_09:50:26: Smart's score is: 3
+01/02/16_09:50:27: human's score is: 0
+01/02/16_09:50:27: Smart's score is: 3
+01/02/16_09:50:27: human's score is: 0
+01/02/16_09:50:27: Smart's score is: 3
+01/02/16_09:50:27: human's score is: 0
+01/02/16_09:50:27: Smart's score is: 3
+01/02/16_09:50:27: human's score is: 0
+01/02/16_09:50:27: Smart's score is: 3
+01/02/16_09:50:28: human's score is: 0
+01/02/16_09:50:28: Smart's score is: 3
+01/02/16_09:50:28: human's score is: 0
+01/02/16_09:50:28: Smart's score is: 3
+01/02/16_09:50:29: human's score is: 0
+01/02/16_09:50:29: Smart's score is: 3
+01/02/16_09:50:29: human's score is: 0
+01/02/16_09:50:29: Smart's score is: 3
+01/02/16_09:50:30: human's score is: 0
+01/02/16_09:50:30: Smart's score is: 3
+01/02/16_09:50:30: human's score is: 0
+01/02/16_09:50:30: Smart's score is: 3
+01/02/16_09:50:30: human's score is: 0
+01/02/16_09:50:30: Smart's score is: 3
+01/02/16_09:50:30: human's score is: 0
+01/02/16_09:50:30: Smart's score is: 3
+01/02/16_09:50:31: OUT: MOVE Yd 92 91 Yo 92 92 
+01/02/16_09:50:31: IN: NEXT 0
+01/02/16_09:50:31: human's score is: 6
+01/02/16_09:50:31: Smart's score is: 3
+01/02/16_09:50:31: Tiles in pool: 91
+
+01/02/16_09:50:31: IN: NEW Yx O*
+01/02/16_09:50:31: IN: TURN 0 Yd 92 91 Yo 92 92
+01/02/16_09:50:31: It is now Smart's turn.
+
+01/02/16_09:50:31: IN: NEXT 1
+01/02/16_09:50:31: human's score is: 6
+01/02/16_09:50:31: Smart's score is: 8
+01/02/16_09:50:31: 
+Smart just made the following move: [[Gd, 88, 91]]
+
+01/02/16_09:50:31: IN: TURN 1 Gd 88 91
+01/02/16_09:50:31: human's score is: 6
+01/02/16_09:50:31: Smart's score is: 8
+01/02/16_09:50:37: human's score is: 6
+01/02/16_09:50:37: Smart's score is: 8
+01/02/16_09:50:37: human's score is: 6
+01/02/16_09:50:37: Smart's score is: 8
+01/02/16_09:50:38: human's score is: 6
+01/02/16_09:50:38: Smart's score is: 8
+01/02/16_09:50:38: human's score is: 6
+01/02/16_09:50:38: Smart's score is: 8
+01/02/16_09:50:38: human's score is: 6
+01/02/16_09:50:38: Smart's score is: 8
+01/02/16_09:50:39: human's score is: 6
+01/02/16_09:50:39: Smart's score is: 8
+01/02/16_09:50:39: human's score is: 6
+01/02/16_09:50:39: Smart's score is: 8
+01/02/16_09:50:39: human's score is: 6
+01/02/16_09:50:39: Smart's score is: 8
+01/02/16_09:50:40: human's score is: 6
+01/02/16_09:50:40: Smart's score is: 8
+01/02/16_09:50:40: human's score is: 6
+01/02/16_09:50:40: Smart's score is: 8
+01/02/16_09:50:40: human's score is: 6
+01/02/16_09:50:40: Smart's score is: 8
+01/02/16_09:50:40: human's score is: 6
+01/02/16_09:50:40: Smart's score is: 8
+01/02/16_09:50:41: human's score is: 6
+01/02/16_09:50:41: Smart's score is: 8
+01/02/16_09:50:41: human's score is: 6
+01/02/16_09:50:41: Smart's score is: 8
+01/02/16_09:50:41: human's score is: 6
+01/02/16_09:50:41: Smart's score is: 8
+01/02/16_09:50:41: human's score is: 6
+01/02/16_09:50:41: Smart's score is: 8
+01/02/16_09:50:41: human's score is: 6
+01/02/16_09:50:41: Smart's score is: 8
+01/02/16_09:50:42: human's score is: 6
+01/02/16_09:50:42: Smart's score is: 8
+01/02/16_09:50:42: human's score is: 6
+01/02/16_09:50:42: Smart's score is: 8
+01/02/16_09:50:43: human's score is: 6
+01/02/16_09:50:43: Smart's score is: 8
+01/02/16_09:50:46: human's score is: 6
+01/02/16_09:50:46: Smart's score is: 8
+01/02/16_09:50:47: human's score is: 6
+01/02/16_09:50:47: Smart's score is: 8
+01/02/16_09:50:48: human's score is: 6
+01/02/16_09:50:48: Smart's score is: 8
+01/02/16_09:50:51: human's score is: 6
+01/02/16_09:50:51: Smart's score is: 8
+01/02/16_09:50:51: human's score is: 6
+01/02/16_09:50:51: Smart's score is: 8
+01/02/16_09:50:51: human's score is: 6
+01/02/16_09:50:51: Smart's score is: 8
+01/02/16_09:50:51: human's score is: 6
+01/02/16_09:50:51: Smart's score is: 8
+01/02/16_09:50:52: OUT: MOVE Yx 92 93 Bx 93 93 
+01/02/16_09:50:52: IN: NEXT 0
+01/02/16_09:50:52: human's score is: 11
+01/02/16_09:50:52: Smart's score is: 8
+01/02/16_09:50:52: Tiles in pool: 88
+
+01/02/16_09:50:52: IN: NEW Bd Go
+01/02/16_09:50:52: IN: TURN 0 Yx 92 93 Bx 93 93
+01/02/16_09:50:52: It is now Smart's turn.
+
+01/02/16_09:50:52: IN: NEXT 1
+01/02/16_09:50:52: human's score is: 11
+01/02/16_09:50:52: Smart's score is: 14
+01/02/16_09:50:52: 
+Smart just made the following move: [[Yc, 92, 90], [Oc, 93, 90]]
+
+01/02/16_09:50:52: IN: TURN 1 Yc 92 90 Oc 93 90
+01/02/16_09:50:52: human's score is: 11
+01/02/16_09:50:52: Smart's score is: 14
+01/02/16_09:50:59: human's score is: 11
+01/02/16_09:50:59: Smart's score is: 14
+01/02/16_09:51:01: human's score is: 11
+01/02/16_09:51:01: Smart's score is: 14
+01/02/16_09:51:02: human's score is: 11
+01/02/16_09:51:02: Smart's score is: 14
+01/02/16_09:51:03: human's score is: 11
+01/02/16_09:51:03: Smart's score is: 14
+01/02/16_09:51:03: human's score is: 11
+01/02/16_09:51:03: Smart's score is: 14
+01/02/16_09:51:04: human's score is: 11
+01/02/16_09:51:04: Smart's score is: 14
+01/02/16_09:51:04: human's score is: 11
+01/02/16_09:51:04: Smart's score is: 14
+01/02/16_09:51:05: human's score is: 11
+01/02/16_09:51:05: Smart's score is: 14
+01/02/16_09:51:05: human's score is: 11
+01/02/16_09:51:05: Smart's score is: 14
+01/02/16_09:51:05: human's score is: 11
+01/02/16_09:51:05: Smart's score is: 14
+01/02/16_09:51:05: human's score is: 11
+01/02/16_09:51:05: Smart's score is: 14
+01/02/16_09:51:06: human's score is: 11
+01/02/16_09:51:06: Smart's score is: 14
+01/02/16_09:51:06: human's score is: 11
+01/02/16_09:51:06: Smart's score is: 14
+01/02/16_09:51:07: human's score is: 11
+01/02/16_09:51:07: Smart's score is: 14
+01/02/16_09:51:08: human's score is: 11
+01/02/16_09:51:08: Smart's score is: 14
+01/02/16_09:51:08: human's score is: 11
+01/02/16_09:51:08: Smart's score is: 14
+01/02/16_09:51:08: human's score is: 11
+01/02/16_09:51:08: Smart's score is: 14
+01/02/16_09:51:08: human's score is: 11
+01/02/16_09:51:08: Smart's score is: 14
+01/02/16_09:51:13: OUT: MOVE Gc 94 90 Go 94 89 
+01/02/16_09:51:13: IN: NEXT 0
+01/02/16_09:51:13: human's score is: 16
+01/02/16_09:51:13: Smart's score is: 14
+01/02/16_09:51:13: Tiles in pool: 84
+
+01/02/16_09:51:13: IN: NEW Oo Bx
+01/02/16_09:51:13: IN: TURN 0 Gc 94 90 Go 94 89
+01/02/16_09:51:13: It is now Smart's turn.
+
+01/02/16_09:51:13: IN: NEXT 1
+01/02/16_09:51:14: human's score is: 16
+01/02/16_09:51:14: Smart's score is: 21
+01/02/16_09:51:14: 
+Smart just made the following move: [[Po, 91, 92], [Ro, 90, 92]]
+
+01/02/16_09:51:14: IN: TURN 1 Po 91 92 Ro 90 92
+01/02/16_09:51:14: human's score is: 16
+01/02/16_09:51:14: Smart's score is: 21

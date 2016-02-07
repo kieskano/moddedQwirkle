@@ -1,0 +1,85 @@
+30/01/16_13:18:11: Creating client... 
+30/01/16_13:18:11: Client human created
+30/01/16_13:18:11: Starting client... 
+30/01/16_13:18:11: Client started.
+30/01/16_13:18:11: Sending registration message... 
+30/01/16_13:18:11: OUT: HELLO human
+30/01/16_13:18:11: Registration message send.
+30/01/16_13:18:11: Waiting for welcome message... 
+30/01/16_13:18:11: Welcome message received.
+30/01/16_13:18:11: Waiting for other players to connect...
+30/01/16_13:18:11: IN: WELCOME human 1
+30/01/16_13:18:11: IN: NAMES human 0 human 1 99999
+30/01/16_13:18:11: human's score is: 0
+30/01/16_13:18:11: human's score is: 0
+30/01/16_13:18:11: Tiles in pool: 96
+
+30/01/16_13:18:11: IN: NEW Bd P* Po Gd Pd Po
+30/01/16_13:18:11: It is now human's turn.
+
+30/01/16_13:18:11: IN: NEXT 0
+30/01/16_13:19:04: human's score is: 3
+30/01/16_13:19:04: human's score is: 0
+30/01/16_13:19:04: 
+human just made the following move: [[Ps, 91, 91], [Rs, 91, 92], [Os, 91, 93]]
+
+30/01/16_13:19:04: IN: TURN 0 Ps 91 91 Rs 91 92 Os 91 93
+30/01/16_13:19:04: human's score is: 3
+30/01/16_13:19:04: human's score is: 0
+30/01/16_13:23:41: human's score is: 3
+30/01/16_13:23:41: human's score is: 0
+30/01/16_13:23:46: human's score is: 3
+30/01/16_13:23:46: human's score is: 0
+30/01/16_13:23:48: human's score is: 3
+30/01/16_13:23:48: human's score is: 0
+30/01/16_13:23:50: human's score is: 3
+30/01/16_13:23:50: human's score is: 0
+30/01/16_13:23:51: human's score is: 3
+30/01/16_13:23:51: human's score is: 0
+30/01/16_13:23:51: human's score is: 3
+30/01/16_13:23:51: human's score is: 0
+30/01/16_13:23:53: human's score is: 3
+30/01/16_13:23:53: human's score is: 0
+30/01/16_13:23:53: human's score is: 3
+30/01/16_13:23:53: human's score is: 0
+30/01/16_13:24:15: human's score is: 3
+30/01/16_13:24:15: human's score is: 0
+30/01/16_13:24:15: human's score is: 3
+30/01/16_13:24:15: human's score is: 0
+30/01/16_13:24:16: human's score is: 3
+30/01/16_13:24:16: human's score is: 0
+30/01/16_13:24:17: human's score is: 3
+30/01/16_13:24:17: human's score is: 0
+30/01/16_13:24:17: human's score is: 3
+30/01/16_13:24:17: human's score is: 0
+30/01/16_13:24:18: human's score is: 3
+30/01/16_13:24:18: human's score is: 0
+30/01/16_13:24:19: human's score is: 3
+30/01/16_13:24:19: human's score is: 0
+30/01/16_13:24:19: human's score is: 3
+30/01/16_13:24:19: human's score is: 0
+30/01/16_13:24:20: human's score is: 3
+30/01/16_13:24:20: human's score is: 0
+30/01/16_13:24:21: human's score is: 3
+30/01/16_13:24:21: human's score is: 0
+30/01/16_13:24:22: human's score is: 3
+30/01/16_13:24:22: human's score is: 0
+30/01/16_13:24:22: human's score is: 3
+30/01/16_13:24:22: human's score is: 0
+30/01/16_13:24:23: human's score is: 3
+30/01/16_13:24:23: human's score is: 0
+30/01/16_13:24:23: human's score is: 3
+30/01/16_13:24:23: human's score is: 0
+30/01/16_13:24:24: human's score is: 3
+30/01/16_13:24:24: human's score is: 0
+30/01/16_13:24:25: human's score is: 3
+30/01/16_13:24:25: human's score is: 0
+30/01/16_13:24:26: human's score is: 3
+30/01/16_13:24:26: human's score is: 0
+30/01/16_13:24:26: human's score is: 3
+30/01/16_13:24:26: human's score is: 0
+30/01/16_13:24:27: OUT: MOVE Po 92 91 P* 93 91 Pd 94 91 
+30/01/16_13:24:27: IN: NEXT 1
+30/01/16_13:24:27: Previous game will now stop.
+30/01/16_13:24:27: Closing socket connection from previous game...
+30/01/16_13:24:27: Socket from previous game closed

@@ -1,0 +1,23 @@
+30/01/16_23:01:00: Creating client... 
+30/01/16_23:01:00: Client human created
+30/01/16_23:01:00: Starting client... 
+30/01/16_23:01:00: Client started.
+30/01/16_23:01:00: Sending registration message... 
+30/01/16_23:01:00: OUT: HELLO human
+30/01/16_23:01:00: Registration message send.
+30/01/16_23:01:00: Waiting for welcome message... 
+30/01/16_23:01:00: Welcome message received.
+30/01/16_23:01:00: Waiting for other players to connect...
+30/01/16_23:01:00: IN: WELCOME human 1
+30/01/16_23:01:00: IN: NAMES human 0 human 1 999999
+30/01/16_23:01:01: human's score is: 0
+30/01/16_23:01:01: human's score is: 0
+30/01/16_23:01:01: Tiles in pool: 96
+
+30/01/16_23:01:01: IN: NEW Gc Oc Gx Ys Rs Bc
+30/01/16_23:01:01: human's score is: 0
+30/01/16_23:01:01: human's score is: 0
+30/01/16_23:01:04: human's score is: 0
+30/01/16_23:01:04: human's score is: 0
+30/01/16_23:01:06: human's score is: 0
+30/01/16_23:01:06: human's score is: 0

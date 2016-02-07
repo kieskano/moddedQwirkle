@@ -1,0 +1,408 @@
+01/02/16_13:44:36: Creating client... 
+01/02/16_13:44:36: Client SuperSmart created
+01/02/16_13:44:36: Starting client... 
+01/02/16_13:44:36: Client started.
+01/02/16_13:44:36: Sending registration message... 
+01/02/16_13:44:36: OUT: HELLO SuperSmart
+01/02/16_13:44:36: Registration message send.
+01/02/16_13:44:36: Waiting for welcome message... 
+01/02/16_13:44:36: Welcome message received.
+01/02/16_13:44:36: Waiting for other players to connect...
+01/02/16_13:44:36: IN: WELCOME SuperSmart 1
+01/02/16_13:44:36: IN: NAMES human 0 SuperSmart 1 999999
+01/02/16_13:44:36: human's score is: 0
+01/02/16_13:44:36: SuperSmart's score is: 0
+01/02/16_13:44:36: Tiles in pool: 96
+
+01/02/16_13:44:36: IN: NEW Ys Od Po Yo P* Pc
+01/02/16_13:44:36: It is now human's turn.
+
+01/02/16_13:44:36: IN: NEXT 0
+01/02/16_13:45:28: human's score is: 3
+01/02/16_13:45:28: SuperSmart's score is: 0
+01/02/16_13:45:28: 
+human just made the following move: [[Oo, 91, 91], [Ox, 91, 92], [O*, 91, 93]]
+
+01/02/16_13:45:28: IN: TURN 0 Oo 91 91 Ox 91 92 O* 91 93
+01/02/16_13:45:28: human's score is: 3
+01/02/16_13:45:28: SuperSmart's score is: 0
+01/02/16_13:45:28: 
+It is your turn!
+01/02/16_13:45:28: 
+What is your action?
+01/02/16_13:45:28: human's score is: 3
+01/02/16_13:45:28: SuperSmart's score is: 0
+01/02/16_13:45:28: 
+What is your action?
+01/02/16_13:45:28: human's score is: 3
+01/02/16_13:45:28: SuperSmart's score is: 0
+01/02/16_13:45:28: 
+What is your action?
+01/02/16_13:45:28: human's score is: 3
+01/02/16_13:45:28: SuperSmart's score is: 0
+01/02/16_13:45:28: 
+What is your action?
+01/02/16_13:45:28: human's score is: 3
+01/02/16_13:45:28: SuperSmart's score is: 0
+01/02/16_13:45:28: OUT: MOVE Po 92 91 Pc 92 90 P* 92 89 
+01/02/16_13:45:28: IN: NEXT 1
+01/02/16_13:45:28: human's score is: 3
+01/02/16_13:45:28: SuperSmart's score is: 5
+01/02/16_13:45:28: Tiles in pool: 90
+
+01/02/16_13:45:28: IN: NEW Yd Bs Go
+01/02/16_13:45:28: IN: TURN 1 Po 92 91 Pc 92 90 P* 92 89
+01/02/16_13:45:28: It is now human's turn.
+
+01/02/16_13:45:28: IN: NEXT 0
+01/02/16_13:45:38: human's score is: 9
+01/02/16_13:45:38: SuperSmart's score is: 5
+01/02/16_13:45:38: 
+human just made the following move: [[Px, 92, 92]]
+
+01/02/16_13:45:38: IN: TURN 0 Px 92 92
+01/02/16_13:45:38: human's score is: 9
+01/02/16_13:45:38: SuperSmart's score is: 5
+01/02/16_13:45:38: 
+It is your turn!
+01/02/16_13:45:38: 
+What is your action?
+01/02/16_13:45:38: human's score is: 9
+01/02/16_13:45:38: SuperSmart's score is: 5
+01/02/16_13:45:38: 
+What is your action?
+01/02/16_13:45:38: human's score is: 9
+01/02/16_13:45:38: SuperSmart's score is: 5
+01/02/16_13:45:38: 
+What is your action?
+01/02/16_13:45:38: human's score is: 9
+01/02/16_13:45:38: SuperSmart's score is: 5
+01/02/16_13:45:38: OUT: MOVE Od 91 94 Yd 90 94 
+01/02/16_13:45:38: IN: NEXT 1
+01/02/16_13:45:38: human's score is: 9
+01/02/16_13:45:38: SuperSmart's score is: 11
+01/02/16_13:45:38: Tiles in pool: 87
+
+01/02/16_13:45:38: IN: NEW Rd Rs
+01/02/16_13:45:38: IN: TURN 1 Od 91 94 Yd 90 94
+01/02/16_13:45:38: It is now human's turn.
+
+01/02/16_13:45:38: IN: NEXT 0
+01/02/16_13:45:55: human's score is: 16
+01/02/16_13:45:55: SuperSmart's score is: 11
+01/02/16_13:45:55: 
+human just made the following move: [[G*, 93, 89], [Gc, 93, 90], [Gs, 93, 88]]
+
+01/02/16_13:45:55: IN: TURN 0 G* 93 89 Gc 93 90 Gs 93 88
+01/02/16_13:45:55: human's score is: 16
+01/02/16_13:45:55: SuperSmart's score is: 11
+01/02/16_13:45:55: 
+It is your turn!
+01/02/16_13:45:55: 
+What is your action?
+01/02/16_13:45:56: human's score is: 16
+01/02/16_13:45:56: SuperSmart's score is: 11
+01/02/16_13:45:56: 
+What is your action?
+01/02/16_13:45:56: human's score is: 16
+01/02/16_13:45:56: SuperSmart's score is: 11
+01/02/16_13:45:56: 
+What is your action?
+01/02/16_13:45:56: human's score is: 16
+01/02/16_13:45:56: SuperSmart's score is: 11
+01/02/16_13:45:56: OUT: MOVE Go 93 91 Yo 94 91 
+01/02/16_13:45:56: IN: NEXT 1
+01/02/16_13:45:56: human's score is: 16
+01/02/16_13:45:56: SuperSmart's score is: 19
+01/02/16_13:45:56: Tiles in pool: 82
+
+01/02/16_13:45:56: IN: NEW Rc Gx
+01/02/16_13:45:56: IN: TURN 1 Go 93 91 Yo 94 91
+01/02/16_13:45:56: It is now human's turn.
+
+01/02/16_13:45:56: IN: NEXT 0
+01/02/16_13:46:23: human's score is: 21
+01/02/16_13:46:23: SuperSmart's score is: 19
+01/02/16_13:46:23: 
+human just made the following move: [[R*, 91, 89], [Rd, 91, 88]]
+
+01/02/16_13:46:23: IN: TURN 0 R* 91 89 Rd 91 88
+01/02/16_13:46:23: human's score is: 21
+01/02/16_13:46:23: SuperSmart's score is: 19
+01/02/16_13:46:23: 
+It is your turn!
+01/02/16_13:46:23: 
+What is your action?
+01/02/16_13:46:23: human's score is: 21
+01/02/16_13:46:23: SuperSmart's score is: 19
+01/02/16_13:46:23: 
+What is your action?
+01/02/16_13:46:23: human's score is: 21
+01/02/16_13:46:23: SuperSmart's score is: 19
+01/02/16_13:46:23: 
+What is your action?
+01/02/16_13:46:23: human's score is: 21
+01/02/16_13:46:23: SuperSmart's score is: 19
+01/02/16_13:46:23: 
+What is your action?
+01/02/16_13:46:23: human's score is: 21
+01/02/16_13:46:23: SuperSmart's score is: 19
+01/02/16_13:46:23: OUT: MOVE Rc 91 87 Rd 90 87 Rs 89 87 
+01/02/16_13:46:23: IN: NEXT 1
+01/02/16_13:46:23: human's score is: 21
+01/02/16_13:46:23: SuperSmart's score is: 25
+01/02/16_13:46:23: Tiles in pool: 77
+
+01/02/16_13:46:23: IN: NEW Bd Gd Y*
+01/02/16_13:46:23: IN: TURN 1 Rc 91 87 Rd 90 87 Rs 89 87
+01/02/16_13:46:23: It is now human's turn.
+
+01/02/16_13:46:23: IN: NEXT 0
+01/02/16_13:46:40: human's score is: 26
+01/02/16_13:46:40: SuperSmart's score is: 25
+01/02/16_13:46:40: 
+human just made the following move: [[Bd, 89, 94], [Bx, 89, 95]]
+
+01/02/16_13:46:40: IN: TURN 0 Bd 89 94 Bx 89 95
+01/02/16_13:46:40: human's score is: 26
+01/02/16_13:46:40: SuperSmart's score is: 25
+01/02/16_13:46:40: 
+It is your turn!
+01/02/16_13:46:40: 
+What is your action?
+01/02/16_13:46:41: human's score is: 26
+01/02/16_13:46:41: SuperSmart's score is: 25
+01/02/16_13:46:41: 
+What is your action?
+01/02/16_13:46:41: human's score is: 26
+01/02/16_13:46:41: SuperSmart's score is: 25
+01/02/16_13:46:41: 
+What is your action?
+01/02/16_13:46:41: human's score is: 26
+01/02/16_13:46:41: SuperSmart's score is: 25
+01/02/16_13:46:41: OUT: MOVE Gx 93 92 Gd 93 93 
+01/02/16_13:46:41: IN: NEXT 1
+01/02/16_13:46:41: human's score is: 26
+01/02/16_13:46:41: SuperSmart's score is: 40
+01/02/16_13:46:41: Tiles in pool: 73
+
+01/02/16_13:46:41: IN: NEW P* Od
+01/02/16_13:46:41: IN: TURN 1 Gx 93 92 Gd 93 93
+01/02/16_13:46:41: It is now human's turn.
+
+01/02/16_13:46:41: IN: NEXT 0
+01/02/16_13:46:54: human swapped.
+
+01/02/16_13:46:54: human's score is: 26
+01/02/16_13:46:54: SuperSmart's score is: 40
+01/02/16_13:46:54: IN: TURN 0 empty
+01/02/16_13:46:54: human's score is: 26
+01/02/16_13:46:54: SuperSmart's score is: 40
+01/02/16_13:46:54: 
+It is your turn!
+01/02/16_13:46:54: 
+What is your action?
+01/02/16_13:46:54: human's score is: 26
+01/02/16_13:46:54: SuperSmart's score is: 40
+01/02/16_13:46:54: 
+What is your action?
+01/02/16_13:46:54: human's score is: 26
+01/02/16_13:46:54: SuperSmart's score is: 40
+01/02/16_13:46:54: 
+What is your action?
+01/02/16_13:46:54: human's score is: 26
+01/02/16_13:46:54: SuperSmart's score is: 40
+01/02/16_13:46:54: OUT: MOVE Ys 94 88 Y* 94 89 
+01/02/16_13:46:54: IN: NEXT 1
+01/02/16_13:46:54: human's score is: 26
+01/02/16_13:46:54: SuperSmart's score is: 48
+01/02/16_13:46:54: Tiles in pool: 71
+
+01/02/16_13:46:54: IN: NEW Ro Oc
+01/02/16_13:46:54: IN: TURN 1 Ys 94 88 Y* 94 89
+01/02/16_13:46:54: It is now human's turn.
+
+01/02/16_13:46:54: IN: NEXT 0
+01/02/16_13:47:24: human's score is: 33
+01/02/16_13:47:24: SuperSmart's score is: 48
+01/02/16_13:47:24: 
+human just made the following move: [[Bc, 89, 96], [Pc, 90, 96], [Gc, 91, 96], [Rc, 92, 96]]
+
+01/02/16_13:47:24: IN: TURN 0 Bc 89 96 Pc 90 96 Gc 91 96 Rc 92 96
+01/02/16_13:47:24: human's score is: 33
+01/02/16_13:47:24: SuperSmart's score is: 48
+01/02/16_13:47:24: 
+It is your turn!
+01/02/16_13:47:24: 
+What is your action?
+01/02/16_13:47:24: human's score is: 33
+01/02/16_13:47:24: SuperSmart's score is: 48
+01/02/16_13:47:24: 
+What is your action?
+01/02/16_13:47:24: human's score is: 33
+01/02/16_13:47:24: SuperSmart's score is: 48
+01/02/16_13:47:24: 
+What is your action?
+01/02/16_13:47:24: human's score is: 33
+01/02/16_13:47:24: SuperSmart's score is: 48
+01/02/16_13:47:24: OUT: MOVE Bs 89 93 Bd 88 93 
+01/02/16_13:47:24: IN: NEXT 1
+01/02/16_13:47:24: human's score is: 33
+01/02/16_13:47:24: SuperSmart's score is: 54
+01/02/16_13:47:24: Tiles in pool: 65
+
+01/02/16_13:47:24: IN: NEW Ys Yo
+01/02/16_13:47:24: IN: TURN 1 Bs 89 93 Bd 88 93
+01/02/16_13:47:24: It is now human's turn.
+
+01/02/16_13:47:24: IN: NEXT 0
+01/02/16_13:47:42: human's score is: 36
+01/02/16_13:47:42: SuperSmart's score is: 54
+01/02/16_13:47:42: 
+human just made the following move: [[Ps, 90, 97], [Po, 90, 98]]
+
+01/02/16_13:47:42: IN: TURN 0 Ps 90 97 Po 90 98
+01/02/16_13:47:42: human's score is: 36
+01/02/16_13:47:42: SuperSmart's score is: 54
+01/02/16_13:47:42: 
+It is your turn!
+01/02/16_13:47:42: 
+What is your action?
+01/02/16_13:47:42: human's score is: 36
+01/02/16_13:47:42: SuperSmart's score is: 54
+01/02/16_13:47:42: 
+What is your action?
+01/02/16_13:47:42: human's score is: 36
+01/02/16_13:47:42: SuperSmart's score is: 54
+01/02/16_13:47:42: 
+What is your action?
+01/02/16_13:47:42: human's score is: 36
+01/02/16_13:47:42: SuperSmart's score is: 54
+01/02/16_13:47:42: OUT: MOVE Ro 91 86 Yo 92 86 
+01/02/16_13:47:42: IN: NEXT 1
+01/02/16_13:47:42: human's score is: 36
+01/02/16_13:47:42: SuperSmart's score is: 60
+01/02/16_13:47:42: Tiles in pool: 61
+
+01/02/16_13:47:42: IN: NEW Y* Os
+01/02/16_13:47:42: IN: TURN 1 Ro 91 86 Yo 92 86
+01/02/16_13:47:42: It is now human's turn.
+
+01/02/16_13:47:42: IN: NEXT 0
+01/02/16_13:48:13: human's score is: 48
+01/02/16_13:48:13: SuperSmart's score is: 60
+01/02/16_13:48:13: 
+human just made the following move: [[Oc, 93, 96], [Yc, 94, 96]]
+
+01/02/16_13:48:13: IN: TURN 0 Oc 93 96 Yc 94 96
+01/02/16_13:48:13: human's score is: 48
+01/02/16_13:48:13: SuperSmart's score is: 60
+01/02/16_13:48:13: 
+It is your turn!
+01/02/16_13:48:13: 
+What is your action?
+01/02/16_13:48:13: human's score is: 48
+01/02/16_13:48:13: SuperSmart's score is: 60
+01/02/16_13:48:13: 
+What is your action?
+01/02/16_13:48:13: human's score is: 48
+01/02/16_13:48:13: SuperSmart's score is: 60
+01/02/16_13:48:13: 
+What is your action?
+01/02/16_13:48:13: human's score is: 48
+01/02/16_13:48:13: SuperSmart's score is: 60
+01/02/16_13:48:13: 
+What is your action?
+01/02/16_13:48:13: human's score is: 48
+01/02/16_13:48:13: SuperSmart's score is: 60
+01/02/16_13:48:13: OUT: MOVE Os 93 95 Oc 94 95 Od 95 95 
+01/02/16_13:48:13: IN: NEXT 1
+01/02/16_13:48:13: human's score is: 48
+01/02/16_13:48:13: SuperSmart's score is: 67
+01/02/16_13:48:13: Tiles in pool: 56
+
+01/02/16_13:48:13: IN: NEW Bc Gd B*
+01/02/16_13:48:13: IN: TURN 1 Os 93 95 Oc 94 95 Od 95 95
+01/02/16_13:48:13: It is now human's turn.
+
+01/02/16_13:48:13: IN: NEXT 0
+01/02/16_13:54:58: human's score is: 52
+01/02/16_13:54:58: SuperSmart's score is: 67
+01/02/16_13:54:58: 
+human just made the following move: [[Pc, 91, 97]]
+
+01/02/16_13:54:58: IN: TURN 0 Pc 91 97
+01/02/16_13:54:58: human's score is: 52
+01/02/16_13:54:58: SuperSmart's score is: 67
+01/02/16_13:54:58: 
+It is your turn!
+01/02/16_13:54:58: 
+What is your action?
+01/02/16_13:54:58: human's score is: 52
+01/02/16_13:54:58: SuperSmart's score is: 67
+01/02/16_13:54:58: 
+What is your action?
+01/02/16_13:54:58: human's score is: 52
+01/02/16_13:54:58: SuperSmart's score is: 67
+01/02/16_13:54:58: 
+What is your action?
+01/02/16_13:54:58: human's score is: 52
+01/02/16_13:54:58: SuperSmart's score is: 67
+01/02/16_13:54:58: 
+What is your action?
+01/02/16_13:54:58: human's score is: 52
+01/02/16_13:54:58: SuperSmart's score is: 67
+01/02/16_13:54:58: OUT: MOVE P* 90 99 Y* 89 99 B* 88 99 
+01/02/16_13:54:58: IN: NEXT 1
+01/02/16_13:54:58: human's score is: 52
+01/02/16_13:54:58: SuperSmart's score is: 74
+01/02/16_13:54:58: Tiles in pool: 52
+
+01/02/16_13:54:58: IN: NEW Yx Pd Bx
+01/02/16_13:54:58: IN: TURN 1 P* 90 99 Y* 89 99 B* 88 99
+01/02/16_13:54:58: It is now human's turn.
+
+01/02/16_13:54:58: IN: NEXT 0
+01/02/16_13:55:18: human's score is: 55
+01/02/16_13:55:18: SuperSmart's score is: 74
+01/02/16_13:55:18: 
+human just made the following move: [[Oo, 93, 97]]
+
+01/02/16_13:55:18: IN: TURN 0 Oo 93 97
+01/02/16_13:55:18: human's score is: 55
+01/02/16_13:55:18: SuperSmart's score is: 74
+01/02/16_13:55:18: 
+It is your turn!
+01/02/16_13:55:18: 
+What is your action?
+01/02/16_13:55:19: human's score is: 55
+01/02/16_13:55:19: SuperSmart's score is: 74
+01/02/16_13:55:19: 
+What is your action?
+01/02/16_13:55:19: human's score is: 55
+01/02/16_13:55:19: SuperSmart's score is: 74
+01/02/16_13:55:19: 
+What is your action?
+01/02/16_13:55:19: human's score is: 55
+01/02/16_13:55:19: SuperSmart's score is: 74
+01/02/16_13:55:19: OUT: MOVE Bx 88 100 Yx 89 100 
+01/02/16_13:55:19: IN: NEXT 1
+01/02/16_13:55:19: human's score is: 55
+01/02/16_13:55:19: SuperSmart's score is: 80
+01/02/16_13:55:19: Tiles in pool: 49
+
+01/02/16_13:55:19: IN: NEW Rx Gx
+01/02/16_13:55:19: IN: TURN 1 Bx 88 100 Yx 89 100
+01/02/16_13:55:19: It is now human's turn.
+
+01/02/16_13:55:19: IN: NEXT 0
+01/02/16_14:11:59: Tiles in pool: 55
+
+01/02/16_14:11:59: human IS KICKED FOR THE FOLLOWING REASON: Did not make a move in time
+
+01/02/16_14:11:59: IN: KICK 0 6 Did not make a move in time
+01/02/16_14:11:59: human's score is: 55
+01/02/16_14:11:59: SuperSmart's score is: 80
+01/02/16_14:11:59: You won!
+
+01/02/16_14:11:59: Would you like to play another game? Y/N

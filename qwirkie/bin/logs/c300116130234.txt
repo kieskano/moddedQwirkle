@@ -1,0 +1,63 @@
+30/01/16_13:02:34: Welcome in Qwirkle
+30/01/16_13:02:34: (only characters a-z A-Z and 1 to 16 characters long)
+30/01/16_13:02:34: What is your name? 
+
+30/01/16_13:02:38: 
+Server IP-adress: 
+
+30/01/16_13:02:40: 
+Server port: 
+
+30/01/16_13:02:45: 
+Bot: 'b', Human: 'h'
+
+30/01/16_13:02:46: Creating client... 
+30/01/16_13:02:46: Client HumanTwo created
+30/01/16_13:02:46: Starting client... 
+30/01/16_13:02:46: Client started.
+30/01/16_13:02:46: Sending registration message... 
+30/01/16_13:02:46: OUT: HELLO HumanTwo
+30/01/16_13:02:46: Registration message send.
+30/01/16_13:02:46: Waiting for welcome message... 
+30/01/16_13:02:46: Welcome message received.
+30/01/16_13:02:46: Waiting for other players to connect...
+30/01/16_13:02:46: IN: WELCOME HumanTwo 1
+30/01/16_13:02:46: IN: NAMES HumanOne 0 HumanTwo 1 999999
+30/01/16_13:02:46: HumanOne's score is: 0
+30/01/16_13:02:46: HumanTwo's score is: 0
+30/01/16_13:02:46: Tiles in pool: 96
+
+30/01/16_13:02:46: IN: NEW Os Od Rx Yo Ys Ps
+30/01/16_13:02:46: It is now HumanOne's turn.
+
+30/01/16_13:02:46: IN: NEXT 0
+30/01/16_13:03:31: Tiles in pool: 102
+
+30/01/16_13:03:31: HumanOne IS KICKED FOR THE FOLLOWING REASON: lost connection with player
+
+30/01/16_13:03:31: IN: KICK 0 6 lost connection with player
+30/01/16_13:03:31: HumanOne's score is: 0
+30/01/16_13:03:31: HumanTwo's score is: 0
+30/01/16_13:03:31: You won!
+
+30/01/16_13:03:31: Would you like to play another game? Y/N
+30/01/16_13:04:35: Creating client... 
+30/01/16_13:04:35: Client HumanTwo created
+30/01/16_13:04:35: Starting client... 
+30/01/16_13:04:35: Client started.
+30/01/16_13:04:35: Sending registration message... 
+30/01/16_13:04:35: OUT: HELLO HumanTwo
+30/01/16_13:04:35: Registration message send.
+30/01/16_13:04:35: Waiting for welcome message... 
+30/01/16_13:04:35: Welcome message received.
+30/01/16_13:04:35: Closing socket connection from previous game...
+30/01/16_13:04:35: Waiting for other players to connect...
+30/01/16_13:04:35: IN: WELCOME HumanTwo 0
+30/01/16_13:04:35: Socket from previous game closed
+30/01/16_13:04:35: IN: WINNER 1
+30/01/16_13:04:35: Previous game will now stop.
+30/01/16_13:04:35: Closing socket connection from previous game...
+30/01/16_13:04:35: Socket from previous game closed
+30/01/16_13:04:57: Previous game will now stop.
+30/01/16_13:04:57: Closing socket connection from previous game...
+30/01/16_13:04:57: Socket from previous game closed

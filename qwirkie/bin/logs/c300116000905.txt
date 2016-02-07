@@ -1,0 +1,43 @@
+30/01/16_00:09:05: Welcome in Qwirkle
+30/01/16_00:09:05: (only characters a-z A-Z and 1 to 16 characters long)
+30/01/16_00:09:05: What is your name? 
+
+30/01/16_00:09:07: 
+Server IP-adress: 
+
+30/01/16_00:09:09: 
+Server port: 
+
+30/01/16_00:09:12: 
+Bot: 'b', Human: 'h'
+
+30/01/16_00:09:13: Creating client... 
+30/01/16_00:09:13: Client Test created
+30/01/16_00:09:13: Starting client... 
+30/01/16_00:09:13: Client started.
+30/01/16_00:09:13: Sending registration message... 
+30/01/16_00:09:13: OUT: HELLO Test
+30/01/16_00:09:13: Registration message send.
+30/01/16_00:09:13: Waiting for welcome message... 
+30/01/16_00:09:13: Welcome message received.
+30/01/16_00:09:13: Waiting for other players to connect...
+30/01/16_00:09:13: IN: WELCOME Test 1
+30/01/16_00:09:13: IN: NAMES Wijtse 0 Test 1 999999
+30/01/16_00:09:13: Wijtse's score is: 0
+30/01/16_00:09:13: Test's score is: 0
+30/01/16_00:09:13: Tiles in pool: 96
+
+30/01/16_00:09:13: IN: NEW Yd Ox B* Bx Gs Os
+30/01/16_00:09:13: It is now Wijtse's turn.
+
+30/01/16_00:09:13: IN: NEXT 0
+30/01/16_00:11:00: Tiles in pool: 102
+
+30/01/16_00:11:00: Wijtse IS KICKED FOR THE FOLLOWING REASON: lost connection with player
+
+30/01/16_00:11:00: IN: KICK 0 6 lost connection with player
+30/01/16_00:11:00: Wijtse's score is: 0
+30/01/16_00:11:00: Test's score is: 0
+30/01/16_00:11:00: You won!
+
+30/01/16_00:11:00: Would you like to play another game? Y/N

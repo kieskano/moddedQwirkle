@@ -1,0 +1,67 @@
+30/01/16_13:45:58: Creating client... 
+30/01/16_13:45:58: Client human created
+30/01/16_13:45:58: Starting client... 
+30/01/16_13:45:58: Client started.
+30/01/16_13:45:58: Sending registration message... 
+30/01/16_13:45:58: OUT: HELLO human
+30/01/16_13:45:58: Registration message send.
+30/01/16_13:45:58: Waiting for welcome message... 
+30/01/16_13:45:58: Welcome message received.
+30/01/16_13:45:58: Waiting for other players to connect...
+30/01/16_13:45:58: IN: WELCOME human 1
+30/01/16_13:45:58: IN: NAMES human 0 human 1 999999
+30/01/16_13:45:58: human's score is: 0
+30/01/16_13:45:58: human's score is: 0
+30/01/16_13:45:58: Tiles in pool: 96
+
+30/01/16_13:45:58: IN: NEW Os Rs Od Yd Yd Pc
+30/01/16_13:45:58: It is now human's turn.
+
+30/01/16_13:45:58: IN: NEXT 0
+30/01/16_13:46:36: human's score is: 2
+30/01/16_13:46:36: human's score is: 0
+30/01/16_13:46:36: 
+human just made the following move: [[Rd, 91, 91], [Rc, 91, 92]]
+
+30/01/16_13:46:36: IN: TURN 0 Rd 91 91 Rc 91 92
+30/01/16_13:46:36: human's score is: 2
+30/01/16_13:46:36: human's score is: 0
+30/01/16_13:46:40: human's score is: 2
+30/01/16_13:46:40: human's score is: 0
+30/01/16_13:46:41: human's score is: 2
+30/01/16_13:46:41: human's score is: 0
+30/01/16_13:46:42: human's score is: 2
+30/01/16_13:46:42: human's score is: 0
+30/01/16_13:46:42: human's score is: 2
+30/01/16_13:46:42: human's score is: 0
+30/01/16_13:46:43: human's score is: 2
+30/01/16_13:46:43: human's score is: 0
+30/01/16_13:46:44: human's score is: 2
+30/01/16_13:46:44: human's score is: 0
+30/01/16_13:46:45: human's score is: 2
+30/01/16_13:46:45: human's score is: 0
+30/01/16_13:46:46: human's score is: 2
+30/01/16_13:46:46: human's score is: 0
+30/01/16_13:46:48: human's score is: 2
+30/01/16_13:46:48: human's score is: 0
+30/01/16_13:46:49: OUT: MOVE Rs 91 90 Os 92 90 
+30/01/16_13:46:49: IN: NEXT 1
+30/01/16_13:46:49: human's score is: 2
+30/01/16_13:46:49: human's score is: 5
+30/01/16_13:46:49: Tiles in pool: 92
+
+30/01/16_13:46:49: IN: NEW P* Oc
+30/01/16_13:46:49: IN: TURN 1 Rs 91 90 Os 92 90
+30/01/16_13:46:49: It is now human's turn.
+
+30/01/16_13:46:49: IN: NEXT 0
+30/01/16_13:47:29: Tiles in pool: 98
+
+30/01/16_13:47:29: human IS KICKED FOR THE FOLLOWING REASON: made an invalid turn
+
+30/01/16_13:47:29: IN: KICK 0 6 made an invalid turn
+30/01/16_13:47:29: human's score is: 2
+30/01/16_13:47:29: human's score is: 5
+30/01/16_13:47:29: You won!
+
+30/01/16_13:47:29: Would you like to play another game? Y/N

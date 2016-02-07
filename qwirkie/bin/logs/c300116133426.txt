@@ -1,0 +1,131 @@
+30/01/16_13:34:26: Creating client... 
+30/01/16_13:34:26: Client human created
+30/01/16_13:34:26: Starting client... 
+30/01/16_13:34:26: Client started.
+30/01/16_13:34:26: Sending registration message... 
+30/01/16_13:34:26: OUT: HELLO human
+30/01/16_13:34:26: Registration message send.
+30/01/16_13:34:26: Waiting for welcome message... 
+30/01/16_13:34:26: Welcome message received.
+30/01/16_13:34:26: Waiting for other players to connect...
+30/01/16_13:34:26: IN: WELCOME human 0
+30/01/16_13:34:29: IN: NAMES human 0 human 1 999999
+30/01/16_13:34:29: human's score is: 0
+30/01/16_13:34:29: human's score is: 0
+30/01/16_13:34:29: Tiles in pool: 96
+
+30/01/16_13:34:29: IN: NEW B* Yx Bx Po Bs Po
+30/01/16_13:34:29: human's score is: 0
+30/01/16_13:34:29: human's score is: 0
+30/01/16_13:34:32: human's score is: 0
+30/01/16_13:34:32: human's score is: 0
+30/01/16_13:34:34: human's score is: 0
+30/01/16_13:34:34: human's score is: 0
+30/01/16_13:34:34: human's score is: 0
+30/01/16_13:34:34: human's score is: 0
+30/01/16_13:34:35: human's score is: 0
+30/01/16_13:34:35: human's score is: 0
+30/01/16_13:34:36: human's score is: 0
+30/01/16_13:34:36: human's score is: 0
+30/01/16_13:34:37: human's score is: 0
+30/01/16_13:34:37: human's score is: 0
+30/01/16_13:34:37: human's score is: 0
+30/01/16_13:34:37: human's score is: 0
+30/01/16_13:34:38: human's score is: 0
+30/01/16_13:34:38: human's score is: 0
+30/01/16_13:34:40: human's score is: 0
+30/01/16_13:34:40: human's score is: 0
+30/01/16_13:34:40: human's score is: 0
+30/01/16_13:34:40: human's score is: 0
+30/01/16_13:34:41: human's score is: 0
+30/01/16_13:34:41: human's score is: 0
+30/01/16_13:34:42: human's score is: 0
+30/01/16_13:34:42: human's score is: 0
+30/01/16_13:34:43: human's score is: 0
+30/01/16_13:34:43: human's score is: 0
+30/01/16_13:34:43: human's score is: 0
+30/01/16_13:34:43: human's score is: 0
+30/01/16_13:34:44: human's score is: 0
+30/01/16_13:34:44: human's score is: 0
+30/01/16_13:34:44: OUT: MOVE Yx 91 91 Bx 91 92 
+30/01/16_13:34:44: IN: NEXT 0
+30/01/16_13:34:44: human's score is: 2
+30/01/16_13:34:44: human's score is: 0
+30/01/16_13:34:44: Tiles in pool: 94
+
+30/01/16_13:34:44: IN: NEW Pc P*
+30/01/16_13:34:44: IN: TURN 0 Yx 91 91 Bx 91 92
+30/01/16_13:34:45: It is now human's turn.
+
+30/01/16_13:34:45: IN: NEXT 1
+30/01/16_13:35:26: human's score is: 2
+30/01/16_13:35:26: human's score is: 4
+30/01/16_13:35:26: 
+human just made the following move: [[Px, 92, 92], [Pc, 92, 93]]
+
+30/01/16_13:35:26: IN: TURN 1 Px 92 92 Pc 92 93
+30/01/16_13:35:27: human's score is: 2
+30/01/16_13:35:27: human's score is: 4
+30/01/16_13:35:31: human's score is: 2
+30/01/16_13:35:31: human's score is: 4
+30/01/16_13:35:31: human's score is: 2
+30/01/16_13:35:31: human's score is: 4
+30/01/16_13:35:37: human's score is: 2
+30/01/16_13:35:37: human's score is: 4
+30/01/16_13:35:38: human's score is: 2
+30/01/16_13:35:38: human's score is: 4
+30/01/16_13:35:38: human's score is: 2
+30/01/16_13:35:38: human's score is: 4
+30/01/16_13:35:39: human's score is: 2
+30/01/16_13:35:39: human's score is: 4
+30/01/16_13:35:40: human's score is: 2
+30/01/16_13:35:40: human's score is: 4
+30/01/16_13:35:40: human's score is: 2
+30/01/16_13:35:40: human's score is: 4
+30/01/16_13:35:41: human's score is: 2
+30/01/16_13:35:41: human's score is: 4
+30/01/16_13:35:41: human's score is: 2
+30/01/16_13:35:41: human's score is: 4
+30/01/16_13:35:42: human's score is: 2
+30/01/16_13:35:42: human's score is: 4
+30/01/16_13:35:42: human's score is: 2
+30/01/16_13:35:42: human's score is: 4
+30/01/16_13:35:43: human's score is: 2
+30/01/16_13:35:43: human's score is: 4
+30/01/16_13:35:43: human's score is: 2
+30/01/16_13:35:43: human's score is: 4
+30/01/16_13:35:44: human's score is: 2
+30/01/16_13:35:44: human's score is: 4
+30/01/16_13:35:44: human's score is: 2
+30/01/16_13:35:44: human's score is: 4
+30/01/16_13:35:45: human's score is: 2
+30/01/16_13:35:45: human's score is: 4
+30/01/16_13:35:47: human's score is: 2
+30/01/16_13:35:47: human's score is: 4
+30/01/16_13:35:47: human's score is: 2
+30/01/16_13:35:47: human's score is: 4
+30/01/16_13:35:47: human's score is: 2
+30/01/16_13:35:47: human's score is: 4
+30/01/16_13:35:48: human's score is: 2
+30/01/16_13:35:48: human's score is: 4
+30/01/16_13:35:48: OUT: MOVE Po 92 94 P* 92 95 
+30/01/16_13:35:48: IN: NEXT 0
+30/01/16_13:35:48: human's score is: 6
+30/01/16_13:35:48: human's score is: 4
+30/01/16_13:35:48: Tiles in pool: 90
+
+30/01/16_13:35:48: IN: NEW Go Ps
+30/01/16_13:35:48: IN: TURN 0 Po 92 94 P* 92 95
+30/01/16_13:35:48: It is now human's turn.
+
+30/01/16_13:35:48: IN: NEXT 1
+30/01/16_13:37:49: Tiles in pool: 96
+
+30/01/16_13:37:49: human IS KICKED FOR THE FOLLOWING REASON: lost connection with player
+
+30/01/16_13:37:49: IN: KICK 1 6 lost connection with player
+30/01/16_13:37:49: human's score is: 6
+30/01/16_13:37:49: human's score is: 4
+30/01/16_13:37:49: You won!
+
+30/01/16_13:37:49: Would you like to play another game? Y/N

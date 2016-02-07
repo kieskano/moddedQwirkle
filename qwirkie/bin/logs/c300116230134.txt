@@ -1,0 +1,30 @@
+30/01/16_23:01:34: Creating client... 
+30/01/16_23:01:34: Client human created
+30/01/16_23:01:34: Starting client... 
+30/01/16_23:01:34: Client started.
+30/01/16_23:01:34: Sending registration message... 
+30/01/16_23:01:34: OUT: HELLO human
+30/01/16_23:01:34: Registration message send.
+30/01/16_23:01:34: Waiting for welcome message... 
+30/01/16_23:01:34: Welcome message received.
+30/01/16_23:01:34: Waiting for other players to connect...
+30/01/16_23:01:34: IN: WELCOME human 1
+30/01/16_23:01:34: IN: NAMES human 0 human 1 999999
+30/01/16_23:01:34: human's score is: 0
+30/01/16_23:01:34: human's score is: 0
+30/01/16_23:01:34: Tiles in pool: 96
+
+30/01/16_23:01:34: IN: NEW Gs Bd Gx Pc B* Rc
+30/01/16_23:01:34: It is now human's turn.
+
+30/01/16_23:01:34: IN: NEXT 0
+30/01/16_23:03:24: Tiles in pool: 102
+
+30/01/16_23:03:24: human IS KICKED FOR THE FOLLOWING REASON: lost connection with player
+
+30/01/16_23:03:24: IN: KICK 0 6 lost connection with player
+30/01/16_23:03:24: human's score is: 0
+30/01/16_23:03:24: human's score is: 0
+30/01/16_23:03:24: You won!
+
+30/01/16_23:03:24: Would you like to play another game? Y/N

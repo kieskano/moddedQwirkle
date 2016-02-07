@@ -1,0 +1,33 @@
+30/01/16_00:04:34: Welcome in Qwirkle
+30/01/16_00:04:34: (only characters a-z A-Z and 1 to 16 characters long)
+30/01/16_00:04:34: What is your name? 
+
+30/01/16_00:04:36: 
+Server IP-adress: 
+
+30/01/16_00:04:38: 
+Server port: 
+
+30/01/16_00:04:40: 
+Bot: 'b', Human: 'h'
+
+30/01/16_00:04:42: Creating client... 
+30/01/16_00:04:42: Client Test created
+30/01/16_00:04:42: Starting client... 
+30/01/16_00:04:42: Client started.
+30/01/16_00:04:42: Sending registration message... 
+30/01/16_00:04:42: OUT: HELLO Test
+30/01/16_00:04:42: Registration message send.
+30/01/16_00:04:42: Waiting for welcome message... 
+30/01/16_00:04:42: Welcome message received.
+30/01/16_00:04:42: Waiting for other players to connect...
+30/01/16_00:04:42: IN: WELCOME Test 1
+30/01/16_00:04:42: IN: NAMES Wijtse 0 Test 1 999999
+30/01/16_00:04:42: Wijtse's score is: 0
+30/01/16_00:04:42: Test's score is: 0
+30/01/16_00:04:42: Tiles in pool: 96
+
+30/01/16_00:04:42: IN: NEW R* Rs Od O* Bc Bx
+30/01/16_00:04:42: It is now Wijtse's turn.
+
+30/01/16_00:04:42: IN: NEXT 0

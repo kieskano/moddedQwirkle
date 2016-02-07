@@ -1,0 +1,131 @@
+30/01/16_23:01:32: Creating client... 
+30/01/16_23:01:32: Client human created
+30/01/16_23:01:32: Starting client... 
+30/01/16_23:01:32: Client started.
+30/01/16_23:01:32: Sending registration message... 
+30/01/16_23:01:32: OUT: HELLO human
+30/01/16_23:01:32: Registration message send.
+30/01/16_23:01:33: Waiting for welcome message... 
+30/01/16_23:01:33: Welcome message received.
+30/01/16_23:01:33: Waiting for other players to connect...
+30/01/16_23:01:33: IN: WELCOME human 0
+30/01/16_23:01:34: IN: NAMES human 0 human 1 999999
+30/01/16_23:01:34: human's score is: 0
+30/01/16_23:01:34: human's score is: 0
+30/01/16_23:01:34: Tiles in pool: 96
+
+30/01/16_23:01:34: IN: NEW O* B* Yc Po Bd Yx
+30/01/16_23:01:34: human's score is: 0
+30/01/16_23:01:34: human's score is: 0
+30/01/16_23:01:38: human's score is: 0
+30/01/16_23:01:38: human's score is: 0
+30/01/16_23:01:38: human's score is: 0
+30/01/16_23:01:38: human's score is: 0
+30/01/16_23:01:38: human's score is: 0
+30/01/16_23:01:38: human's score is: 0
+30/01/16_23:01:39: human's score is: 0
+30/01/16_23:01:39: human's score is: 0
+30/01/16_23:01:39: human's score is: 0
+30/01/16_23:01:39: human's score is: 0
+30/01/16_23:01:40: human's score is: 0
+30/01/16_23:01:40: human's score is: 0
+30/01/16_23:01:41: human's score is: 0
+30/01/16_23:01:41: human's score is: 0
+30/01/16_23:01:41: human's score is: 0
+30/01/16_23:01:41: human's score is: 0
+30/01/16_23:01:41: human's score is: 0
+30/01/16_23:01:41: human's score is: 0
+30/01/16_23:01:41: human's score is: 0
+30/01/16_23:01:41: human's score is: 0
+30/01/16_23:01:42: human's score is: 0
+30/01/16_23:01:42: human's score is: 0
+30/01/16_23:01:42: human's score is: 0
+30/01/16_23:01:42: human's score is: 0
+30/01/16_23:01:42: human's score is: 0
+30/01/16_23:01:42: human's score is: 0
+30/01/16_23:01:42: human's score is: 0
+30/01/16_23:01:42: human's score is: 0
+30/01/16_23:01:43: human's score is: 0
+30/01/16_23:01:43: human's score is: 0
+30/01/16_23:01:43: human's score is: 0
+30/01/16_23:01:43: human's score is: 0
+30/01/16_23:01:43: human's score is: 0
+30/01/16_23:01:43: human's score is: 0
+30/01/16_23:01:43: human's score is: 0
+30/01/16_23:01:43: human's score is: 0
+30/01/16_23:01:43: human's score is: 0
+30/01/16_23:01:43: human's score is: 0
+30/01/16_23:01:43: human's score is: 0
+30/01/16_23:01:43: human's score is: 0
+30/01/16_23:01:44: human's score is: 0
+30/01/16_23:01:44: human's score is: 0
+30/01/16_23:01:44: human's score is: 0
+30/01/16_23:01:44: human's score is: 0
+30/01/16_23:01:44: human's score is: 0
+30/01/16_23:01:44: human's score is: 0
+30/01/16_23:01:45: human's score is: 0
+30/01/16_23:01:45: human's score is: 0
+30/01/16_23:01:45: human's score is: 0
+30/01/16_23:01:45: human's score is: 0
+30/01/16_23:01:45: human's score is: 0
+30/01/16_23:01:45: human's score is: 0
+30/01/16_23:01:45: human's score is: 0
+30/01/16_23:01:45: human's score is: 0
+30/01/16_23:01:46: human's score is: 0
+30/01/16_23:01:46: human's score is: 0
+30/01/16_23:01:46: human's score is: 0
+30/01/16_23:01:46: human's score is: 0
+30/01/16_23:01:46: human's score is: 0
+30/01/16_23:01:46: human's score is: 0
+30/01/16_23:01:53: human's score is: 0
+30/01/16_23:01:53: human's score is: 0
+30/01/16_23:01:53: human's score is: 0
+30/01/16_23:01:53: human's score is: 0
+30/01/16_23:01:54: human's score is: 0
+30/01/16_23:01:54: human's score is: 0
+30/01/16_23:01:54: human's score is: 0
+30/01/16_23:01:54: human's score is: 0
+30/01/16_23:01:54: human's score is: 0
+30/01/16_23:01:54: human's score is: 0
+30/01/16_23:01:54: human's score is: 0
+30/01/16_23:01:54: human's score is: 0
+30/01/16_23:01:54: human's score is: 0
+30/01/16_23:01:54: human's score is: 0
+30/01/16_23:01:55: human's score is: 0
+30/01/16_23:01:55: human's score is: 0
+30/01/16_23:01:55: human's score is: 0
+30/01/16_23:01:55: human's score is: 0
+30/01/16_23:01:55: human's score is: 0
+30/01/16_23:01:55: human's score is: 0
+30/01/16_23:02:04: human's score is: 0
+30/01/16_23:02:04: human's score is: 0
+30/01/16_23:02:05: human's score is: 0
+30/01/16_23:02:05: human's score is: 0
+30/01/16_23:02:05: human's score is: 0
+30/01/16_23:02:05: human's score is: 0
+30/01/16_23:02:05: human's score is: 0
+30/01/16_23:02:05: human's score is: 0
+30/01/16_23:02:05: human's score is: 0
+30/01/16_23:02:05: human's score is: 0
+30/01/16_23:02:05: human's score is: 0
+30/01/16_23:02:05: human's score is: 0
+30/01/16_23:02:05: human's score is: 0
+30/01/16_23:02:05: human's score is: 0
+30/01/16_23:02:06: human's score is: 0
+30/01/16_23:02:06: human's score is: 0
+30/01/16_23:02:06: human's score is: 0
+30/01/16_23:02:06: human's score is: 0
+30/01/16_23:02:06: human's score is: 0
+30/01/16_23:02:06: human's score is: 0
+30/01/16_23:02:06: human's score is: 0
+30/01/16_23:02:06: human's score is: 0
+30/01/16_23:02:06: human's score is: 0
+30/01/16_23:02:06: human's score is: 0
+30/01/16_23:02:06: human's score is: 0
+30/01/16_23:02:06: human's score is: 0
+30/01/16_23:02:07: human's score is: 0
+30/01/16_23:02:07: human's score is: 0
+30/01/16_23:02:07: human's score is: 0
+30/01/16_23:02:07: human's score is: 0
+30/01/16_23:02:07: human's score is: 0
+30/01/16_23:02:07: human's score is: 0

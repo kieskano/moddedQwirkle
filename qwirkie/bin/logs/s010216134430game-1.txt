@@ -1,0 +1,610 @@
+Waiting for clients to connect
+Clients connected: [0 of 2]
+Clients connected: [1 of 2]
+Received from client 0: HELLO human
+Sent to player-0: WELCOME human 0
+Clients connected: [2 of 2]
+Waiting for everyone to send their name
+Received from client 1: HELLO SuperSmart
+Sent to player-1: WELCOME SuperSmart 1
+Everyone has send their name
+Sent to player-0: NAMES human 0 SuperSmart 1 999999
+Sent to player-1: NAMES human 0 SuperSmart 1 999999
+Dealing tiles and calculating who may start
+Sent to player-0: NEW Oo Px Ox Gc O* Rd
+Sent to player-1: NEW Ys Od Po Yo P* Pc
+Tiles dealt and 0 may start
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Oo 91 91 Ox 91 92 O* 91 93 
+Sent to player-0: NEW G* R* Bd
+Sent to player-0: TURN 0 Oo 91 91 Ox 91 92 O* 91 93
+Sent to player-1: TURN 0 Oo 91 91 Ox 91 92 O* 91 93
+Player-0 gained 3 points!
+
+Current game situation
+XXX 90  91  92  93  94  
+90  .   .   .   .   .   
+91  .   Oo  Ox  O*  .   
+92  .   .   .   .   .   
+
+Scores:
+human: 3
+SuperSmart: 0
+Hands:
+human: [Px, Gc, Rd, G*, R*, Bd]
+SuperSmart: [Ys, Od, Po, Yo, P*, Pc]
+Tiles in pool: 93
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Po 92 91 Pc 92 90 P* 92 89 
+Sent to player-1: NEW Yd Bs Go
+Sent to player-0: TURN 1 Po 92 91 Pc 92 90 P* 92 89
+Sent to player-1: TURN 1 Po 92 91 Pc 92 90 P* 92 89
+Player-1 gained 5 points!
+
+Current game situation
+XXX 88  89  90  91  92  93  94  
+90  .   .   .   .   .   .   .   
+91  .   .   .   Oo  Ox  O*  .   
+92  .   P*  Pc  Po  .   .   .   
+93  .   .   .   .   .   .   .   
+
+Scores:
+human: 3
+SuperSmart: 5
+Hands:
+human: [Px, Gc, Rd, G*, R*, Bd]
+SuperSmart: [Ys, Od, Yo, Yd, Bs, Go]
+Tiles in pool: 90
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Px 92 92 
+Sent to player-0: NEW Gs
+Sent to player-0: TURN 0 Px 92 92
+Sent to player-1: TURN 0 Px 92 92
+Player-0 gained 6 points!
+
+Current game situation
+XXX 88  89  90  91  92  93  94  
+90  .   .   .   .   .   .   .   
+91  .   .   .   Oo  Ox  O*  .   
+92  .   P*  Pc  Po  Px  .   .   
+93  .   .   .   .   .   .   .   
+
+Scores:
+human: 9
+SuperSmart: 5
+Hands:
+human: [Gc, Rd, G*, R*, Bd, Gs]
+SuperSmart: [Ys, Od, Yo, Yd, Bs, Go]
+Tiles in pool: 89
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Od 91 94 Yd 90 94 
+Sent to player-1: NEW Rd Rs
+Sent to player-0: TURN 1 Od 91 94 Yd 90 94
+Sent to player-1: TURN 1 Od 91 94 Yd 90 94
+Player-1 gained 6 points!
+
+Current game situation
+XXX 88  89  90  91  92  93  94  95  
+89  .   .   .   .   .   .   .   .   
+90  .   .   .   .   .   .   Yd  .   
+91  .   .   .   Oo  Ox  O*  Od  .   
+92  .   P*  Pc  Po  Px  .   .   .   
+93  .   .   .   .   .   .   .   .   
+
+Scores:
+human: 9
+SuperSmart: 11
+Hands:
+human: [Gc, Rd, G*, R*, Bd, Gs]
+SuperSmart: [Ys, Yo, Bs, Go, Rd, Rs]
+Tiles in pool: 87
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE G* 93 89 Gc 93 90 Gs 93 88 
+Sent to player-0: NEW Bx Pc Gc
+Sent to player-0: TURN 0 G* 93 89 Gc 93 90 Gs 93 88
+Sent to player-1: TURN 0 G* 93 89 Gc 93 90 Gs 93 88
+Player-0 gained 7 points!
+
+Current game situation
+XXX 87  88  89  90  91  92  93  94  95  
+89  .   .   .   .   .   .   .   .   .   
+90  .   .   .   .   .   .   .   Yd  .   
+91  .   .   .   .   Oo  Ox  O*  Od  .   
+92  .   .   P*  Pc  Po  Px  .   .   .   
+93  .   Gs  G*  Gc  .   .   .   .   .   
+94  .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 16
+SuperSmart: 11
+Hands:
+human: [Rd, R*, Bd, Bx, Pc, Gc]
+SuperSmart: [Ys, Yo, Bs, Go, Rd, Rs]
+Tiles in pool: 84
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Go 93 91 Yo 94 91 
+Sent to player-1: NEW Rc Gx
+Sent to player-0: TURN 1 Go 93 91 Yo 94 91
+Sent to player-1: TURN 1 Go 93 91 Yo 94 91
+Player-1 gained 8 points!
+
+Current game situation
+XXX 87  88  89  90  91  92  93  94  95  
+89  .   .   .   .   .   .   .   .   .   
+90  .   .   .   .   .   .   .   Yd  .   
+91  .   .   .   .   Oo  Ox  O*  Od  .   
+92  .   .   P*  Pc  Po  Px  .   .   .   
+93  .   Gs  G*  Gc  Go  .   .   .   .   
+94  .   .   .   .   Yo  .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 16
+SuperSmart: 19
+Hands:
+human: [Rd, R*, Bd, Bx, Pc, Gc]
+SuperSmart: [Ys, Bs, Rd, Rs, Rc, Gx]
+Tiles in pool: 82
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE R* 91 89 Rd 91 88 
+Sent to player-0: NEW Os Rc
+Sent to player-0: TURN 0 R* 91 89 Rd 91 88
+Sent to player-1: TURN 0 R* 91 89 Rd 91 88
+Player-0 gained 5 points!
+
+Current game situation
+XXX 87  88  89  90  91  92  93  94  95  
+89  .   .   .   .   .   .   .   .   .   
+90  .   .   .   .   .   .   .   Yd  .   
+91  .   Rd  R*  .   Oo  Ox  O*  Od  .   
+92  .   .   P*  Pc  Po  Px  .   .   .   
+93  .   Gs  G*  Gc  Go  .   .   .   .   
+94  .   .   .   .   Yo  .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 21
+SuperSmart: 19
+Hands:
+human: [Bd, Bx, Pc, Gc, Os, Rc]
+SuperSmart: [Ys, Bs, Rd, Rs, Rc, Gx]
+Tiles in pool: 80
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Rc 91 87 Rd 90 87 Rs 89 87 
+Sent to player-1: NEW Bd Gd Y*
+Sent to player-0: TURN 1 Rc 91 87 Rd 90 87 Rs 89 87
+Sent to player-1: TURN 1 Rc 91 87 Rd 90 87 Rs 89 87
+Player-1 gained 6 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  
+88  .   .   .   .   .   .   .   .   .   .   
+89  .   Rs  .   .   .   .   .   .   .   .   
+90  .   Rd  .   .   .   .   .   .   Yd  .   
+91  .   Rc  Rd  R*  .   Oo  Ox  O*  Od  .   
+92  .   .   .   P*  Pc  Po  Px  .   .   .   
+93  .   .   Gs  G*  Gc  Go  .   .   .   .   
+94  .   .   .   .   .   Yo  .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 21
+SuperSmart: 25
+Hands:
+human: [Bd, Bx, Pc, Gc, Os, Rc]
+SuperSmart: [Ys, Bs, Gx, Bd, Gd, Y*]
+Tiles in pool: 77
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Bd 89 94 Bx 89 95 
+Sent to player-0: NEW Ps Bd
+Sent to player-0: TURN 0 Bd 89 94 Bx 89 95
+Sent to player-1: TURN 0 Bd 89 94 Bx 89 95
+Player-0 gained 5 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  
+88  .   .   .   .   .   .   .   .   .   .   .   
+89  .   Rs  .   .   .   .   .   .   Bd  Bx  .   
+90  .   Rd  .   .   .   .   .   .   Yd  .   .   
+91  .   Rc  Rd  R*  .   Oo  Ox  O*  Od  .   .   
+92  .   .   .   P*  Pc  Po  Px  .   .   .   .   
+93  .   .   Gs  G*  Gc  Go  .   .   .   .   .   
+94  .   .   .   .   .   Yo  .   .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 26
+SuperSmart: 25
+Hands:
+human: [Pc, Gc, Os, Rc, Ps, Bd]
+SuperSmart: [Ys, Bs, Gx, Bd, Gd, Y*]
+Tiles in pool: 75
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Gx 93 92 Gd 93 93 
+Sent to player-1: NEW P* Od
+Sent to player-0: TURN 1 Gx 93 92 Gd 93 93
+Sent to player-1: TURN 1 Gx 93 92 Gd 93 93
+Player-1 gained 15 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  
+88  .   .   .   .   .   .   .   .   .   .   .   
+89  .   Rs  .   .   .   .   .   .   Bd  Bx  .   
+90  .   Rd  .   .   .   .   .   .   Yd  .   .   
+91  .   Rc  Rd  R*  .   Oo  Ox  O*  Od  .   .   
+92  .   .   .   P*  Pc  Po  Px  .   .   .   .   
+93  .   .   Gs  G*  Gc  Go  Gx  Gd  .   .   .   
+94  .   .   .   .   .   Yo  .   .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 26
+SuperSmart: 40
+Hands:
+human: [Pc, Gc, Os, Rc, Ps, Bd]
+SuperSmart: [Ys, Bs, Bd, Y*, P*, Od]
+Tiles in pool: 73
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: SWAP Bd 
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  
+88  .   .   .   .   .   .   .   .   .   .   .   
+89  .   Rs  .   .   .   .   .   .   Bd  Bx  .   
+90  .   Rd  .   .   .   .   .   .   Yd  .   .   
+91  .   Rc  Rd  R*  .   Oo  Ox  O*  Od  .   .   
+92  .   .   .   P*  Pc  Po  Px  .   .   .   .   
+93  .   .   Gs  G*  Gc  Go  Gx  Gd  .   .   .   
+94  .   .   .   .   .   Yo  .   .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 26
+SuperSmart: 40
+Hands:
+human: [Pc, Gc, Os, Rc, Ps, Bc]
+SuperSmart: [Ys, Bs, Bd, Y*, P*, Od]
+Tiles in pool: 73
+Sent to player-0: NEW Bc
+Sent to player-0: TURN 0 empty
+Sent to player-1: TURN 0 empty
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Ys 94 88 Y* 94 89 
+Sent to player-1: NEW Ro Oc
+Sent to player-0: TURN 1 Ys 94 88 Y* 94 89
+Sent to player-1: TURN 1 Ys 94 88 Y* 94 89
+Player-1 gained 8 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  
+88  .   .   .   .   .   .   .   .   .   .   .   
+89  .   Rs  .   .   .   .   .   .   Bd  Bx  .   
+90  .   Rd  .   .   .   .   .   .   Yd  .   .   
+91  .   Rc  Rd  R*  .   Oo  Ox  O*  Od  .   .   
+92  .   .   .   P*  Pc  Po  Px  .   .   .   .   
+93  .   .   Gs  G*  Gc  Go  Gx  Gd  .   .   .   
+94  .   .   Ys  Y*  .   Yo  .   .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 26
+SuperSmart: 48
+Hands:
+human: [Pc, Gc, Os, Rc, Ps, Bc]
+SuperSmart: [Bs, Bd, P*, Od, Ro, Oc]
+Tiles in pool: 71
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Bc 89 96 Pc 90 96 Gc 91 96 Rc 92 96 
+Sent to player-0: NEW Oo Pc Po R*
+Sent to player-0: TURN 0 Bc 89 96 Pc 90 96 Gc 91 96 Rc 92 96
+Sent to player-1: TURN 0 Bc 89 96 Pc 90 96 Gc 91 96 Rc 92 96
+Player-0 gained 7 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  97  
+88  .   .   .   .   .   .   .   .   .   .   .   .   
+89  .   Rs  .   .   .   .   .   .   Bd  Bx  Bc  .   
+90  .   Rd  .   .   .   .   .   .   Yd  .   Pc  .   
+91  .   Rc  Rd  R*  .   Oo  Ox  O*  Od  .   Gc  .   
+92  .   .   .   P*  Pc  Po  Px  .   .   .   Rc  .   
+93  .   .   Gs  G*  Gc  Go  Gx  Gd  .   .   .   .   
+94  .   .   Ys  Y*  .   Yo  .   .   .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 33
+SuperSmart: 48
+Hands:
+human: [Os, Ps, Oo, Pc, Po, R*]
+SuperSmart: [Bs, Bd, P*, Od, Ro, Oc]
+Tiles in pool: 67
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Bs 89 93 Bd 88 93 
+Sent to player-1: NEW Ys Yo
+Sent to player-0: TURN 1 Bs 89 93 Bd 88 93
+Sent to player-1: TURN 1 Bs 89 93 Bd 88 93
+Player-1 gained 6 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  97  
+87  .   .   .   .   .   .   .   .   .   .   .   .   
+88  .   .   .   .   .   .   .   Bd  .   .   .   .   
+89  .   Rs  .   .   .   .   .   Bs  Bd  Bx  Bc  .   
+90  .   Rd  .   .   .   .   .   .   Yd  .   Pc  .   
+91  .   Rc  Rd  R*  .   Oo  Ox  O*  Od  .   Gc  .   
+92  .   .   .   P*  Pc  Po  Px  .   .   .   Rc  .   
+93  .   .   Gs  G*  Gc  Go  Gx  Gd  .   .   .   .   
+94  .   .   Ys  Y*  .   Yo  .   .   .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 33
+SuperSmart: 54
+Hands:
+human: [Os, Ps, Oo, Pc, Po, R*]
+SuperSmart: [P*, Od, Ro, Oc, Ys, Yo]
+Tiles in pool: 65
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Ps 90 97 Po 90 98 
+Sent to player-0: NEW Oc Yc
+Sent to player-0: TURN 0 Ps 90 97 Po 90 98
+Sent to player-1: TURN 0 Ps 90 97 Po 90 98
+Player-0 gained 3 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  97  98  99  
+87  .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+88  .   .   .   .   .   .   .   Bd  .   .   .   .   .   .   
+89  .   Rs  .   .   .   .   .   Bs  Bd  Bx  Bc  .   .   .   
+90  .   Rd  .   .   .   .   .   .   Yd  .   Pc  Ps  Po  .   
+91  .   Rc  Rd  R*  .   Oo  Ox  O*  Od  .   Gc  .   .   .   
+92  .   .   .   P*  Pc  Po  Px  .   .   .   Rc  .   .   .   
+93  .   .   Gs  G*  Gc  Go  Gx  Gd  .   .   .   .   .   .   
+94  .   .   Ys  Y*  .   Yo  .   .   .   .   .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 36
+SuperSmart: 54
+Hands:
+human: [Os, Oo, Pc, R*, Oc, Yc]
+SuperSmart: [P*, Od, Ro, Oc, Ys, Yo]
+Tiles in pool: 63
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Ro 91 86 Yo 92 86 
+Sent to player-1: NEW Y* Os
+Sent to player-0: TURN 1 Ro 91 86 Yo 92 86
+Sent to player-1: TURN 1 Ro 91 86 Yo 92 86
+Player-1 gained 6 points!
+
+Current game situation
+XXX 85  86  87  88  89  90  91  92  93  94  95  96  97  98  99  
+87  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+88  .   .   .   .   .   .   .   .   Bd  .   .   .   .   .   .   
+89  .   .   Rs  .   .   .   .   .   Bs  Bd  Bx  Bc  .   .   .   
+90  .   .   Rd  .   .   .   .   .   .   Yd  .   Pc  Ps  Po  .   
+91  .   Ro  Rc  Rd  R*  .   Oo  Ox  O*  Od  .   Gc  .   .   .   
+92  .   Yo  .   .   P*  Pc  Po  Px  .   .   .   Rc  .   .   .   
+93  .   .   .   Gs  G*  Gc  Go  Gx  Gd  .   .   .   .   .   .   
+94  .   .   .   Ys  Y*  .   Yo  .   .   .   .   .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 36
+SuperSmart: 60
+Hands:
+human: [Os, Oo, Pc, R*, Oc, Yc]
+SuperSmart: [P*, Od, Oc, Ys, Y*, Os]
+Tiles in pool: 61
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Oc 93 96 Yc 94 96 
+Sent to player-0: NEW Yc Gs
+Sent to player-0: TURN 0 Oc 93 96 Yc 94 96
+Sent to player-1: TURN 0 Oc 93 96 Yc 94 96
+Player-0 gained 12 points!
+
+Current game situation
+XXX 85  86  87  88  89  90  91  92  93  94  95  96  97  98  99  
+87  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+88  .   .   .   .   .   .   .   .   Bd  .   .   .   .   .   .   
+89  .   .   Rs  .   .   .   .   .   Bs  Bd  Bx  Bc  .   .   .   
+90  .   .   Rd  .   .   .   .   .   .   Yd  .   Pc  Ps  Po  .   
+91  .   Ro  Rc  Rd  R*  .   Oo  Ox  O*  Od  .   Gc  .   .   .   
+92  .   Yo  .   .   P*  Pc  Po  Px  .   .   .   Rc  .   .   .   
+93  .   .   .   Gs  G*  Gc  Go  Gx  Gd  .   .   Oc  .   .   .   
+94  .   .   .   Ys  Y*  .   Yo  .   .   .   .   Yc  .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 48
+SuperSmart: 60
+Hands:
+human: [Os, Oo, Pc, R*, Yc, Gs]
+SuperSmart: [P*, Od, Oc, Ys, Y*, Os]
+Tiles in pool: 59
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Os 93 95 Oc 94 95 Od 95 95 
+Sent to player-1: NEW Bc Gd B*
+Sent to player-0: TURN 1 Os 93 95 Oc 94 95 Od 95 95
+Sent to player-1: TURN 1 Os 93 95 Oc 94 95 Od 95 95
+Player-1 gained 7 points!
+
+Current game situation
+XXX 85  86  87  88  89  90  91  92  93  94  95  96  97  98  99  
+87  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+88  .   .   .   .   .   .   .   .   Bd  .   .   .   .   .   .   
+89  .   .   Rs  .   .   .   .   .   Bs  Bd  Bx  Bc  .   .   .   
+90  .   .   Rd  .   .   .   .   .   .   Yd  .   Pc  Ps  Po  .   
+91  .   Ro  Rc  Rd  R*  .   Oo  Ox  O*  Od  .   Gc  .   .   .   
+92  .   Yo  .   .   P*  Pc  Po  Px  .   .   .   Rc  .   .   .   
+93  .   .   .   Gs  G*  Gc  Go  Gx  Gd  .   Os  Oc  .   .   .   
+94  .   .   .   Ys  Y*  .   Yo  .   .   .   Oc  Yc  .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   Od  .   .   .   .   
+96  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 48
+SuperSmart: 67
+Hands:
+human: [Os, Oo, Pc, R*, Yc, Gs]
+SuperSmart: [P*, Ys, Y*, Bc, Gd, B*]
+Tiles in pool: 56
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Pc 91 97 
+Sent to player-0: NEW Gx
+Sent to player-0: TURN 0 Pc 91 97
+Sent to player-1: TURN 0 Pc 91 97
+Player-0 gained 4 points!
+
+Current game situation
+XXX 85  86  87  88  89  90  91  92  93  94  95  96  97  98  99  
+87  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+88  .   .   .   .   .   .   .   .   Bd  .   .   .   .   .   .   
+89  .   .   Rs  .   .   .   .   .   Bs  Bd  Bx  Bc  .   .   .   
+90  .   .   Rd  .   .   .   .   .   .   Yd  .   Pc  Ps  Po  .   
+91  .   Ro  Rc  Rd  R*  .   Oo  Ox  O*  Od  .   Gc  Pc  .   .   
+92  .   Yo  .   .   P*  Pc  Po  Px  .   .   .   Rc  .   .   .   
+93  .   .   .   Gs  G*  Gc  Go  Gx  Gd  .   Os  Oc  .   .   .   
+94  .   .   .   Ys  Y*  .   Yo  .   .   .   Oc  Yc  .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   Od  .   .   .   .   
+96  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 52
+SuperSmart: 67
+Hands:
+human: [Os, Oo, R*, Yc, Gs, Gx]
+SuperSmart: [P*, Ys, Y*, Bc, Gd, B*]
+Tiles in pool: 55
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE P* 90 99 Y* 89 99 B* 88 99 
+Sent to player-1: NEW Yx Pd Bx
+Sent to player-0: TURN 1 P* 90 99 Y* 89 99 B* 88 99
+Sent to player-1: TURN 1 P* 90 99 Y* 89 99 B* 88 99
+Player-1 gained 7 points!
+
+Current game situation
+XXX 85  86  87  88  89  90  91  92  93  94  95  96  97  98  99  100 
+87  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+88  .   .   .   .   .   .   .   .   Bd  .   .   .   .   .   B*  .   
+89  .   .   Rs  .   .   .   .   .   Bs  Bd  Bx  Bc  .   .   Y*  .   
+90  .   .   Rd  .   .   .   .   .   .   Yd  .   Pc  Ps  Po  P*  .   
+91  .   Ro  Rc  Rd  R*  .   Oo  Ox  O*  Od  .   Gc  Pc  .   .   .   
+92  .   Yo  .   .   P*  Pc  Po  Px  .   .   .   Rc  .   .   .   .   
+93  .   .   .   Gs  G*  Gc  Go  Gx  Gd  .   Os  Oc  .   .   .   .   
+94  .   .   .   Ys  Y*  .   Yo  .   .   .   Oc  Yc  .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   Od  .   .   .   .   .   
+96  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 52
+SuperSmart: 74
+Hands:
+human: [Os, Oo, R*, Yc, Gs, Gx]
+SuperSmart: [Ys, Bc, Gd, Yx, Pd, Bx]
+Tiles in pool: 52
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Oo 93 97 
+Sent to player-0: NEW Yd
+Sent to player-0: TURN 0 Oo 93 97
+Sent to player-1: TURN 0 Oo 93 97
+Player-0 gained 3 points!
+
+Current game situation
+XXX 85  86  87  88  89  90  91  92  93  94  95  96  97  98  99  100 
+87  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+88  .   .   .   .   .   .   .   .   Bd  .   .   .   .   .   B*  .   
+89  .   .   Rs  .   .   .   .   .   Bs  Bd  Bx  Bc  .   .   Y*  .   
+90  .   .   Rd  .   .   .   .   .   .   Yd  .   Pc  Ps  Po  P*  .   
+91  .   Ro  Rc  Rd  R*  .   Oo  Ox  O*  Od  .   Gc  Pc  .   .   .   
+92  .   Yo  .   .   P*  Pc  Po  Px  .   .   .   Rc  .   .   .   .   
+93  .   .   .   Gs  G*  Gc  Go  Gx  Gd  .   Os  Oc  Oo  .   .   .   
+94  .   .   .   Ys  Y*  .   Yo  .   .   .   Oc  Yc  .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   Od  .   .   .   .   .   
+96  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 55
+SuperSmart: 74
+Hands:
+human: [Os, R*, Yc, Gs, Gx, Yd]
+SuperSmart: [Ys, Bc, Gd, Yx, Pd, Bx]
+Tiles in pool: 51
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Bx 88 100 Yx 89 100 
+Sent to player-1: NEW Rx Gx
+Sent to player-0: TURN 1 Bx 88 100 Yx 89 100
+Sent to player-1: TURN 1 Bx 88 100 Yx 89 100
+Player-1 gained 6 points!
+
+Current game situation
+XXX 85  86  87  88  89  90  91  92  93  94  95  96  97  98  99  100 101 
+87  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+88  .   .   .   .   .   .   .   .   Bd  .   .   .   .   .   B*  Bx  .   
+89  .   .   Rs  .   .   .   .   .   Bs  Bd  Bx  Bc  .   .   Y*  Yx  .   
+90  .   .   Rd  .   .   .   .   .   .   Yd  .   Pc  Ps  Po  P*  .   .   
+91  .   Ro  Rc  Rd  R*  .   Oo  Ox  O*  Od  .   Gc  Pc  .   .   .   .   
+92  .   Yo  .   .   P*  Pc  Po  Px  .   .   .   Rc  .   .   .   .   .   
+93  .   .   .   Gs  G*  Gc  Go  Gx  Gd  .   Os  Oc  Oo  .   .   .   .   
+94  .   .   .   Ys  Y*  .   Yo  .   .   .   Oc  Yc  .   .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   Od  .   .   .   .   .   .   
+96  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 55
+SuperSmart: 80
+Hands:
+human: [Os, R*, Yc, Gs, Gx, Yd]
+SuperSmart: [Ys, Bc, Gd, Pd, Rx, Gx]
+Tiles in pool: 49
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Sent to player-0: KICK 0 6 Did not make a move in time
+Sent to player-1: KICK 0 6 Did not make a move in time
+Closed the connection with player-0
+Sent to player-1: WINNER 1
+Closed the connection with player-1

@@ -1,0 +1,147 @@
+Waiting for clients to connect
+Clients connected: [0 of 2]
+Clients connected: [1 of 2]
+Received from client 0: HELLO human
+Sent to player-0: WELCOME human 0
+Clients connected: [2 of 2]
+Waiting for everyone to send their name
+Received from client 1: HELLO human
+Sent to player-1: WELCOME human 1
+Everyone has send their name
+Sent to player-0: NAMES human 0 human 1 999999
+Sent to player-1: NAMES human 0 human 1 999999
+Dealing tiles and calculating who may start
+Sent to player-0: NEW B* Gc Ys Pc Yc Bx
+Sent to player-1: NEW Gs Yo O* Po Bs Pd
+Tiles dealt and 0 may start
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Gc 91 91 Pc 90 91 Yc 89 91 
+Sent to player-0: NEW Yc Os G*
+Sent to player-0: TURN 0 Gc 91 91 Pc 90 91 Yc 89 91
+Sent to player-1: TURN 0 Gc 91 91 Pc 90 91 Yc 89 91
+Player-0 gained 3 points!
+
+Current game situation
+XXX 90  91  92  
+88  .   .   .   
+89  .   Yc  .   
+90  .   Pc  .   
+91  .   Gc  .   
+92  .   .   .   
+
+Scores:
+human: 3
+human: 0
+Hands:
+human: [B*, Ys, Bx, Yc, Os, G*]
+human: [Gs, Yo, O*, Po, Bs, Pd]
+Tiles in pool: 93
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Po 90 92 Pd 90 93 
+Sent to player-1: NEW Gs Yd
+Sent to player-0: TURN 1 Po 90 92 Pd 90 93
+Sent to player-1: TURN 1 Po 90 92 Pd 90 93
+Player-1 gained 3 points!
+
+Current game situation
+XXX 90  91  92  93  94  
+88  .   .   .   .   .   
+89  .   Yc  .   .   .   
+90  .   Pc  Po  Pd  .   
+91  .   Gc  .   .   .   
+92  .   .   .   .   .   
+
+Scores:
+human: 3
+human: 3
+Hands:
+human: [B*, Ys, Bx, Yc, Os, G*]
+human: [Gs, Yo, O*, Bs, Gs, Yd]
+Tiles in pool: 91
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE G* 91 90 B* 92 90 
+Sent to player-0: NEW Px Po
+Sent to player-0: TURN 0 G* 91 90 B* 92 90
+Sent to player-1: TURN 0 G* 91 90 B* 92 90
+Player-0 gained 4 points!
+
+Current game situation
+XXX 89  90  91  92  93  94  
+88  .   .   .   .   .   .   
+89  .   .   Yc  .   .   .   
+90  .   .   Pc  Po  Pd  .   
+91  .   G*  Gc  .   .   .   
+92  .   B*  .   .   .   .   
+93  .   .   .   .   .   .   
+
+Scores:
+human: 7
+human: 3
+Hands:
+human: [Ys, Bx, Yc, Os, Px, Po]
+human: [Gs, Yo, O*, Bs, Gs, Yd]
+Tiles in pool: 89
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Gs 91 89 Bs 92 89 
+Sent to player-1: NEW Oo R*
+Sent to player-0: TURN 1 Gs 91 89 Bs 92 89
+Sent to player-1: TURN 1 Gs 91 89 Bs 92 89
+Player-1 gained 7 points!
+
+Current game situation
+XXX 88  89  90  91  92  93  94  
+88  .   .   .   .   .   .   .   
+89  .   .   .   Yc  .   .   .   
+90  .   .   .   Pc  Po  Pd  .   
+91  .   Gs  G*  Gc  .   .   .   
+92  .   Bs  B*  .   .   .   .   
+93  .   .   .   .   .   .   .   
+
+Scores:
+human: 7
+human: 10
+Hands:
+human: [Ys, Bx, Yc, Os, Px, Po]
+human: [Gs, Yo, O*, Yd, Oo, R*]
+Tiles in pool: 87
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Px 90 94 Po 89 94 
+Sent to player-0: NEW P* Rd
+Sent to player-0: TURN 0 Px 90 94 Po 89 94
+Sent to player-1: TURN 0 Px 90 94 Po 89 94
+Player-0 gained 6 points!
+
+Current game situation
+XXX 88  89  90  91  92  93  94  95  
+88  .   .   .   .   .   .   .   .   
+89  .   .   .   Yc  .   .   Po  .   
+90  .   .   .   Pc  Po  Pd  Px  .   
+91  .   Gs  G*  Gc  .   .   .   .   
+92  .   Bs  B*  .   .   .   .   .   
+93  .   .   .   .   .   .   .   .   
+
+Scores:
+human: 13
+human: 10
+Hands:
+human: [Ys, Bx, Yc, Os, P*, Rd]
+human: [Gs, Yo, O*, Yd, Oo, R*]
+Tiles in pool: 85
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Could not send to player-0: KICK 0 6 lost connection with player
+Sent to player-1: KICK 0 6 lost connection with player
+Closed the connection with player-0
+Could not send to player-1: KICK 1 6 lost connection with player
+Closed the connection with player-1
+clientHandler-1 wakes server

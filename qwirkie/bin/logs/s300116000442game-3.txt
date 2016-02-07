@@ -1,0 +1,24 @@
+Waiting for clients to connect
+Clients connected: [0 of 2]
+Clients connected: [1 of 2]
+Received from client 0: HELLO Wijtse
+Sent to player-0: WELCOME Wijtse 0
+Clients connected: [2 of 2]
+Waiting for everyone to send their name
+Received from client 1: HELLO Test
+Sent to player-1: WELCOME Test 1
+Everyone has send their name
+Sent to player-0: NAMES Wijtse 0 Test 1 999999
+Sent to player-1: NAMES Wijtse 0 Test 1 999999
+Dealing tiles and calculating who may start
+Sent to player-0: NEW Bo P* Yd Os Oo Gx
+Sent to player-1: NEW Yd Ox B* Bx Gs Os
+Tiles dealt and 0 may start
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Could not send to player-0: KICK 0 6 lost connection with player
+Sent to player-1: KICK 0 6 lost connection with player
+Closed the connection with player-0
+clientHandler-0 wakes server
+Sent to player-1: WINNER 1
+Closed the connection with player-1

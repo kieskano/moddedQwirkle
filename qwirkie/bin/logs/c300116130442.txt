@@ -1,0 +1,115 @@
+30/01/16_13:04:42: Creating client... 
+30/01/16_13:04:42: Client human created
+30/01/16_13:04:42: Starting client... 
+30/01/16_13:04:42: Client started.
+30/01/16_13:04:42: Sending registration message... 
+30/01/16_13:04:42: OUT: HELLO human
+30/01/16_13:04:42: Registration message send.
+30/01/16_13:04:42: Waiting for welcome message... 
+30/01/16_13:04:42: Welcome message received.
+30/01/16_13:04:42: Waiting for other players to connect...
+30/01/16_13:04:42: IN: WELCOME human 0
+30/01/16_13:05:20: IN: NAMES human 0 human 1 99999
+30/01/16_13:05:20: human's score is: 0
+30/01/16_13:05:20: human's score is: 0
+30/01/16_13:05:20: Tiles in pool: 96
+
+30/01/16_13:05:20: IN: NEW Yx Y* Ys Bs Bc Yd
+30/01/16_13:05:20: human's score is: 0
+30/01/16_13:05:20: human's score is: 0
+30/01/16_13:05:26: human's score is: 0
+30/01/16_13:05:26: human's score is: 0
+30/01/16_13:05:26: human's score is: 0
+30/01/16_13:05:26: human's score is: 0
+30/01/16_13:05:27: human's score is: 0
+30/01/16_13:05:27: human's score is: 0
+30/01/16_13:05:28: human's score is: 0
+30/01/16_13:05:28: human's score is: 0
+30/01/16_13:05:29: human's score is: 0
+30/01/16_13:05:29: human's score is: 0
+30/01/16_13:05:29: human's score is: 0
+30/01/16_13:05:29: human's score is: 0
+30/01/16_13:05:30: human's score is: 0
+30/01/16_13:05:30: human's score is: 0
+30/01/16_13:05:31: human's score is: 0
+30/01/16_13:05:31: human's score is: 0
+30/01/16_13:05:31: human's score is: 0
+30/01/16_13:05:31: human's score is: 0
+30/01/16_13:05:32: human's score is: 0
+30/01/16_13:05:32: human's score is: 0
+30/01/16_13:05:33: human's score is: 0
+30/01/16_13:05:33: human's score is: 0
+30/01/16_13:05:33: human's score is: 0
+30/01/16_13:05:33: human's score is: 0
+30/01/16_13:05:33: human's score is: 0
+30/01/16_13:05:33: human's score is: 0
+30/01/16_13:05:35: human's score is: 0
+30/01/16_13:05:35: human's score is: 0
+30/01/16_13:05:43: human's score is: 0
+30/01/16_13:05:43: human's score is: 0
+30/01/16_13:05:43: human's score is: 0
+30/01/16_13:05:43: human's score is: 0
+30/01/16_13:05:44: human's score is: 0
+30/01/16_13:05:44: human's score is: 0
+30/01/16_13:05:44: human's score is: 0
+30/01/16_13:05:44: human's score is: 0
+30/01/16_13:05:45: human's score is: 0
+30/01/16_13:05:45: human's score is: 0
+30/01/16_13:05:45: human's score is: 0
+30/01/16_13:05:45: human's score is: 0
+30/01/16_13:05:46: human's score is: 0
+30/01/16_13:05:46: human's score is: 0
+30/01/16_13:05:46: human's score is: 0
+30/01/16_13:05:46: human's score is: 0
+30/01/16_13:05:47: human's score is: 0
+30/01/16_13:05:47: human's score is: 0
+30/01/16_13:05:47: human's score is: 0
+30/01/16_13:05:47: human's score is: 0
+30/01/16_13:05:47: human's score is: 0
+30/01/16_13:05:47: human's score is: 0
+30/01/16_13:05:48: human's score is: 0
+30/01/16_13:05:48: human's score is: 0
+30/01/16_13:05:49: human's score is: 0
+30/01/16_13:05:49: human's score is: 0
+30/01/16_13:05:57: human's score is: 0
+30/01/16_13:05:57: human's score is: 0
+30/01/16_13:05:58: human's score is: 0
+30/01/16_13:05:58: human's score is: 0
+30/01/16_13:05:58: human's score is: 0
+30/01/16_13:05:58: human's score is: 0
+30/01/16_13:05:59: human's score is: 0
+30/01/16_13:05:59: human's score is: 0
+30/01/16_13:06:00: human's score is: 0
+30/01/16_13:06:00: human's score is: 0
+30/01/16_13:06:00: human's score is: 0
+30/01/16_13:06:00: human's score is: 0
+30/01/16_13:06:05: human's score is: 0
+30/01/16_13:06:05: human's score is: 0
+30/01/16_13:06:06: human's score is: 0
+30/01/16_13:06:06: human's score is: 0
+30/01/16_13:06:06: human's score is: 0
+30/01/16_13:06:06: human's score is: 0
+30/01/16_13:06:07: human's score is: 0
+30/01/16_13:06:07: human's score is: 0
+30/01/16_13:06:07: human's score is: 0
+30/01/16_13:06:07: human's score is: 0
+30/01/16_13:06:08: OUT: SWAP Yx Y* Ys Bs Bc Yd 
+30/01/16_13:06:08: IN: NEXT 0
+30/01/16_13:06:08: human's score is: 0
+30/01/16_13:06:08: human's score is: 0
+30/01/16_13:06:08: Tiles in pool: 96
+
+30/01/16_13:06:08: IN: NEW Os Gx Ps O* Oc Px
+30/01/16_13:06:08: human swapped.
+
+30/01/16_13:06:08: IN: TURN 0 empty
+30/01/16_13:06:08: It is now human's turn.
+
+30/01/16_13:06:08: IN: NEXT 1
+30/01/16_13:06:42: human swapped.
+
+30/01/16_13:06:42: human's score is: 0
+30/01/16_13:06:42: human's score is: 0
+30/01/16_13:06:42: IN: TURN 1 empty
+30/01/16_13:06:42: human's score is: 0
+30/01/16_13:06:42: human's score is: 0

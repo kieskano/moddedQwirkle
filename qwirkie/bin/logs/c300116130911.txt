@@ -1,0 +1,58 @@
+30/01/16_13:09:11: Creating client... 
+30/01/16_13:09:11: Client human created
+30/01/16_13:09:11: Starting client... 
+30/01/16_13:09:11: Client started.
+30/01/16_13:09:11: Sending registration message... 
+30/01/16_13:09:11: OUT: HELLO human
+30/01/16_13:09:11: Registration message send.
+30/01/16_13:09:11: Waiting for welcome message... 
+30/01/16_13:09:11: Welcome message received.
+30/01/16_13:09:11: Waiting for other players to connect...
+30/01/16_13:09:11: IN: WELCOME human 0
+30/01/16_13:09:12: IN: NAMES human 0 human 1 99999
+30/01/16_13:09:12: human's score is: 0
+30/01/16_13:09:12: human's score is: 0
+30/01/16_13:09:12: Tiles in pool: 96
+
+30/01/16_13:09:12: IN: NEW Yd Go Bs B* Bc R*
+30/01/16_13:09:12: human's score is: 0
+30/01/16_13:09:12: human's score is: 0
+30/01/16_13:09:18: human's score is: 0
+30/01/16_13:09:18: human's score is: 0
+30/01/16_13:09:20: human's score is: 0
+30/01/16_13:09:20: human's score is: 0
+30/01/16_13:09:21: human's score is: 0
+30/01/16_13:09:21: human's score is: 0
+30/01/16_13:09:22: human's score is: 0
+30/01/16_13:09:22: human's score is: 0
+30/01/16_13:09:22: human's score is: 0
+30/01/16_13:09:22: human's score is: 0
+30/01/16_13:09:28: human's score is: 0
+30/01/16_13:09:28: human's score is: 0
+30/01/16_13:09:28: human's score is: 0
+30/01/16_13:09:28: human's score is: 0
+30/01/16_13:09:29: human's score is: 0
+30/01/16_13:09:29: human's score is: 0
+30/01/16_13:09:30: OUT: SWAP Yd Go Bs 
+30/01/16_13:09:30: IN: NEXT 0
+30/01/16_13:09:30: human's score is: 0
+30/01/16_13:09:30: human's score is: 0
+30/01/16_13:09:30: Tiles in pool: 96
+
+30/01/16_13:09:30: IN: NEW Px Yo Gx
+30/01/16_13:09:30: human swapped.
+
+30/01/16_13:09:30: IN: TURN 0 empty
+30/01/16_13:09:30: It is now human's turn.
+
+30/01/16_13:09:30: IN: NEXT 1
+30/01/16_13:10:32: Tiles in pool: 102
+
+30/01/16_13:10:32: human IS KICKED FOR THE FOLLOWING REASON: lost connection with player
+
+30/01/16_13:10:32: IN: KICK 1 6 lost connection with player
+30/01/16_13:10:32: human's score is: 0
+30/01/16_13:10:32: human's score is: 0
+30/01/16_13:10:32: You won!
+
+30/01/16_13:10:32: Would you like to play another game? Y/N

@@ -1,0 +1,541 @@
+Waiting for clients to connect
+Clients connected: [0 of 2]
+Clients connected: [1 of 2]
+Received from client 0: HELLO human
+Sent to player-0: WELCOME human 0
+Clients connected: [2 of 2]
+Waiting for everyone to send their name
+Received from client 1: HELLO human
+Sent to player-1: WELCOME human 1
+Everyone has send their name
+Sent to player-0: NAMES human 0 human 1 999999
+Sent to player-1: NAMES human 0 human 1 999999
+Dealing tiles and calculating who may start
+Sent to player-0: NEW Gx G* Pc Bx Gx Oo
+Sent to player-1: NEW Y* Yx Po Bc Bd Ps
+Tiles dealt and 0 may start
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Gx 91 91 G* 91 92 
+Sent to player-0: NEW Bo O*
+Sent to player-0: TURN 0 Gx 91 91 G* 91 92
+Sent to player-1: TURN 0 Gx 91 91 G* 91 92
+Player-0 gained 2 points!
+
+Current game situation
+XXX 90  91  92  93  
+90  .   .   .   .   
+91  .   Gx  G*  .   
+92  .   .   .   .   
+
+Scores:
+human: 2
+human: 0
+Hands:
+human: [Gx, Pc, Bx, Oo, Bo, O*]
+human: [Y*, Yx, Po, Bc, Bd, Ps]
+Tiles in pool: 94
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: SWAP Y* Po Bd Ps 
+
+Current game situation
+XXX 90  91  92  93  
+90  .   .   .   .   
+91  .   Gx  G*  .   
+92  .   .   .   .   
+
+Scores:
+human: 2
+human: 0
+Hands:
+human: [Gx, Pc, Bx, Oo, Bo, O*]
+human: [Yx, Bc, Ro, Pd, Yc, Gc]
+Tiles in pool: 94
+Sent to player-1: NEW Ro Pd Yc Gc
+Sent to player-0: TURN 1 empty
+Sent to player-1: TURN 1 empty
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Bx 92 91 Gx 92 90 
+Sent to player-0: NEW Yc Ox
+Sent to player-0: TURN 0 Bx 92 91 Gx 92 90
+Sent to player-1: TURN 0 Bx 92 91 Gx 92 90
+Player-0 gained 4 points!
+
+Current game situation
+XXX 89  90  91  92  93  
+90  .   .   .   .   .   
+91  .   .   Gx  G*  .   
+92  .   Gx  Bx  .   .   
+93  .   .   .   .   .   
+
+Scores:
+human: 6
+human: 0
+Hands:
+human: [Pc, Oo, Bo, O*, Yc, Ox]
+human: [Yx, Bc, Ro, Pd, Yc, Gc]
+Tiles in pool: 92
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Yx 93 91 
+Sent to player-1: NEW P*
+Sent to player-0: TURN 1 Yx 93 91
+Sent to player-1: TURN 1 Yx 93 91
+Player-1 gained 3 points!
+
+Current game situation
+XXX 89  90  91  92  93  
+90  .   .   .   .   .   
+91  .   .   Gx  G*  .   
+92  .   Gx  Bx  .   .   
+93  .   .   Yx  .   .   
+94  .   .   .   .   .   
+
+Scores:
+human: 6
+human: 3
+Hands:
+human: [Pc, Oo, Bo, O*, Yc, Ox]
+human: [Bc, Ro, Pd, Yc, Gc, P*]
+Tiles in pool: 91
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE O* 90 92 Ox 90 91 
+Sent to player-0: NEW Ps Pc
+Sent to player-0: TURN 0 O* 90 92 Ox 90 91
+Sent to player-1: TURN 0 O* 90 92 Ox 90 91
+Player-0 gained 8 points!
+
+Current game situation
+XXX 89  90  91  92  93  
+89  .   .   .   .   .   
+90  .   .   Ox  O*  .   
+91  .   .   Gx  G*  .   
+92  .   Gx  Bx  .   .   
+93  .   .   Yx  .   .   
+94  .   .   .   .   .   
+
+Scores:
+human: 14
+human: 3
+Hands:
+human: [Pc, Oo, Bo, Yc, Ps, Pc]
+human: [Bc, Ro, Pd, Yc, Gc, P*]
+Tiles in pool: 89
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Gc 91 93 Bc 92 93 Yc 93 93 
+Sent to player-1: NEW Px Bo Gd
+Sent to player-0: TURN 1 Gc 91 93 Bc 92 93 Yc 93 93
+Sent to player-1: TURN 1 Gc 91 93 Bc 92 93 Yc 93 93
+Player-1 gained 6 points!
+
+Current game situation
+XXX 89  90  91  92  93  94  
+89  .   .   .   .   .   .   
+90  .   .   Ox  O*  .   .   
+91  .   .   Gx  G*  Gc  .   
+92  .   Gx  Bx  .   Bc  .   
+93  .   .   Yx  .   Yc  .   
+94  .   .   .   .   .   .   
+
+Scores:
+human: 14
+human: 9
+Hands:
+human: [Pc, Oo, Bo, Yc, Ps, Pc]
+human: [Ro, Pd, P*, Px, Bo, Gd]
+Tiles in pool: 86
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Pc 94 93 Yc 94 94 
+Sent to player-0: NEW Yx Od
+Sent to player-0: TURN 0 Pc 94 93 Yc 94 94
+Sent to player-1: TURN 0 Pc 94 93 Yc 94 94
+Player-0 gained 6 points!
+
+Current game situation
+XXX 89  90  91  92  93  94  95  
+89  .   .   .   .   .   .   .   
+90  .   .   Ox  O*  .   .   .   
+91  .   .   Gx  G*  Gc  .   .   
+92  .   Gx  Bx  .   Bc  .   .   
+93  .   .   Yx  .   Yc  .   .   
+94  .   .   .   .   Pc  Yc  .   
+95  .   .   .   .   .   .   .   
+
+Scores:
+human: 20
+human: 9
+Hands:
+human: [Pc, Oo, Bo, Ps, Yx, Od]
+human: [Ro, Pd, P*, Px, Bo, Gd]
+Tiles in pool: 84
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: SWAP Bo Ro 
+
+Current game situation
+XXX 89  90  91  92  93  94  95  
+89  .   .   .   .   .   .   .   
+90  .   .   Ox  O*  .   .   .   
+91  .   .   Gx  G*  Gc  .   .   
+92  .   Gx  Bx  .   Bc  .   .   
+93  .   .   Yx  .   Yc  .   .   
+94  .   .   .   .   Pc  Yc  .   
+95  .   .   .   .   .   .   .   
+
+Scores:
+human: 20
+human: 9
+Hands:
+human: [Pc, Oo, Bo, Ps, Yx, Od]
+human: [Pd, P*, Px, Gd, Gs, Bx]
+Tiles in pool: 84
+Sent to player-1: NEW Gs Bx
+Sent to player-0: TURN 1 empty
+Sent to player-1: TURN 1 empty
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Pc 93 94 
+Sent to player-0: NEW Go
+Sent to player-0: TURN 0 Pc 93 94
+Sent to player-1: TURN 0 Pc 93 94
+Player-0 gained 4 points!
+
+Current game situation
+XXX 89  90  91  92  93  94  95  
+89  .   .   .   .   .   .   .   
+90  .   .   Ox  O*  .   .   .   
+91  .   .   Gx  G*  Gc  .   .   
+92  .   Gx  Bx  .   Bc  .   .   
+93  .   .   Yx  .   Yc  Pc  .   
+94  .   .   .   .   Pc  Yc  .   
+95  .   .   .   .   .   .   .   
+
+Scores:
+human: 24
+human: 9
+Hands:
+human: [Oo, Bo, Ps, Yx, Od, Go]
+human: [Pd, P*, Px, Gd, Gs, Bx]
+Tiles in pool: 83
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Gd 91 94 Gs 91 95 
+Sent to player-1: NEW Yd Yc
+Sent to player-0: TURN 1 Gd 91 94 Gs 91 95
+Sent to player-1: TURN 1 Gd 91 94 Gs 91 95
+Player-1 gained 5 points!
+
+Current game situation
+XXX 89  90  91  92  93  94  95  96  
+89  .   .   .   .   .   .   .   .   
+90  .   .   Ox  O*  .   .   .   .   
+91  .   .   Gx  G*  Gc  Gd  Gs  .   
+92  .   Gx  Bx  .   Bc  .   .   .   
+93  .   .   Yx  .   Yc  Pc  .   .   
+94  .   .   .   .   Pc  Yc  .   .   
+95  .   .   .   .   .   .   .   .   
+
+Scores:
+human: 24
+human: 14
+Hands:
+human: [Oo, Bo, Ps, Yx, Od, Go]
+human: [Pd, P*, Px, Bx, Yd, Yc]
+Tiles in pool: 81
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Go 91 96 Oo 92 96 Bo 90 96 
+Sent to player-0: NEW Ys Bc Po
+Sent to player-0: TURN 0 Go 91 96 Oo 92 96 Bo 90 96
+Sent to player-1: TURN 0 Go 91 96 Oo 92 96 Bo 90 96
+Player-0 gained 15 points!
+
+Current game situation
+XXX 89  90  91  92  93  94  95  96  97  
+89  .   .   .   .   .   .   .   .   .   
+90  .   .   Ox  O*  .   .   .   Bo  .   
+91  .   .   Gx  G*  Gc  Gd  Gs  Go  .   
+92  .   Gx  Bx  .   Bc  .   .   Oo  .   
+93  .   .   Yx  .   Yc  Pc  .   .   .   
+94  .   .   .   .   Pc  Yc  .   .   .   
+95  .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 39
+human: 14
+Hands:
+human: [Ps, Yx, Od, Ys, Bc, Po]
+human: [Pd, P*, Px, Bx, Yd, Yc]
+Tiles in pool: 78
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Px 94 91 P* 94 90 Pd 94 89 
+Sent to player-1: NEW Gs Gc B*
+Sent to player-0: TURN 1 Px 94 91 P* 94 90 Pd 94 89
+Sent to player-1: TURN 1 Px 94 91 P* 94 90 Pd 94 89
+Player-1 gained 8 points!
+
+Current game situation
+XXX 88  89  90  91  92  93  94  95  96  97  
+89  .   .   .   .   .   .   .   .   .   .   
+90  .   .   .   Ox  O*  .   .   .   Bo  .   
+91  .   .   .   Gx  G*  Gc  Gd  Gs  Go  .   
+92  .   .   Gx  Bx  .   Bc  .   .   Oo  .   
+93  .   .   .   Yx  .   Yc  Pc  .   .   .   
+94  .   Pd  P*  Px  .   Pc  Yc  .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 39
+human: 22
+Hands:
+human: [Ps, Yx, Od, Ys, Bc, Po]
+human: [Bx, Yd, Yc, Gs, Gc, B*]
+Tiles in pool: 75
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Ps 94 88 Po 94 87 
+Sent to player-0: NEW R* Bo
+Sent to player-0: TURN 0 Ps 94 88 Po 94 87
+Sent to player-1: TURN 0 Ps 94 88 Po 94 87
+Player-0 gained 5 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  97  
+89  .   .   .   .   .   .   .   .   .   .   .   .   
+90  .   .   .   .   .   Ox  O*  .   .   .   Bo  .   
+91  .   .   .   .   .   Gx  G*  Gc  Gd  Gs  Go  .   
+92  .   .   .   .   Gx  Bx  .   Bc  .   .   Oo  .   
+93  .   .   .   .   .   Yx  .   Yc  Pc  .   .   .   
+94  .   Po  Ps  Pd  P*  Px  .   Pc  Yc  .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 44
+human: 22
+Hands:
+human: [Yx, Od, Ys, Bc, R*, Bo]
+human: [Bx, Yd, Yc, Gs, Gc, B*]
+Tiles in pool: 73
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Gs 90 94 Gc 89 94 
+Sent to player-1: NEW Bd G*
+Sent to player-0: TURN 1 Gs 90 94 Gc 89 94
+Sent to player-1: TURN 1 Gs 90 94 Gc 89 94
+Player-1 gained 3 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  97  
+88  .   .   .   .   .   .   .   .   .   .   .   .   
+89  .   .   .   .   .   .   .   .   Gc  .   .   .   
+90  .   .   .   .   .   Ox  O*  .   Gs  .   Bo  .   
+91  .   .   .   .   .   Gx  G*  Gc  Gd  Gs  Go  .   
+92  .   .   .   .   Gx  Bx  .   Bc  .   .   Oo  .   
+93  .   .   .   .   .   Yx  .   Yc  Pc  .   .   .   
+94  .   Po  Ps  Pd  P*  Px  .   Pc  Yc  .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 44
+human: 25
+Hands:
+human: [Yx, Od, Ys, Bc, R*, Bo]
+human: [Bx, Yd, Yc, B*, Bd, G*]
+Tiles in pool: 71
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Bc 90 97 Bo 89 97 
+Sent to player-0: NEW Rs Bx
+Sent to player-0: TURN 0 Bc 90 97 Bo 89 97
+Sent to player-1: TURN 0 Bc 90 97 Bo 89 97
+Player-0 gained 4 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  97  98  
+88  .   .   .   .   .   .   .   .   .   .   .   .   .   
+89  .   .   .   .   .   .   .   .   Gc  .   .   Bo  .   
+90  .   .   .   .   .   Ox  O*  .   Gs  .   Bo  Bc  .   
+91  .   .   .   .   .   Gx  G*  Gc  Gd  Gs  Go  .   .   
+92  .   .   .   .   Gx  Bx  .   Bc  .   .   Oo  .   .   
+93  .   .   .   .   .   Yx  .   Yc  Pc  .   .   .   .   
+94  .   Po  Ps  Pd  P*  Px  .   Pc  Yc  .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 48
+human: 25
+Hands:
+human: [Yx, Od, Ys, R*, Rs, Bx]
+human: [Bx, Yd, Yc, B*, Bd, G*]
+Tiles in pool: 69
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE B* 89 92 
+Sent to player-1: NEW Rs
+Sent to player-0: TURN 1 B* 89 92
+Sent to player-1: TURN 1 B* 89 92
+Player-1 gained 3 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  97  98  
+88  .   .   .   .   .   .   .   .   .   .   .   .   .   
+89  .   .   .   .   .   .   B*  .   Gc  .   .   Bo  .   
+90  .   .   .   .   .   Ox  O*  .   Gs  .   Bo  Bc  .   
+91  .   .   .   .   .   Gx  G*  Gc  Gd  Gs  Go  .   .   
+92  .   .   .   .   Gx  Bx  .   Bc  .   .   Oo  .   .   
+93  .   .   .   .   .   Yx  .   Yc  Pc  .   .   .   .   
+94  .   Po  Ps  Pd  P*  Px  .   Pc  Yc  .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 48
+human: 28
+Hands:
+human: [Yx, Od, Ys, R*, Rs, Bx]
+human: [Bx, Yd, Yc, Bd, G*, Rs]
+Tiles in pool: 68
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE R* 88 92 Rs 88 91 
+Sent to player-0: NEW Y* Bs
+Sent to player-0: TURN 0 R* 88 92 Rs 88 91
+Sent to player-1: TURN 0 R* 88 92 Rs 88 91
+Player-0 gained 6 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  97  98  
+87  .   .   .   .   .   .   .   .   .   .   .   .   .   
+88  .   .   .   .   .   Rs  R*  .   .   .   .   .   .   
+89  .   .   .   .   .   .   B*  .   Gc  .   .   Bo  .   
+90  .   .   .   .   .   Ox  O*  .   Gs  .   Bo  Bc  .   
+91  .   .   .   .   .   Gx  G*  Gc  Gd  Gs  Go  .   .   
+92  .   .   .   .   Gx  Bx  .   Bc  .   .   Oo  .   .   
+93  .   .   .   .   .   Yx  .   Yc  Pc  .   .   .   .   
+94  .   Po  Ps  Pd  P*  Px  .   Pc  Yc  .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 54
+human: 28
+Hands:
+human: [Yx, Od, Ys, Bx, Y*, Bs]
+human: [Bx, Yd, Yc, Bd, G*, Rs]
+Tiles in pool: 66
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Bd 88 97 Bx 87 97 
+Sent to player-1: NEW Ps Yo
+Sent to player-0: TURN 1 Bd 88 97 Bx 87 97
+Sent to player-1: TURN 1 Bd 88 97 Bx 87 97
+Player-1 gained 4 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  97  98  
+86  .   .   .   .   .   .   .   .   .   .   .   .   .   
+87  .   .   .   .   .   .   .   .   .   .   .   Bx  .   
+88  .   .   .   .   .   Rs  R*  .   .   .   .   Bd  .   
+89  .   .   .   .   .   .   B*  .   Gc  .   .   Bo  .   
+90  .   .   .   .   .   Ox  O*  .   Gs  .   Bo  Bc  .   
+91  .   .   .   .   .   Gx  G*  Gc  Gd  Gs  Go  .   .   
+92  .   .   .   .   Gx  Bx  .   Bc  .   .   Oo  .   .   
+93  .   .   .   .   .   Yx  .   Yc  Pc  .   .   .   .   
+94  .   Po  Ps  Pd  P*  Px  .   Pc  Yc  .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 54
+human: 32
+Hands:
+human: [Yx, Od, Ys, Bx, Y*, Bs]
+human: [Yd, Yc, G*, Rs, Ps, Yo]
+Tiles in pool: 64
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Received from player-0: MOVE Y* 87 92 Ys 87 93 Yx 87 94 
+Sent to player-0: NEW Oc R* Od
+Sent to player-0: TURN 0 Y* 87 92 Ys 87 93 Yx 87 94
+Sent to player-1: TURN 0 Y* 87 92 Ys 87 93 Yx 87 94
+Player-0 gained 8 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  97  98  
+86  .   .   .   .   .   .   .   .   .   .   .   .   .   
+87  .   .   .   .   .   .   Y*  Ys  Yx  .   .   Bx  .   
+88  .   .   .   .   .   Rs  R*  .   .   .   .   Bd  .   
+89  .   .   .   .   .   .   B*  .   Gc  .   .   Bo  .   
+90  .   .   .   .   .   Ox  O*  .   Gs  .   Bo  Bc  .   
+91  .   .   .   .   .   Gx  G*  Gc  Gd  Gs  Go  .   .   
+92  .   .   .   .   Gx  Bx  .   Bc  .   .   Oo  .   .   
+93  .   .   .   .   .   Yx  .   Yc  Pc  .   .   .   .   
+94  .   Po  Ps  Pd  P*  Px  .   Pc  Yc  .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 62
+human: 32
+Hands:
+human: [Od, Bx, Bs, Oc, R*, Od]
+human: [Yd, Yc, G*, Rs, Ps, Yo]
+Tiles in pool: 61
+clientHandler-0 wakes server
+Sent to player-0: NEXT 1
+Sent to player-1: NEXT 1
+Received from player-1: MOVE Yc 86 94 Yd 86 93 Yo 86 95 
+Sent to player-1: NEW B* Os Pd
+Sent to player-0: TURN 1 Yc 86 94 Yd 86 93 Yo 86 95
+Sent to player-1: TURN 1 Yc 86 94 Yd 86 93 Yo 86 95
+Player-1 gained 7 points!
+
+Current game situation
+XXX 86  87  88  89  90  91  92  93  94  95  96  97  98  
+85  .   .   .   .   .   .   .   .   .   .   .   .   .   
+86  .   .   .   .   .   .   .   Yd  Yc  Yo  .   .   .   
+87  .   .   .   .   .   .   Y*  Ys  Yx  .   .   Bx  .   
+88  .   .   .   .   .   Rs  R*  .   .   .   .   Bd  .   
+89  .   .   .   .   .   .   B*  .   Gc  .   .   Bo  .   
+90  .   .   .   .   .   Ox  O*  .   Gs  .   Bo  Bc  .   
+91  .   .   .   .   .   Gx  G*  Gc  Gd  Gs  Go  .   .   
+92  .   .   .   .   Gx  Bx  .   Bc  .   .   Oo  .   .   
+93  .   .   .   .   .   Yx  .   Yc  Pc  .   .   .   .   
+94  .   Po  Ps  Pd  P*  Px  .   Pc  Yc  .   .   .   .   
+95  .   .   .   .   .   .   .   .   .   .   .   .   .   
+
+Scores:
+human: 62
+human: 39
+Hands:
+human: [Od, Bx, Bs, Oc, R*, Od]
+human: [G*, Rs, Ps, B*, Os, Pd]
+Tiles in pool: 58
+clientHandler-1 wakes server
+Sent to player-0: NEXT 0
+Sent to player-1: NEXT 0
+Sent to player-0: KICK 0 6 Did not make a move in time
+Sent to player-1: KICK 0 6 Did not make a move in time
+Closed the connection with player-0
+Sent to player-1: WINNER 1
+Closed the connection with player-1
